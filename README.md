@@ -47,7 +47,7 @@ management](https://github.com/nih-cfde/project-management/)
 ## Code of Conduct
 
 Activities and participants in this repository are protected by the
-[Code of Conduct](./CODE_OF_CONDUCT.md). By participating in this
+[Code of Conduct](./CodeOfConduct.md). By participating in this
 repository you agree to abide by the Code of Conduct.
 
 ## Contributing
