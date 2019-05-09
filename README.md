@@ -13,7 +13,7 @@ GitHub, mailing list, calendars and other internal documents.
 
 If you are having trouble accessing something you belive you should have access to, please check
 that you have completed all the steps of the [Onboarding Checklist](OnboardingChecklist.md) before 
-emailing the HelpDesk at [e-mail us](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
+emailing the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
 
 ## General Resources
 
