@@ -51,4 +51,4 @@ for contributing to this repository.
 
 Contents of this repository are available under the Creative Commons
 Zero license, meaning that they are dedicated to the public domain.
-Please see [the license file](./LICENSE.md) for more information.
+Please see [the license file](./License.md) for more information.
