@@ -25,21 +25,16 @@ emailing the HelpDesk at [e-mail us](mailto:autohelp+int+851+6545985337373134556
 
 ## Project Management Resources
 
-Have a new team member? Send them to the [Onboarding form](https://forms.gle/H3ThBxzYYHdauaKJ8)
+Have a *new* team member? Send them to the [Onboarding form](https://forms.gle/H3ThBxzYYHdauaKJ8)
 
-Our [monthly reporting SOP](MonthlyReporting.md) which documents how we
-generate our monthly reports to NIH.
+Have an *exiting* team member? Send them to the [Offboarding form](https://forms.gle/TQMmwvSGaDCFuVXP9)
+
+If you have a team member who needs to *alter* access levels or affiliations please have them use the link in their Onboarding form Confirmation email to update their Onboarding Form. They can also edit their Onboarding info by going to the [Onboarding form](https://forms.gle/H3ThBxzYYHdauaKJ8) while signed in to Google with the email they originally used to Onboard.
+
+Complete your [monthly reporting form](MonthlyReporting.md) by the *last* business day of each month
 
 [Central repo for project
 management](https://github.com/nih-cfde/project-management/)
-
-## Checklists
-
-[Adding a new Consortium member](checklist-add-member.md)
-
-[Creating a new mailing list](checklist-create-new-mailing-list.md)
-
-[Coordinating a teleconference](checklist-organize-teleconf.md)
 
 ## Code of Conduct
 
