@@ -25,16 +25,25 @@ emailing the HelpDesk at [e-mail us](mailto:autohelp+int+851+6545985337373134556
 
 ## Project Management Resources
 
+### Personnel
+
 Have a *new* team member? Send them to the [Onboarding form](https://forms.gle/H3ThBxzYYHdauaKJ8)
 
 Have an *exiting* team member? Send them to the [Offboarding form](https://forms.gle/TQMmwvSGaDCFuVXP9)
 
 If you have a team member who needs to *alter* access levels or affiliations please have them use the link in their Onboarding form Confirmation email to update their Onboarding Form. They can also edit their Onboarding info by going to the [Onboarding form](https://forms.gle/H3ThBxzYYHdauaKJ8) while signed in to Google with the email they originally used to Onboard.
 
-Complete your [monthly reporting form](MonthlyReporting.md) by the *last* business day of each month
+### Reporting
 
-[Central repo for project
-management](https://github.com/nih-cfde/project-management/)
+Complete your monthly reporting form by the *last* business day of each month. [Reporting Guide](https://github.com/nih-cfde/project-management/MonthlyReporting.md)
+
+Submit your deliverables by the *last* business day of the month they are due. [Delivery Guide](https://github.com/nih-cfde/project-management/Delivery.md)
+
+Submit your financial report by the *last* business day of the quarter. [Financial Report Guide](https://github.com/nih-cfde/project-management/FinancialReporting.md)
+
+Request changes to delivery dates and changes in deliverables by contacting <bob> [Change Request Guide](https://github.com/nih-cfde/project-management/ChangeRequests.md)
+
+[Central repo for project management](https://github.com/nih-cfde/project-management/)
 
 ## Code of Conduct
 
