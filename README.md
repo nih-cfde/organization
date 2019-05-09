@@ -33,13 +33,13 @@ If you have a team member who needs to *alter* access levels or affiliations ple
 
 ### Reporting
 
-Complete your monthly reporting form by the *last* business day of each month. [Reporting Guide](https://github.com/nih-cfde/project-management/MonthlyReporting.md)
+Complete your monthly reporting form by the *last* business day of each month. [Reporting Guide](https://github.com/nih-cfde/project-management/blob/master/MonthlyReportingGuide.md)
 
-Submit your deliverables by the *last* business day of the month they are due. [Delivery Guide](https://github.com/nih-cfde/project-management/Delivery.md)
+Submit your deliverables by the *last* business day of the month they are due. [Delivery Guide](https://github.com/nih-cfde/project-management/blob/master/DeliveryGuide.md)
 
-Submit your financial report by the *last* business day of the quarter. [Financial Report Guide](https://github.com/nih-cfde/project-management/FinancialReporting.md)
+Submit your financial report by the *last* business day of the quarter. [Financial Report Guide](https://github.com/nih-cfde/project-management/blob/master/FinancialReportingGuide.md)
 
-Request changes to delivery dates and changes in deliverables by contacting <bob> [Change Request Guide](https://github.com/nih-cfde/project-management/ChangeRequests.md)
+Request changes to delivery dates and changes in deliverables by contacting <bob> [Change Request Guide](https://github.com/nih-cfde/project-management/blob/master/ChangeRequestGuide.md)
 
 [Central repo for project management](https://github.com/nih-cfde/project-management/)
 
