@@ -37,6 +37,12 @@ points of contact.
 | Admin Contact          | Sherry Jenkins | <Sherry.Jenkins@mssm.edu> | sherry-jenkins  |
 | Project Manager        | Sherry Jenkins | <Sherry.Jenkins@mssm.edu> | sherry-jenkins  |
 
+## NIH
+
+| Role                   | Name           | Email Address             | GitHub username |
+| ---------------------- | -------------- | ------------------------- | --------------- |
+| Project Manager | Jen Yttri  | jyttri@mitre.org    |    jyttri   |
+
 ## Sansone Group
 
 | Role                   | Name           | Email Address             | GitHub username |
