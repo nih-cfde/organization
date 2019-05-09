@@ -2,7 +2,7 @@
 
 ## CFDE Code of Conduct
 
-All members of the Commons are expected to agree with the following code
+All members of the CFDE are expected to agree with the following code
 of conduct. We will enforce this code as needed. We expect cooperation
 from all members to help ensuring a safe environment for everybody.
 
