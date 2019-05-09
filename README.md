@@ -19,8 +19,6 @@ emailing the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.
 
 [A list of mailing lists](MailingLists.md)
 
-[A list of working groups](WorkingGroups.md)
-
 [Points of Contact](PointsOfContact.md)
 
 ## Project Management Resources
