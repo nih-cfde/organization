@@ -9,7 +9,7 @@ points of contact.
 | Role                   | Name               | Email Address       | GitHub username |
 | ---------------------- | ------------------ | ------------------- | --------------- |
 | Principal Investigator | C. Titus Brown     | <titus@idyll.org>   | ctb             |
-| Admin Contact:         | C. Titus Brown     | <titus@idyll.org>   | ctb             |
+| Admin Contact:         | Amanda Charbonneau | <achar@ucdavis.edu> | ACharbonneau    |
 | Project Manager:       | C. Titus Brown     | <titus@idyll.org>   | ctb             |
 | Project Manager:       | Amanda Charbonneau | <achar@ucdavis.edu> | ACharbonneau    |
 
