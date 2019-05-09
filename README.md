@@ -11,9 +11,9 @@ request.
 New members *must* fill out [this form](https://forms.gle/H3ThBxzYYHdauaKJ8) to gain access to our 
 GitHub, mailing list, calendars and other internal documents.
 
-If you are having trouble accessing something you belive you should have access to, please check
-that you have completed all the steps of the [Onboarding Checklist](OnboardingChecklist.md) before 
-emailing the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
+If you are having trouble accessing something you belive you should have access to, please visit our
+[Onboarding Help](OnboardingHelp.md) or 
+email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
 
 ## General Resources
 
