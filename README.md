@@ -48,7 +48,7 @@ Request changes to delivery dates and changes in deliverables by contacting <bob
 ## Code of Conduct
 
 Activities and participants in this repository are protected by the
-[Code of Conduct](./CodeOfConduct.md). By participating in this
+[Code of Conduct](./CODEOFCONDUCT.md). By participating in this
 repository you agree to abide by the Code of Conduct.
 
 ## Contributing
@@ -60,4 +60,4 @@ for contributing to this repository.
 
 Contents of this repository are available under the Creative Commons
 Zero license, meaning that they are dedicated to the public domain.
-Please see [the license file](./License.md) for more information.
+Please see [the license file](./LICENSE.md) for more information.
