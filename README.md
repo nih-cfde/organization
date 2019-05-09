@@ -9,29 +9,26 @@ request.
 ## Onboarding
 
 New members *must* fill out [this form](https://forms.gle/H3ThBxzYYHdauaKJ8) to gain access to our 
-GitHub, mailing list, calendars and other internal documents
+GitHub, mailing list, calendars and other internal documents.
 
+If you are having trouble accessing something you belive you should have access to, please check
+that you have completed all the steps of the [Onboarding Checklist](OnboardingChecklist.md) before 
+emailing the HelpDesk at [e-mail us](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
 
-## Resources
+## General Resources
 
-[Consortium Qverview](onboarding/consortium-overview.md#the-data-commons-pilot-phase-consortium)
+[A list of mailing lists](MailingLists.md)
 
-[A list of mailing lists](00-MAILING-LISTS.md)
+[A list of working groups](WorkingGroups.md)
 
-[A list of working groups](working-groups/README.md)
+[Points of Contact](PointsOfContact.md)
 
-[A 50,000 Foot view of DCPPC Project
-Management](project-management/README.md)
+## Project Management Resources
 
+Have a new team member? Send them to the [Onboarding form](https://forms.gle/H3ThBxzYYHdauaKJ8)
 
-## Reporting and Delivery
-
-Our [monthly reporting SOP](reporting/README.md) which documents how we
-use the [project
-management](https://github.com/dcppc/project-management) generate our monthly reports to NIH.
-
-
-## Important GitHub repositories
+Our [monthly reporting SOP](MonthlyReporting.md) which documents how we
+generate our monthly reports to NIH.
 
 [Central repo for project
 management](https://github.com/nih-cfde/project-management/)
