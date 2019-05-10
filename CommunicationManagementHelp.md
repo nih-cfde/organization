@@ -29,6 +29,9 @@ If you are having problems *accessing* these services, please see the [Onboardin
       - **[Change email frequency](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#altering-your-email-frequency)**
       - **[Create a new mailing list](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#creating-a-new-mailing-list)**
 - **[Google Drive Teams](https://github.com/nih-cfde/organization/new/master#google-drive)**
+   - **[Accessing the Drives](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#accessing-the-drives)**
+   - **[Sharing Files](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#sharing-files)**
+   
 - **[Slack](https://github.com/nih-cfde/organization/new/master#slack)**
 
 ### GitHub Help
@@ -224,9 +227,7 @@ To copy the sharable link:
 - Right-click on the desired file and select `Share` OR click on the desired file and click the share button near teh top right of the screen
 - Click 'WHO HAS ACCESS' in the bottom left corner of the dialogue box that appears
 - Click the small arrow next to 'Link sharing off' <img src="/images/links1.png" alt="Link Sharing Off" width="300"/>
-- Click the `copy` button next to the URL <img src="/images/links2.png" alt="Link Sharing Off" width="300"/>
-
-
+- Click the `COPY` button next to the URL <img src="/images/links2.png" alt="Link Sharing Off" width="300"/>
 
 
 If you did not find the solution to your problem on this page, please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
@@ -235,6 +236,8 @@ If you did not find the solution to your problem on this page, please email the 
 
 
 ### Slack Help
+
+
 
 If you did not find the solution to your problem on this page, please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
 
