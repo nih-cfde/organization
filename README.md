@@ -2,7 +2,7 @@
 
 This is the central organizational repository for the Common Fund Data Ecosystem
 
-To modify or update this repository, please do any of: create a pull
+To modify or update this repository: create a pull
 request, file an issue, or [e-mail us](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io) with your
 request.
 
