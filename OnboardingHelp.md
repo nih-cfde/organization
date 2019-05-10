@@ -9,9 +9,13 @@ We are using a number of services to communicate and share files:
   
 To begin onboarding, you should fill out [this form](https://forms.gle/wsBAYevSQNVfG5eF9)
 
-Within 2 business days of submitting the onboarding form, you will receive an invitation to join groups.io
-You will also receive invitations to join the cfdeworkspace on Slack and nih-cfde on GitHub, and 
-a confirmation that you have been added to our google drive teams.
+Within 2 business days of submitting the onboarding form, you will receive 
+- an invitation to join the cfdeworkspace on Slack
+- an invitation to join nih-cfde on GitHub
+
+**You *must* accept both invitations**
+
+You will also receive a number of confirmation emails for our mailing lists and google drive.
 
 If you did not receive these emails, please check your spam folder. 
 
