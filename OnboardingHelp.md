@@ -64,3 +64,4 @@ Our workspace is `cfdeworkspace`
 For help configuring your Slack notifications and other settings see [Communication Management](https://github.com/nih-cfde/organization/new/master#slack)
 
 
+If you did not find a solution to your problem on this page, please check the [Communication Management FAQ](./CommunicationManagementHelp.md) or email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
