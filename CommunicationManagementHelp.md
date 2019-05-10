@@ -135,15 +135,13 @@ If you have turned off auto-watching, you will need to manually start watching n
 To watch a new repository:
 - Go to the main page of that repository (for our project management repo that would be: https://github.com/nih-cfde/project-management)
 - In the upper right corner click the `Watch` button and select 'Watching'
-
-See [the GitHub help](https://help.github.com/en/articles/watching-and-unwatching-repositories#watching-a-single-repository) for more info
+- See [the GitHub help](https://help.github.com/en/articles/watching-and-unwatching-repositories#watching-a-single-repository) for more info
 
 To watch a new team:
 - Navigate to the nih-cfde Teams page: https://github.com/orgs/nih-cfde/teams
 - Click the name of the Team you are interested in (you may have to use the arrows on the right to uncollapse the team lists)
 - On the left side of the screen, click the `Watch` button and select 'Watching'
-
-See [the GitHub help](https://help.github.com/en/articles/watching-and-unwatching-team-discussions#watching-a-single-teams-discussions)
+- See [the GitHub help](https://help.github.com/en/articles/watching-and-unwatching-team-discussions#watching-a-single-teams-discussions) for more info
 
 If you did not find the solution to your problem on this page, please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
 
