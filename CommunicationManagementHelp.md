@@ -44,7 +44,7 @@ You should get something like this:
 For each repository in the list, decide how often you want to hear about it. There are four options: 'Not Watching', 'Releases Only', 'Watching' and 'Ignoring'
 <img src="/images/watchingoptions.png" alt="Watching Options" width="600"/>
 
-For repositories that you actively work in, and would like to be notified of things like PRs and conversations, choose 'Watching'. You can set what types of actions send you notifications using the [Notification Settings] instructions below.
+For repositories that you actively work in, and would like to be notified of things like PRs and conversations, choose 'Watching'. You can set what types of actions send you notifications using the [Notification Settings](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#notification-settings) instructions below.
 
 For most other repositories, you will likely want to set them to 'Not Watching' or 'Releases Only'. Both of these options will
 only send you notifications if someone specifically invokes you or your team in a PR, comment, etc.
