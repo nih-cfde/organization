@@ -12,6 +12,25 @@ altering common settings as well as links out to more detailed information.
 
 If you are having problems *accessing* these services, please see the [Onboarding Help](https://github.com/nih-cfde/organization/blob/master/OnboardingHelp.md)
 
+## Table of Contents
+
+- **[GitHub](https://github.com/nih-cfde/organization/new/master#github)**
+   - **[Definitions](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#definitions)**
+   - **[Changing Notifications](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#changing-notifications)**
+       - **[Watching Settings](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#watching-settings)**
+       - **[Notifications Settings](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#notification-settings)**
+       - **[Subscriptions](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#subscriptions)**
+       - **[Watching Repos and Teams](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#watching-repos-and-teams)**
+- **[groups.io](https://github.com/nih-cfde/organization/new/master#groupsio)**
+   - **[Getting Mail](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#getting-mail)**
+   - **[Managing Subscriptions](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#managing-subscriptions)**
+      - **[Join a Mailing List](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#join-a-mailing-list)**
+      - **[Leave a Mailing List](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#leave-a-mailing-list)**
+      - **[Change email frequency](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#altering-your-email-frequency)**
+      - **[Create a new mailing list](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#creating-a-new-mailing-list)**
+- **[Google Drive Teams](https://github.com/nih-cfde/organization/new/master#google-drive)**
+- **[Slack](https://github.com/nih-cfde/organization/new/master#slack)**
+
 ### GitHub Help
 
 #### Definitions
@@ -147,7 +166,7 @@ You can leave a mailing list by:
 - Clicking on `Subscription` near the top right of the screen
 - Clicking on the `Unsubscribe` button at the bottom of the page
 
-##### Altering your email frequency
+##### Changing your email frequency
 You can alter your subscription to a mailing list you already receive by:
 - Navigating to https://cfde.groups.io/g/General
 - Clicking on `Your Groups` at the top of the page and selecting the specific list you are having problems with
