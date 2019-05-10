@@ -312,10 +312,13 @@ In a private *message*, (Direct message) no one can leave or join the message gr
 Slack supports chat threading. This allows you to continue conversations in a busy Channel without all the replies getting jumbled together. 
 To start a new thread:
 - Choose a message in the main chat window that you'd like to continue talking about
-- Hover over the message with your cursor
+- Hover over the message with your cursor 
+<img src="/images/thread.png" alt="Start a thread" width="400"/>
 - On the right hand side, click the speech bubble icon labeled 'Start a thread'
-- This will split your chat window and put your message directly after the reply
-- In busy channels where the original message quickly scrolls off the screen, you can easily track replies to your threads by clicking on 'Threads' at the top of the sidebar
+- This will split your chat window and put your message directly after the reply 
+<img src="/images/thread2.png" alt="Start a thread" width="400"/>
+- In busy channels where the original message quickly scrolls off the screen, you can easily track replies to your threads by clicking on 'Threads' at the top of the sidebar 
+<img src="/images/threads3.png" alt="Start a thread" width="400"/>
 
 #### Search
 Slack supports global search of your messages, so you don't have to remember what channel you read that important thing in. To search, type your query in the search bar in the top right corner. It doesn't matter what channel you are in when you start your search. 
