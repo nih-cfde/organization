@@ -1,4 +1,4 @@
-## CFDE Communication Management Overview
+## CFDE Communication Management Help Overview
 
 We are using a number of services to communicate and share files:
   - [Github](https://github.com/nih-cfde/organization/new/master#github): Code sharing, organization and deliverables tracking
@@ -12,7 +12,7 @@ altering common settings as well as links out to more detailed information.
 
 If you are having problems *accessing* these services, please see the [Onboarding Help](https://github.com/nih-cfde/organization/blob/master/OnboardingHelp.md)
 
-### GitHub
+### GitHub Help
 
 #### Definitions
 
@@ -101,19 +101,79 @@ If you have turned off auto-watching, you will need to manually start watching n
 
 To watch a new repository:
 - Go to the main page of that repository (for our project management repo that would be: https://github.com/nih-cfde/project-management)
-- In the upper right corner click the 'Watch' button and select 'Watching'
+- In the upper right corner click the `Watch` button and select 'Watching'
 
 See [the GitHub help](https://help.github.com/en/articles/watching-and-unwatching-repositories#watching-a-single-repository) for more info
 
 To watch a new team:
 - Navigate to the nih-cfde Teams page: https://github.com/orgs/nih-cfde/teams
 - Click the name of the Team you are interested in (you may have to use the arrows on the right to uncollapse the team lists)
-- On the left side of the screen, click the 'Watch' button and select 'Watching'
+- On the left side of the screen, click the `Watch` button and select 'Watching'
 
 See [the GitHub help](https://help.github.com/en/articles/watching-and-unwatching-team-discussions#watching-a-single-teams-discussions)
 
-### groups.io
+If you did not find the solution to your problem on this page, please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
 
-### Google Drive
+### groups.io Help
 
-### Slack
+We are using groups.io to manage our mailing lists. Our overall groups.io account is restricted access and can only be joined 
+by filling out the [onboarding form](https://forms.gle/wsBAYevSQNVfG5eF9), however most mailing lists are unrestricted to members, and you can edit your subscriptions at any time. See the list of [available mailing lists here](./MailingLists.md).
+
+#### Getting Mail
+If you are not receiving or intermittedly receiving, mail, you may need to add CFDE@groups.io to your safe sender list in your email client’s contacts.
+
+You should also check your subscription settings by:
+- Navigating to https://cfde.groups.io/g/General
+- Clicking on `Your Groups` at the top of the page and selecting the specific list you are having problems with
+- Clicking on `Subscription` near the top left of the screen
+- Ensuring that your 'Email Delivery' option is correct. Most users will want 'Individual Messages', 'Full Featured Digest', or 'Daily Summary', which will email you every message, messages in groups of 12, or a summary of all the days messages, respectively. 
+
+#### Managing Subscriptions
+
+##### Join a mailing list
+You can add yourself to a mailing list by:
+- Navigating to https://cfde.groups.io/g/General
+- Clicking on `Subgroups` on the left side of the screen
+- Scrolling down to Subgroups You Can Join'
+- Clicking the name of the mailing list you'd like to join
+- Clicking the `Join This Group` or `Apply For Membership In This Group` button near the bottom of the page. Groups with a `Join This Group` button will add you instantly. `Apply For Membership In This Group` groups are restricted and your request must be approved by a moderator.
+
+##### Leave a mailing list
+You can leave a mailing list by:
+- Navigating to https://cfde.groups.io/g/General
+- Clicking on `Subgroups` on the left side of the screen
+- Finding the list in 'Subgroups You Belong To'
+- Clicking the name of the mailing list you'd like to leave
+- Clicking on `Subscription` near the top right of the screen
+- Clicking on the `Unsubscribe` button at the bottom of the page
+
+##### Altering your email frequency
+You can alter your subscription to a mailing list you already receive by:
+- Navigating to https://cfde.groups.io/g/General
+- Clicking on `Your Groups` at the top of the page and selecting the specific list you are having problems with
+- Clicking on `Subscription` near the top right of the screen
+- Ensuring that your 'Email Delivery' option is correct. Most users will want 'Individual Messages', 'Full Featured Digest', or 'Daily Summary', which will email you every message, messages in groups of 12, or a summary of all the days messages, respectively. 
+
+##### Creating a new mailing list
+To create a new mailing list:
+- Navigate to https://cfde.groups.io/g/General
+- Click on `Subgroups` on the left side of the screen
+- Click on the `+ Create Subgroup`
+- For your 'Subgroup Email Address', choose something short but descriptive
+- Add a description to help other users decide whether they want to join your list
+- For 'Visibility', we recommend choosing 'Subgroup listed in parent group, messages viewable by parent group members'. This will keep your archive private to the CFDE, but allow members to search your archives without joining
+- Accept the warning about making messages private
+- Click on `+ Create Subgroup`
+- Make an issue or PR to update https://github.com/nih-cfde/organization/blob/master/MailingLists.md
+- Consider advertising your new list by posting it in General on Slack or submitting it the 'Announcements' mailing list
+
+If you did not find the solution to your problem on this page, please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
+
+### Google Drive Help
+If you did not find the solution to your problem on this page, please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
+
+
+
+### Slack Help
+
+If you did not find the solution to your problem on this page, please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
