@@ -15,14 +15,18 @@ a confirmation that you have been added to our google drive teams.
 
 If you did not receive these emails, please check your spam folder. 
 
-## Fixes for Common Problems
+## Fixes for Common Access Problems
 
 ### GitHub
 If you cannot find your GitHub invitation, follow this link to accept on the web: https://github.com/orgs/nih-cfde/invitation
 
+For help configuring your GitHub notifications and other settings see [Communication Management](https://github.com/nih-cfde/organization/new/master#github)
+
 ### groups.io
 You may need to add CFDE@groups.io to your safe sender list in your email client’s contacts
 to reliably receive mailing list emails.
+
+For help configuring your groups.io mailing frequency and other settings see [Communication Management](https://github.com/nih-cfde/organization/new/master#groupsio)
 
 ### Google Drive
 You must be logged into Google Drive using the email you specified in your onboarding form. 
@@ -46,6 +50,13 @@ You may need to click on the small arrow to see the list of drives you have acce
 If you have trouble accessing drives, or believe you have been assigned the wrong permissions,
 please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
 
+For help configuring your Google Drive notifications and other settings see [Communication Management](https://github.com/nih-cfde/organization/new/master#google-drive)
+
+
 ### Slack
 If you cannot find your Slack invitation, follow this link to accept it on the web: https://slack.com/signin 
 Our workspace is `cfdeworkspace`
+
+For help configuring your Slack notifications and other settings see [Communication Management](https://github.com/nih-cfde/organization/new/master#slack)
+
+
