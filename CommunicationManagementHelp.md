@@ -153,7 +153,7 @@ We are using groups.io to manage our mailing lists. Our overall groups.io accoun
 by filling out the [onboarding form](https://forms.gle/wsBAYevSQNVfG5eF9), however most mailing lists are unrestricted to members, and you can edit your subscriptions at any time. See the list of [available mailing lists here](./MailingLists.md).
 
 #### Getting Mail
-If you are not receiving or intermittedly receiving, mail, you may need to add CFDE@groups.io to your safe sender list in your email client’s contacts.
+If you are not receiving or are only intermittedly receiving, mail, you may need to add CFDE@groups.io to your safe sender list in your email client’s contacts.
 
 You should also check your subscription settings by:
 - Navigating to https://cfde.groups.io/g/General
@@ -216,8 +216,9 @@ You will have access to two or three different CFDE drives.
  - CFDE Steering: This is a restricted access folder for budgets, high level reports and other documents
  intended soley for communication between PIs and the NIH
  
- All interactions in the CFDE Google Drive spaces are bound by the [CFDE Code of Conduct](./CODEOFCONDUCT.md).
- All documents in the CFDE Google Drive spaces are assumed to be under the [CFDE License](./LICENSE.md) unless another license is specified in the document.
+ **All interactions in the CFDE Google Drive spaces are bound by the [CFDE Code of Conduct](./CODEOFCONDUCT.md).**
+ 
+ **All documents in the CFDE Google Drive spaces are assumed to be under the [CFDE License](./LICENSE.md) unless another license is specified in the document.**
  
 #### Accessing the drives
 
