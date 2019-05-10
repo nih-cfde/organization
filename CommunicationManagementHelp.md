@@ -30,10 +30,20 @@ If you are having problems *accessing* these services, please see the [Onboardin
       - **[Create a new mailing list](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#creating-a-new-mailing-list)**
 - **[Google Drive Teams](https://github.com/nih-cfde/organization/new/master#google-drive)**
    - **[Accessing the Drives](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#accessing-the-drives)**
-   - **[Sharing Files](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#sharing-files)**
-   
+   - **[Sharing Files](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#sharing-files)** 
 - **[Slack](https://github.com/nih-cfde/organization/new/master#slack)**
-
+   - **[Channels](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#channels)**
+      - **[Joining a Channel](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#joining-channels)**
+      - **[Leaving a Channel](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#leaving-a-channel)**
+      - **[Adding a Channel](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#adding-a-channel)**
+   - **[Getting someones attention](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#getting-someones-attention)
+      - **[Callouts](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#call-outs)**
+      - **[Private messages (Direct messages](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#private-messages)**
+      - **[Private message vs Private channel](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#private-messages-vs-private-channels)**
+   - **[Threads](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#threads)**
+   - **[Search](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#search)**
+   - **[Apps](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#apps)**
+   - **[Reactions](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#reactions)**
 ### GitHub Help
 
 #### Definitions
@@ -247,8 +257,11 @@ All interactions in the CFDE Slack, including private messages and rooms are bou
 #### Channels
 ##### Joining Channels
 By default, everyone is added to #general and #random, but you can join as many other open channels as you like. To see the current list of available channels and join some:
-- Click the *word* 'Channels' in the sidebar
-- Browse the list of channels under 'Channels you can join'
+- Click the *word* 'Channels' in the sidebar <img src="/images/addchannels.png" alt="Channels" width="200"/>
+- Browse the list of channels under 'Channels you can join' 
+
+<img src="/images/browse.png" alt="Browse" width="200"/>
+
 - Click on any channel to preview the channel and see if it's what you want
 - Click `Join Channel` at the bottom of the screen to join
 
@@ -259,10 +272,10 @@ As a member of our Slack community, you must be a part of #general, however you 
 - Choose `Leave #ChannelName` It will be the last option in the dropdown menu
 
 ##### Adding a Channel
-Members are welcome to add channels for topics not currently covered by other channels, and are not restricted to CFDE topics (i.e. a channel that's all cat pictures all the time is perfectly fine). However, all interactions in the CFDE Slack, including private messages and rooms are bound by the [CFDE Code of Conduct](./CODEOFCONDUCT.md), and channels that constitute harassment of any kind will not be tolerated.
+Members are welcome to add channels for topics not currently covered by other channels, and are not restricted to CFDE topics (i.e. a channel that's all cat pictures all the time is perfectly fine). However, all interactions in the CFDE Slack, including private messages and channels are bound by the [CFDE Code of Conduct](./CODEOFCONDUCT.md), and messages that constitute harassment of any kind will not be tolerated.
 
 To create a new channel:
-- Click on the plus sign in a circle *next* to the word 'Channels' in the sidebar
+- Click on the plus sign in a circle *next* to the word 'Channels' in the sidebar  <img src="/images/channels.png" alt="Channels" width="200"/>
 - Choose whether the channel is public or private. Public channels are listed in the directory and joinable by any member, Private channels are not listed in the directory and are invitation only. Channels for large working groups, general discussion, cat photos, etc, should generally be public. Channels for discussing the travel plans of your small working group, steering committees, etc should generally be private. (See [Private messages vs Private Channels]() below for more info.)
 - Choose a short, but descriptive name
 - If your channel is public, be sure to give it a purpose (description) so people can tell what it's about
@@ -275,13 +288,14 @@ Typing a question intended for one person into #general or another busy channel 
 ##### Call Outs
 If you want one, or a few, people to answer a question *publically* you can ask with a callout in a channel. For example, to ask the 2-3 people who might know: "When is the next Project Management meeting?", you can use the `@` to have each person you list get a notification directing them to your message like this:
 
+<img src="/images/callouts.png" alt="callouts" width="500"/>
 
-
-If you want everyone who is currently online in that channel to get a notification use `@here` for everyone in the channel, even if they aren't online use `@channel`
+- If you want everyone who is currently online in that channel to get a notification use `@here` 
+- For everyone in the channel, even if they aren't online use `@channel`
 
 #### Private messages
-If you want one or a few people to answer a question *privately*, you can start a private message. 
-To start a new private message:
+If you want one or a few people to answer a question *privately*, you can start a private message. Slack calls these Direct messages 
+To start a new Direct message:
 - Click on the plus sign in a circle *next* to the word 'Direct Messages' in the sidebar
 - Type the name(s) of who you would like to chat with
 - Click `Go`
@@ -292,7 +306,7 @@ Once you have at least one message in your direct message history with someone, 
 *Private messages are different from private channels.* 
 In a private *channel* anyone in that channel can invite others, it is private in that you need an invitation to join, not that no one else can ever see it. Anyone joining a channel can see it's entire history. Private channels can also have an unlimited number of members (up to everyone in the CFDE).
 
-In a private *message*, no one can leave or join the message group, and the maximum number of members is eight. If you are in a private message, you will see that the gear icon *does* an option to 'Invite another member' to your private message, however if you do that, it just starts a new private session with your new group. The added member cannot see the history of the original group.
+In a private *message*, (Direct message) no one can leave or join the message group, and the maximum number of members is eight. If you are in a private message, you will see that the gear icon *does* an option to 'Invite another member' to your private message, however if you do that, it just starts a new private session with your new group. The added member cannot see the history of the original group.
 
 #### Threads
 Slack supports chat threading. This allows you to continue conversations in a busy Channel without all the replies getting jumbled together. 
@@ -308,7 +322,7 @@ Slack supports global search of your messages, so you don't have to remember wha
 
 - To confine your search to one channel, include the channel name, e.g. to find where someone mentioned the meeting in the PM channel search: `#project-management meeting`
 - To search all public channels (regardless of whether you are a member) as well as all private channels and private messages that include you, just search your word, e.g. `meeting`
-- To search only public and private channels that you are a member of and your private messages, do the above search and then filter the results by checking the 'Only search my channels' box
+- To search only public and private channels that you are a member of and your private messages, do the above search and then filter the results by checking the 'Only search my channels' box <img src="/images/filter.png" alt="filter" width="300"/>
 - You can also filter your results by person, channel, and date range
 
 #### Apps
