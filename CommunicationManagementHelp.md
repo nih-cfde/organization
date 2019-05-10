@@ -29,6 +29,9 @@ If you are having problems *accessing* these services, please see the [Onboardin
       - **[Change email frequency](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#altering-your-email-frequency)**
       - **[Create a new mailing list](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#creating-a-new-mailing-list)**
 - **[Google Drive Teams](https://github.com/nih-cfde/organization/new/master#google-drive)**
+   - **[Accessing the Drives](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#accessing-the-drives)**
+   - **[Sharing Files](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#sharing-files)**
+   
 - **[Slack](https://github.com/nih-cfde/organization/new/master#slack)**
 
 ### GitHub Help
@@ -133,6 +136,8 @@ See [the GitHub help](https://help.github.com/en/articles/watching-and-unwatchin
 
 If you did not find the solution to your problem on this page, please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
 
+[Back to Top](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#table-of-contents)
+
 ### groups.io Help
 
 We are using groups.io to manage our mailing lists. Our overall groups.io account is restricted access and can only be joined 
@@ -174,6 +179,7 @@ You can alter your subscription to a mailing list you already receive by:
 - Ensuring that your 'Email Delivery' option is correct. Most users will want 'Individual Messages', 'Full Featured Digest', or 'Daily Summary', which will email you every message, messages in groups of 12, or a summary of all the days messages, respectively. 
 
 ##### Creating a new mailing list
+All mailing lists in the CFDE groups.io, including any private lists you may make, are bound by the [CFDE Code of Conduct](./CODEOFCONDUCT.md)
 To create a new mailing list:
 - Navigate to https://cfde.groups.io/g/General
 - Click on `Subgroups` on the left side of the screen
@@ -188,11 +194,133 @@ To create a new mailing list:
 
 If you did not find the solution to your problem on this page, please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
 
-### Google Drive Help
-If you did not find the solution to your problem on this page, please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
+[Back to Top](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#table-of-contents)
 
+### Google Drive Help
+
+You will have access to two or three different CFDE drives.
+ - CFDE Admin: Everyone has view access to this drive. It contains files related to maintaining 
+ the CFDE infrastructure and files that need to be locked from direct editing such as the contact
+ list created by the onboarding form
+ - CFDE Everyone: Everyone has edit access to this drive. It contains the bulk of CFDE files and
+ is the main place for collaboration
+ - CFDE Steering: This is a restricted access folder for budgets, high level reports and other documents
+ intended soley for communication between PIs and the NIH
+ 
+ All interactions in the CFDE Google Drive spaces are bound by the [CFDE Code of Conduct](./CODEOFCONDUCT.md).
+ All documents in the CFDE Google Drive spaces are assumed to be under the [CFDE License](./LICENSE.md) unless another license is specified in the document.
+ 
+#### Accessing the drives
+
+You must be logged into Google Drive using the email you specified in your [onboarding form](https://forms.gle/wsBAYevSQNVfG5eF9). 
+
+On the left side of the screen, you should see a button for Team Drives:
+
+<img src="/images/teamdrive1.png" alt="Team Drives" width="400"/>
+
+You may need to click on the small arrow to see the list of drives you have access to:
+
+<img src="/images/teamdrive2.png" alt="Show Team Drives" width="400"/>
+
+#### Sharing Files
+
+All three drives, and their contents, are viewable only by members who have completed the [onboarding form](https://forms.gle/wsBAYevSQNVfG5eF9). You can still send links to files, however in order to view the link,
+the recipient will need to log in using the email they specified in their [onboarding form](https://forms.gle/wsBAYevSQNVfG5eF9). 
+
+To copy the sharable link:
+- Right-click on the desired file and select `Share` OR click on the desired file and click the share button near teh top right of the screen
+- Click 'WHO HAS ACCESS' in the bottom left corner of the dialogue box that appears
+- Click the small arrow next to 'Link sharing off' <img src="/images/links1.png" alt="Link Sharing Off" width="300"/>
+- Click the `COPY` button next to the URL <img src="/images/links2.png" alt="Link Sharing Off" width="300"/>
+
+If you did not find the solution to your problem on this page, or believe you have been assigned the wrong permissions, please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
+
+[Back to Top](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#table-of-contents)
 
 
 ### Slack Help
 
+Slack is a group chat system similar to a 90's online chat room. You can use it to talk, to share files, and even to voice chat; and it supports an unlimited number of private and public 'channels' as well as private instant messaging with any number of members. We have already installed a number of apps that allow you to do things like Doodle polls or displaying GitHub issues inside a channel, however members can install others as needed.
+
+All interactions in the CFDE Slack, including private messages and rooms are bound by the [CFDE Code of Conduct](./CODEOFCONDUCT.md).
+
+#### Channels
+##### Joining Channels
+By default, everyone is added to #general and #random, but you can join as many other open channels as you like. To see the current list of available channels and join some:
+- Click the *word* 'Channels' in the sidebar
+- Browse the list of channels under 'Channels you can join'
+- Click on any channel to preview the channel and see if it's what you want
+- Click `Join Channel` at the bottom of the screen to join
+
+##### Leaving a Channel
+As a member of our Slack community, you must be a part of #general, however you can freely leave and join others. To leave a channel:
+- Click the name of the channel in your sidebar to show the channel
+- Click the gear icon at the top of your window
+- Choose `Leave #ChannelName` It will be the last option in the dropdown menu
+
+##### Adding a Channel
+Members are welcome to add channels for topics not currently covered by other channels, and are not restricted to CFDE topics (i.e. a channel that's all cat pictures all the time is perfectly fine). However, all interactions in the CFDE Slack, including private messages and rooms are bound by the [CFDE Code of Conduct](./CODEOFCONDUCT.md), and channels that constitute harassment of any kind will not be tolerated.
+
+To create a new channel:
+- Click on the plus sign in a circle *next* to the word 'Channels' in the sidebar
+- Choose whether the channel is public or private. Public channels are listed in the directory and joinable by any member, Private channels are not listed in the directory and are invitation only. Channels for large working groups, general discussion, cat photos, etc, should generally be public. Channels for discussing the travel plans of your small working group, steering committees, etc should generally be private. (See [Private messages vs Private Channels]() below for more info.)
+- Choose a short, but descriptive name
+- If your channel is public, be sure to give it a purpose (description) so people can tell what it's about
+- Invite people you think (or know) want to be a part of your channel 
+- Click `Create Channel`
+
+#### Getting someones attention
+Typing a question intended for one person into #general or another busy channel will likely not result in a response. Luckily, there are several ways to get the attention of one person, a few people, or everyone, in a channel.
+
+##### Call Outs
+If you want one, or a few, people to answer a question *publically* you can ask with a callout in a channel. For example, to ask the 2-3 people who might know: "When is the next Project Management meeting?", you can use the `@` to have each person you list get a notification directing them to your message like this:
+
+
+
+If you want everyone who is currently online in that channel to get a notification use `@here` for everyone in the channel, even if they aren't online use `@channel`
+
+#### Private messages
+If you want one or a few people to answer a question *privately*, you can start a private message. 
+To start a new private message:
+- Click on the plus sign in a circle *next* to the word 'Direct Messages' in the sidebar
+- Type the name(s) of who you would like to chat with
+- Click `Go`
+
+Once you have at least one message in your direct message history with someone, they will appear as a shortcut under 'Direct Messages'. Only your ~10 most recent private message groups will display here, however the hidden ones still exist. You can get back to any of your direct message histories by following the steps to start a new private message.
+
+#### Private messages vs Private Channels
+*Private messages are different from private channels.* 
+In a private *channel* anyone in that channel can invite others, it is private in that you need an invitation to join, not that no one else can ever see it. Anyone joining a channel can see it's entire history. Private channels can also have an unlimited number of members (up to everyone in the CFDE).
+
+In a private *message*, no one can leave or join the message group, and the maximum number of members is eight. If you are in a private message, you will see that the gear icon *does* an option to 'Invite another member' to your private message, however if you do that, it just starts a new private session with your new group. The added member cannot see the history of the original group.
+
+#### Threads
+Slack supports chat threading. This allows you to continue conversations in a busy Channel without all the replies getting jumbled together. 
+To start a new thread:
+- Choose a message in the main chat window that you'd like to continue talking about
+- Hover over the message with your cursor
+- On the right hand side, click the speech bubble icon labeled 'Start a thread'
+- This will split your chat window and put your message directly after the reply
+- In busy channels where the original message quickly scrolls off the screen, you can easily track replies to your threads by clicking on 'Threads' at the top of the sidebar
+
+#### Search
+Slack supports global search of your messages, so you don't have to remember what channel you read that important thing in. To search, type your query in the search bar in the top right corner. It doesn't matter what channel you are in when you start your search. 
+
+- To confine your search to one channel, include the channel name, e.g. to find where someone mentioned the meeting in the PM channel search: `#project-management meeting`
+- To search all public channels (regardless of whether you are a member) as well as all private channels and private messages that include you, just search your word, e.g. `meeting`
+- To search only public and private channels that you are a member of and your private messages, do the above search and then filter the results by checking the 'Only search my channels' box
+- You can also filter your results by person, channel, and date range
+
+#### Apps
+There are several apps installed on Slack, and you can always install others. To use an app, start by typeing `/` All apps are invoked using the forward slash and then typing an appropriate command. When you type `/`, Slack knows you're trying to call an app and offers you auto-complete suggestions. Most apps respond to `help`, so if you're unsure how to use an app, typing `/AppName help` will generally bring up the options. One useful app is 'remind', which can be used to send yourself, or a channel, some reminder at a specific time. To remind all the project managers that there is a meeting every Wednesday at 2pm, you would type:
+
+`/remind #project-management Project Managers Meeting Wednesdays at 2pm`
+
+And Slack would begin sending a channel notification to the #project-management channel just before their meetings.
+
+#### Reactions
+Sometimes you want to react to a message in Slack without having to type words. You can react to any slack message with emoji, similar to the way you can 'heart' tweets on Twitter or 'like' posts on Facebook. To add your reaction, hover your cursor over the message you want to react to, then click on the smiley that appears on the right side of the message. You can then choose from a huge array of emoji to express your feelings about the post.
+
 If you did not find the solution to your problem on this page, please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
+
+[Back to Top](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#table-of-contents)
