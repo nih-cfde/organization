@@ -5,7 +5,7 @@ Repository\!
 
 By contributing to this repository, you agree:
 
-1.  To obey the [Code of Conduct](./CODE_OF_CONDUCT.md)
+1.  To obey the [Code of Conduct](./CODEOFCONDUCT.md)
 2.  To release all your contributions under the same terms as the
     license itself: the [Creative Commons Zero](./LICENSE.md) (aka
     Public Domain) license
