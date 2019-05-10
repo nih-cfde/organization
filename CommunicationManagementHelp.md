@@ -1,10 +1,10 @@
 ## CFDE Communication Management Help Overview
 
 We are using a number of services to communicate and share files:
-  - [Github](https://github.com/nih-cfde/organization/new/master#github): Code sharing, organization and deliverables tracking
-  - [groups.io](https://github.com/nih-cfde/organization/new/master#groupsio): mailing lists
-  - [Google Drive Teams](https://github.com/nih-cfde/organization/new/master#google-drive): file sharing
-  - [Slack](https://github.com/nih-cfde/organization/new/master#slack): Group chat, forum and instant private messaging
+  - [Github](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#github-help): Code sharing, organization and deliverables tracking
+  - [groups.io](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#groupsio-help): mailing lists
+  - [Google Drive Teams](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#google-drive-help): file sharing
+  - [Slack](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#slack-help): Group chat, forum and instant private messaging
 
 Depending on your role and needs, you may find that the default settings for these services
 give you too many, or too few, notifications. On this page you will find instructions for 
@@ -14,24 +14,24 @@ If you are having problems *accessing* these services, please see the [Onboardin
 
 ## Table of Contents
 
-- **[GitHub](https://github.com/nih-cfde/organization/new/master#github)**
+- **[GitHub Help](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#github-help)**
    - **[Definitions](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#definitions)**
    - **[Changing Notifications](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#changing-notifications)**
        - **[Watching Settings](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#watching-settings)**
        - **[Notifications Settings](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#notification-settings)**
        - **[Subscriptions](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#subscriptions)**
        - **[Watching Repos and Teams](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#watching-repos-and-teams)**
-- **[groups.io](https://github.com/nih-cfde/organization/new/master#groupsio)**
+- **[groups.io Help](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#groupsio-help)**
    - **[Getting Mail](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#getting-mail)**
    - **[Managing Subscriptions](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#managing-subscriptions)**
       - **[Join a Mailing List](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#join-a-mailing-list)**
       - **[Leave a Mailing List](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#leave-a-mailing-list)**
       - **[Change email frequency](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#altering-your-email-frequency)**
       - **[Create a new mailing list](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#creating-a-new-mailing-list)**
-- **[Google Drive Teams](https://github.com/nih-cfde/organization/new/master#google-drive)**
+- **[Google Drive Teams Help](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#google-drive-help)**
    - **[Accessing the Drives](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#accessing-the-drives)**
    - **[Sharing Files](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#sharing-files)** 
-- **[Slack](https://github.com/nih-cfde/organization/new/master#slack)**
+- **[Slack Help](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#slack-help)**
    - **[Channels](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#channels)**
       - **[Joining a Channel](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#joining-channels)**
       - **[Leaving a Channel](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#leaving-a-channel)**
@@ -44,7 +44,8 @@ If you are having problems *accessing* these services, please see the [Onboardin
    - **[Search](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#search)**
    - **[Apps](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#apps)**
    - **[Reactions](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#reactions)**
-### GitHub Help
+
+## GitHub Help
 
 #### Definitions
 
@@ -148,7 +149,7 @@ If you did not find the solution to your problem on this page, please email the 
 
 [Back to Top](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#table-of-contents)
 
-### groups.io Help
+## groups.io Help
 
 We are using groups.io to manage our mailing lists. Our overall groups.io account is restricted access and can only be joined 
 by filling out the [onboarding form](https://forms.gle/wsBAYevSQNVfG5eF9), however most mailing lists are unrestricted to members, and you can edit your subscriptions at any time. See the list of [available mailing lists here](./MailingLists.md).
@@ -206,7 +207,7 @@ If you did not find the solution to your problem on this page, please email the 
 
 [Back to Top](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#table-of-contents)
 
-### Google Drive Help
+## Google Drive Help
 
 You will have access to two or three different CFDE drives.
  - CFDE Admin: Everyone has view access to this drive. It contains files related to maintaining 
@@ -248,7 +249,7 @@ If you did not find the solution to your problem on this page, or believe you ha
 [Back to Top](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#table-of-contents)
 
 
-### Slack Help
+## Slack Help
 
 Slack is a group chat system similar to a 90's online chat room. You can use it to talk, to share files, and even to voice chat; and it supports an unlimited number of private and public 'channels' as well as private instant messaging with any number of members. We have already installed a number of apps that allow you to do things like Doodle polls or displaying GitHub issues inside a channel, however members can install others as needed.
 
