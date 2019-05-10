@@ -133,6 +133,8 @@ See [the GitHub help](https://help.github.com/en/articles/watching-and-unwatchin
 
 If you did not find the solution to your problem on this page, please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
 
+[Back to Top](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#table-of-contents)
+
 ### groups.io Help
 
 We are using groups.io to manage our mailing lists. Our overall groups.io account is restricted access and can only be joined 
@@ -188,11 +190,52 @@ To create a new mailing list:
 
 If you did not find the solution to your problem on this page, please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
 
+[Back to Top](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#table-of-contents)
+
 ### Google Drive Help
+
+You will have access to two or three different CFDE drives.
+ - CFDE Admin: Everyone has view access to this drive. It contains files related to maintaining 
+ the CFDE infrastructure and files that need to be locked from direct editing such as the contact
+ list created by the onboarding form
+ - CFDE Everyone: Everyone has edit access to this drive. It contains the bulk of CFDE files and
+ is the main place for collaboration
+ - CFDE Steering: This is a restricted access folder for budgets, high level reports and other documents
+ intended soley for communication between PIs and the NIH
+ 
+#### Accessing the drives
+
+You must be logged into Google Drive using the email you specified in your [onboarding form](https://forms.gle/wsBAYevSQNVfG5eF9). 
+
+On the left side of the screen, you should see a button for Team Drives:
+
+<img src="/images/teamdrive1.png" alt="Team Drives" width="400"/>
+
+You may need to click on the small arrow to see the list of drives you have access to:
+
+<img src="/images/teamdrive2.png" alt="Show Team Drives" width="400"/>
+
+#### Sharing Files
+
+All three drives, and their contents, are viewable only by members who have completed the [onboarding form](https://forms.gle/wsBAYevSQNVfG5eF9). You can still send links to files, however in order to view the link,
+the recipient will need to log in using the email they specified in their [onboarding form](https://forms.gle/wsBAYevSQNVfG5eF9). 
+
+To copy the sharable link:
+- Right-click on the desired file and select `Share` OR click on the desired file and click the share button near teh top right of the screen
+- Click 'WHO HAS ACCESS' in the bottom left corner of the dialogue box that appears
+- Click the small arrow next to 'Link sharing off' <img src="/images/links1.png" alt="Link Sharing Off" width="300"/>
+- Click the `copy` button next to the URL <img src="/images/links2.png" alt="Link Sharing Off" width="300"/>
+
+
+
+
 If you did not find the solution to your problem on this page, please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
 
+[Back to Top](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#table-of-contents)
 
 
 ### Slack Help
 
 If you did not find the solution to your problem on this page, please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
+
+[Back to Top](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#table-of-contents)
