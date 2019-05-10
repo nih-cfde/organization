@@ -56,9 +56,60 @@ If you are sure you will never be interested in a repository, you can set it to 
 Once you have determined which repos you want to watch, you can change what triggers watching notifications, as well as
 edit the default behavior of watching everything. You edit these settings at: https://github.com/settings/notifications 
 
+Your current notification settings will look like this:
+
 <img src="/images/toomanynotifications.png" alt="Notification Options" width="400"/>
 
+**Automatic watching section**
+To stop GitHub from automatically watching repos in the future, you should uncheck the 'Automatically watch repositories' box. 
+You can also stop GitHub from automatically watching any new Teams.
 
+Note that if you uncheck these boxes you will have to specifically turn on 'watching' for specific repos and teams you become interested in later (See Watching Repos and Teams below). 
+
+**Participating section**
+Here you can choose where you receive notifications for discussions you are *actively participating in*. This includes things like PRs or Issues you made, PRs or Issues your have reviewed or commented on, and other conversations where your name is mentioned.
+You can get them either only by email, only at your GitHub notifications page (https://github.com/notifications) or get them in both places.
+
+**Watching section**
+Here you can choose where you receive notifications for discussions you are *watching*. This includes things like PRs or Issues on repositories you are watching.
+You can get them either only by email, only at your GitHub notifications page (https://github.com/notifications) or get them in both places.
+
+Settings to try: Have 'Participating' notifications only emailed to you so you always see them right away, but have 'Watching' notifications only visible on the web, so you can look through them all once a week.
+
+**Vulnerability alerts section**
+We suggest checking only the 'Web' option. Most of our repositories don't contain running code, and so won't have security alerts anyway.
+
+**Email notification preferences section**
+Here, you can further customize what types of events trigger your alerts. 
+
+- Comments on Issues and Pull Requests: Unchecking this box will stop general notifications about comments on Issues and PRs in your watched repos
+- Pull Request reviews: Unchecking this box will stop general notifications about new Review Requests on repos your watched repos
+- Pull Request pushes: Unchecking this box will stop general notifications about Merges in your watched repos
+- Include your own updates: Checking this box will cause GitHub to email you notifications about things you did. Unchecking this box will stop notifications about your own actions.
+
+Unchecking all of these boxes would cause you to only get email alerts for conversations where you are specifically mentioned or actively participating. 
+
+For more information about notifications see the [GitHub Notification About page](https://help.github.com/en/articles/about-notifications) or the [GitHub Getting Started with Notifications page](https://help.github.com/en/articles/getting-started-with-notifications)
+
+##### Subscriptions
+You can make more fine-grained changes to your notifications by subscribing, or unsubscribing, from specific conversations, PRs, issues, etc; regardless of whether you are watching the repo they happen in. For more information, see the [Subscriptions help page](https://help.github.com/en/articles/subscribing-to-and-unsubscribing-from-notifications) from Github.
+
+##### Watching Repos and Teams
+
+If you have turned off auto-watching, you will need to manually start watching new repos that you would like to follow.
+
+To watch a new repository:
+- Go to the main page of that repository (for our project management repo that would be: https://github.com/nih-cfde/project-management)
+- In the upper right corner click the 'Watch' button and select 'Watching'
+
+See [the GitHub help](https://help.github.com/en/articles/watching-and-unwatching-repositories#watching-a-single-repository) for more info
+
+To watch a new team:
+- Navigate to the nih-cfde Teams page: https://github.com/orgs/nih-cfde/teams
+- Click the name of the Team you are interested in (you may have to use the arrows on the right to uncollapse the team lists)
+- On the left side of the screen, click the 'Watch' button and select 'Watching'
+
+See [the GitHub help](https://help.github.com/en/articles/watching-and-unwatching-team-discussions#watching-a-single-teams-discussions)
 
 ### groups.io
 
