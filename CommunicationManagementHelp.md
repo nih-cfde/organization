@@ -39,6 +39,7 @@ There are two places where you will need to change your settings to reduce the n
 
 First, make sure you are only watching repos that you are actively interested in tracking. Since everyone in our Organization has at least read access to all our repos, you'll be watching all of them, regardless of how they relate to your role. You can see all the repos you are watching at this link: https://github.com/watching
 You should get something like this:
+
 <img src="/images/watching.png" alt="Watch List" width="600"/>
 
 For each repository in the list, decide how often you want to hear about it. There are four options: 'Not Watching', 'Releases Only', 'Watching' and 'Ignoring'
@@ -64,7 +65,7 @@ Your current notification settings will look like this:
 To stop GitHub from automatically watching repos in the future, you should uncheck the 'Automatically watch repositories' box. 
 You can also stop GitHub from automatically watching any new Teams.
 
-Note that if you uncheck these boxes you will have to specifically turn on 'watching' for specific repos and teams you become interested in later (See Watching Repos and Teams below). 
+Note that if you uncheck these boxes you will have to specifically turn on 'watching' for specific repos and teams you become interested in later ([See Watching Repos and Teams](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#watching-repos-and-teams) below). 
 
 **Participating section**
 Here you can choose where you receive notifications for discussions you are *actively participating in*. This includes things like PRs or Issues you made, PRs or Issues your have reviewed or commented on, and other conversations where your name is mentioned.
