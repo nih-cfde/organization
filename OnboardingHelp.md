@@ -18,7 +18,7 @@ If you did not receive these emails, please check your spam folder.
 ## Fixes for Common Access Problems
 
 ### GitHub
-If you cannot find your GitHub invitation, follow this link to accept on the web: https://github.com/orgs/nih-cfde/invitation
+If you cannot find your GitHub invitation, follow this link to accept on the web: https://github.com/nih-cfde
 
 For help configuring your GitHub notifications and other settings see [Communication Management](https://github.com/nih-cfde/organization/new/master#github)
 
