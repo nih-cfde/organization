@@ -14,7 +14,7 @@ If you are OK with these two conditions, then we welcome both you and
 your contribution\!
 
 If you have any questions about contributing, please [open an
-issue](https://github.com/nih-cfde/organization/issues/new) and Team Copper
+issue](https://github.com/nih-cfde/organization/issues/new) and we
 will lend a hand ASAP.
 
 Thank you for being here and for being a part of the CFDE project.
