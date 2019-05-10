@@ -216,7 +216,7 @@ You will have access to two or three different CFDE drives.
  - CFDE Steering: This is a restricted access folder for budgets, high level reports and other documents
  intended soley for communication between PIs and the NIH
  
- **All interactions in the CFDE Google Drive spaces are bound by the [CFDE Code of Conduct](./CODEOFCONDUCT.md).**
+ **All interactions in the CFDE Google Drives are bound by the [CFDE Code of Conduct](./CODEOFCONDUCT.md).**
  
  **All documents in the CFDE Google Drive spaces are assumed to be under the [CFDE License](./LICENSE.md) unless another license is specified in the document.**
  
@@ -252,7 +252,7 @@ If you did not find the solution to your problem on this page, or believe you ha
 
 Slack is a group chat system similar to a 90's online chat room. You can use it to talk, to share files, and even to voice chat; and it supports an unlimited number of private and public 'channels' as well as private instant messaging with any number of members. We have already installed a number of apps that allow you to do things like Doodle polls or displaying GitHub issues inside a channel, however members can install others as needed.
 
-All interactions in the CFDE Slack, including private messages and rooms are bound by the [CFDE Code of Conduct](./CODEOFCONDUCT.md).
+All interactions in the CFDE Slack, including inside of private messages and channels are bound by the [CFDE Code of Conduct](./CODEOFCONDUCT.md).
 
 #### Channels
 ##### Joining Channels
