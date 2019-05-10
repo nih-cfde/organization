@@ -17,9 +17,11 @@ email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
 
 ## General Resources
 
+[Communication Management Help](CommunicationManagementHelp.md): Resource for navigating Slack, GitHub, groups.io and Google Drive
+
 [A list of mailing lists](MailingLists.md)
 
-[Points of Contact](PointsOfContact.md)
+[Points of Contact](PointsOfContact.md): Admin and group points of contact. For a full CFDE directory see: [Onboarded CFDE Members](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing)
 
 ## Project Management Resources
 
