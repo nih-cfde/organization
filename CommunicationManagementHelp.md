@@ -3,8 +3,8 @@
 We are using a number of services to communicate and share files:
   - [Github](https://github.com/nih-cfde/organization/new/master#github): Code sharing, organization and deliverables tracking
   - [groups.io](https://github.com/nih-cfde/organization/new/master#groupsio): mailing lists
-  - [Google Drive Teams]((https://github.com/nih-cfde/organization/new/master#google-drive): file sharing
-  - [Slack]((https://github.com/nih-cfde/organization/new/master#slack): Group chat, forum and instant private messaging
+  - [Google Drive Teams](https://github.com/nih-cfde/organization/new/master#google-drive): file sharing
+  - [Slack](https://github.com/nih-cfde/organization/new/master#slack): Group chat, forum and instant private messaging
 
 Depending on your role and needs, you may find that the default settings for these services
 give you too many, or too few, notifications. On this page you will find instructions for 
@@ -32,16 +32,32 @@ By default, your Github account will automatically 'watch' repositories and team
 email you notifications each time there is a PR, Commit, Review Request, Issue or Comment on any of those repositories, and also
 whenever a new repository is made in our Organization. 
 
-However, unless you are actively working in a repository, you probably don't need to be notified of every change. There are two 
-places where you will need to change your settings to reduce the number of times GitHub contacts you.
+However, unless you are actively working in a repository, you probably don't need to be notified of every change. 
+There are two places where you will need to change your settings to reduce the number of times GitHub contacts you.
 
-First, make sure you are only watching repos that you are actively interested in tracking. You can see all the repos you are watching at this link: https://github.com/watching
+##### Watching Settings
+
+First, make sure you are only watching repos that you are actively interested in tracking. Since everyone in our Organization has at least read access to all our repos, you'll be watching all of them, regardless of how they relate to your role. You can see all the repos you are watching at this link: https://github.com/watching
 You should get something like this:
+<img src="/images/watching.png" alt="Watch List" width="600"/>
 
+For each repository in the list, decide how often you want to hear about it. There are four options: 'Not Watching', 'Releases Only', 'Watching' and 'Ignoring'
+<img src="/images/watchingoptions.png" alt="Watching Options" width="600"/>
 
+For repositories that you actively work in, and would like to be notified of things like PRs and conversations, choose 'Watching'. You can set what types of actions send you notifications using the [Notification Settings] instructions below.
 
-You can change
-your overall default settings by going to https://github.com/settings/notifications 
+For most other repositories, you will likely want to set them to 'Not Watching' or 'Releases Only'. Both of these options will
+only send you notifications if someone specifically invokes you or your team in a PR, comment, etc.
+
+If you are sure you will never be interested in a repository, you can set it to 'Ignoring'. This will stop all notifications, even if people specifically mention you. As this is a collaborative project and your colleagues might request your input in places you didn't expect, we do not advise setting CFDE repos to 'Ignoring'. 
+
+##### Notification Settings
+
+Once you have determined which repos you want to watch, you can change what triggers watching notifications, as well as
+edit the default behavior of watching everything. You edit these settings at: https://github.com/settings/notifications 
+
+<img src="/images/toomanynotifications.png" alt="Notification Options" width="400"/>
+
 
 
 ### groups.io
