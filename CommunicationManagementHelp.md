@@ -36,7 +36,7 @@ If you are having problems *accessing* these services, please see the [Onboardin
       - **[Joining a Channel](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#joining-channels)**
       - **[Leaving a Channel](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#leaving-a-channel)**
       - **[Adding a Channel](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#adding-a-channel)**
-   - **[Getting someones attention](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#getting-someones-attention)
+   - **[Getting someones attention](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#getting-someones-attention)**
       - **[Callouts](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#call-outs)**
       - **[Private messages (Direct messages](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#private-messages)**
       - **[Private message vs Private channel](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#private-messages-vs-private-channels)**
