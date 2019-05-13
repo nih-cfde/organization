@@ -340,4 +340,14 @@ Sometimes you want to react to a message in Slack without having to type words. 
 
 If you did not find the solution to your problem on this page, please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
 
+#### Notifications
+By default, you will only be notified when someone specifies your name as in `@Amanda Charbonneau` or notifies an entire channel, as in `@here` or `@channel`
+
+You can alter your notifications per channel by:
+- Open the channel
+- Click the gear icon near the top of the app screen
+- Select `Notification preferences`
+
+For more fine grained notification changes, see the [Slack help](https://get.slack.help/hc/en-us/articles/201355156)
+
 [Back to Top](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#table-of-contents)
