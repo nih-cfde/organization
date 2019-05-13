@@ -348,6 +348,7 @@ You can alter your notifications per channel by:
 - Open the channel
 - Click the gear icon near the top of the app screen
 - Select `Notification preferences`
+- Choose your settings
 
 For more fine grained notification changes, see the [Slack help](https://get.slack.help/hc/en-us/articles/201355156)
 
