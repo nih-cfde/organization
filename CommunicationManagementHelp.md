@@ -44,7 +44,8 @@ If you are having problems *accessing* these services, please see the [Onboardin
    - **[Search](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#search)**
    - **[Apps](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#apps)**
    - **[Reactions](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#reactions)**
-
+   - **[Notifications](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#notifications)**
+   
 ## GitHub Help
 
 #### Definitions
