@@ -16,8 +16,8 @@ To onboard new members, or to continue boarding partially onboarded members, fir
 ### Google Group adds
 
   If 'Added to Google Group?' is unchecked:
-   - Copy their email address from column J, if they don't have one, use the email address in column I
-   - Note their Title/Position from column P and affiliation from column O
+   - Copy their email address from column K, if they don't have one, use the email address in column J
+   - Note their Title/Position from column Q and affiliation from column P
    - Decide what Google Permissions group to add them to:
       - For members of Teams Brown or White who are working on infrastructure or data access management, choose [CFDE_Admin](https://groups.google.com/forum/#!managemembers/cfde_admin/add)
       - For everyone else, choose [CFDE_Everyone](https://groups.google.com/forum/#!managemembers/cfde_everyone/add)
@@ -61,7 +61,7 @@ If you have any problems, please email our help desk mailto:autohelp+int+851+654
 ### Slack space adds
 
   If 'Slack Invite Sent?' is unchecked:
-   - Copy their email address from column I
+   - Copy their email address from column J
    - In your CFDE Slack window, click '+Invite people'. (It will just below your list of Direct Messages in the sidebar)
    - Paste their email address into the box. You can add more than one person at a time.
    - Check the 'Slack Invite Sent?' box for each person you added
@@ -69,8 +69,8 @@ If you have any problems, please email our help desk mailto:autohelp+int+851+654
 ### GitHub adds
 
   If 'GitHub Invite Sent?' is unchecked:
-  - Copy their GitHubID from column N
-  - Note their Title/Position from column P and affiliation from column O
+  - Copy their GitHubID from column O
+  - Note their Title/Position from column Q and affiliation from column P
   - Go to https://github.com/orgs/nih-cfde/people
   - Click `Invite Member`
   - Paste thier GitHubID into the box (don't put an `@` in front of it)
@@ -86,20 +86,20 @@ If you have any problems, please email our help desk mailto:autohelp+int+851+654
 If 'Slack Invite Accepted?' is unchecked:
   - Go to this link: https://cfdeworkspace.slack.com/admin/invites#pending (you may need to log into your Slack account)
   - If their invitation has moved to 'Accepted Invitations', click the checkbox
-  - You can search for them using their email address in column I
+  - You can search for them using their email address in column J
   - Check the 'Slack Invite Accepted?' box for each person you added
 
 ### Add to Mailing lists
 
 If you have just updated their 'Slack Invite Accepted?' checkbox, then you also need to add them to mailing lists (next section)
- - Note the mailing lists they requested to join in column Q (see NOTE1 for help)
+ - Note the mailing lists they requested to join in column R (see NOTE1 for help)
  - Go to https://cfde.groups.io/g/General/subgroupmembers (see NOTE2 for help)
  - Check the boxes next to their name for their selected lists (you can do multiple members at a time)
  - Click `Update`
  - Click `Yes` in the dialogue box that appears (Yes has a trash can for some reason)
  - Check the 'Mailing Lists Assigned?' box for each person you added
  
-     NOTE1: It's basically impossible to read column Q for members that choose more than one list.
+     NOTE1: It's basically impossible to read column R for members that choose more than one list.
      It's much easier to read their choices directly off their form. To do that:
        
        - Go to https://docs.google.com/forms/d/1sFY6y2eHB3PS0HayEyxXtZOrBJV7lfT8thJ8bL9wKqQ/edit#responses
@@ -116,19 +116,29 @@ If you have just updated their 'Slack Invite Accepted?' checkbox, then you also 
        - Click the 'Slack Members' tab
        - Check the box next to the members name
        - Click the `Add to Groups.io` button
-    
-  
 
  ### Check GitHub Invite
  
  If 'GitHub Invite Accepted?' is unchecked:
   - Go to https://github.com/orgs/nih-cfde/people
   - Click on 'X pending invitations'. It will be just below the `Invite member` button.
-  - Use the dialogue box to update checkmarks
+  - Use the dialogue box to update 'GitHub Invite Accepted?' checkmarks
   
   
+ ### Add to MPQ
  
-  
+ If 'Added to MQP as of?' is blank:
+ - Check their Affiliation(s) in column P, only members of the Tech Teams (Brown, Foster, Kesselman, Ma’ayan, O'Connor, Sansone and White) need to be added to the MPQ
+ - Note the name and affilitation for each person you need to add (columns L and P)
+ - Navigate to the MPQs folder in CFDE Admin on Google: https://drive.google.com/drive/u/0/folders/1G7omyAgRSQr-n6F4o3HWUKcRm_cvoOHJ
+ - Find the MPQ that is due this month and open the form for editing
+ - Scroll down to the correct Tech Team
+ - Click on the last person listed in that Tech Team, the one right before the 'What DCC interactions has your team had this month?' question
+ - The individuals question should switch to editing mode. You may have to click it more than once
+ - At the bottom of their section, click on the copy icon. It looks like two, mostly overlapping rectangles
+ - You should now have two copies of that individuals questions. Copy the new team member over the name in the new copy
+ - Click anywhere else on the screen
+ - Add the correct month_year in the 'Added to MQP as of?' column for each person you added
 
 
    
