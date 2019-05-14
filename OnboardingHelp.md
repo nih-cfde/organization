@@ -26,13 +26,13 @@ You can see the status of your onboarding progress by finding your name in the [
 ### GitHub
 If you cannot find your GitHub invitation, follow this link to accept on the web: https://github.com/nih-cfde
 
-For help configuring your GitHub notifications and other settings see [Communication Management](https://github.com/nih-cfde/organization/new/master#github)
+For help configuring your GitHub notifications and other settings see [the GitHub section of Communication Management](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#github-help)
 
 ### groups.io
 You may need to add CFDE@groups.io to your safe sender list in your email client’s contacts
 to reliably receive mailing list emails.
 
-For help configuring your groups.io mailing frequency and other settings see [Communication Management](https://github.com/nih-cfde/organization/new/master#groupsio)
+For help configuring your groups.io mailing frequency and other settings see [the groups.io sections of Communication Management](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#groupsio-help)
 
 ### Google Drive
 You must be logged into Google Drive using the email you specified in your onboarding form. 
@@ -56,14 +56,14 @@ You may need to click on the small arrow to see the list of drives you have acce
 If you have trouble accessing drives, or believe you have been assigned the wrong permissions,
 please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
 
-For help configuring your Google Drive notifications and other settings see [Communication Management](https://github.com/nih-cfde/organization/new/master#google-drive)
+For help configuring your Google Drive notifications and other settings see [the Google Drive section of Communication Management](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#google-drive-help)
 
 
 ### Slack
 If you cannot find your Slack invitation, follow this link to accept it on the web: https://slack.com/signin 
 Our workspace is `cfdeworkspace`
 
-For help configuring your Slack notifications and other settings see [Communication Management](https://github.com/nih-cfde/organization/new/master#slack)
+For help configuring your Slack notifications and other settings see [the Slack section of Communication Management](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#slack-help)
 
 
-If you did not find a solution to your problem on this page, please check the [Communication Management FAQ](./CommunicationManagementHelp.md) or email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
+If you did not find a solution to your problem on this page, please check the [Communication Management Help page](./CommunicationManagementHelp.md) or email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
