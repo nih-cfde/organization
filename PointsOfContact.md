@@ -47,7 +47,7 @@ points of contact.
 
 | Role                   | Name           | Email Address             | GitHub username |
 | ---------------------- | -------------- | ------------------------- | --------------- |
-| Principal Investigator | Susanna Sansone  | sa.sansone@gmail.com    |                 |
+| Principal Investigator | Susanna Sansone  | sa.sansone@gmail.com    | SusannaSansone    |
 
 
 ## White Group
