@@ -16,8 +16,8 @@ To onboard new members, or to continue boarding partially onboarded members, fir
 ### Google Group adds
 
   If 'Added to Google Group?' is unchecked:
-   - Copy their email address from column H
-   - Note their Title/Position from column N and affiliation from column M
+   - Copy their email address from column I, if they don't have one, use the email address in H
+   - Note their Title/Position from column ) and affiliation from column N
    - Decide what Google Permissions group to add them to:
       - For members of Teams Brown or White who are working on infrastructure or data access management, choose [CFDE_Admin](https://groups.google.com/forum/#!managemembers/cfde_admin/add)
       - For everyone else, choose [CFDE_Everyone](https://groups.google.com/forum/#!managemembers/cfde_everyone/add)
@@ -69,11 +69,11 @@ If you have any problems, please email our help desk mailto:autohelp+int+851+654
 ### GitHub adds
 
   If 'GitHub Invite Sent?' is unchecked:
-  - Copy their GitID from column L
+  - Copy their GitHubID from column M
   - Note their Title/Position from column N and affiliation from column M
   - Go to https://github.com/orgs/nih-cfde/people
   - Click `Invite Member`
-  - Paste thier GitHubID into the box (without an `@` in front)
+  - Paste thier GitHubID into the box (don't put an `@` in front of it)
   - Click on the rendered version of their GitHubID that pops up. Be sure it's the right person!
   - Click `Invite`
   - Scroll down and click 'Show all XX teams'
@@ -86,20 +86,29 @@ If you have any problems, please email our help desk mailto:autohelp+int+851+654
 If 'Slack Invite Accepted?' is unchecked:
   - Go to this link: https://cfdeworkspace.slack.com/admin/invites#pending (you may need to log into your Slack account)
   - If their invitation has moved to 'Accepted Invitations', click the checkbox
-  - You can search for them using their email address
+  - You can search for them using their email address in column H
   - Check the 'Slack Invite Accepted?' box for each person you added
 
 ### Add to Mailing lists
 
 If you have just updated their 'Slack Invite Accepted?' checkbox, then you also need to add them to mailing lists (next section)
- - Note the mailing lists they requested to join in column O
- - Go to https://cfde.groups.io/g/General/subgroupmembers
+ - Note the mailing lists they requested to join in column P (see NOTE1 for help)
+ - Go to https://cfde.groups.io/g/General/subgroupmembers (see NOTE2 for help)
  - Check the boxes next to their name for their selected lists (you can do multiple members at a time)
  - Click `Update`
  - Click `Yes` in the dialogue box that appears (Yes has a trash can for some reason)
  - Check the 'Mailing Lists Assigned?' box for each person you added
-    
-    NOTE: Members are automatically added to groups.io when they accept their Slack invite, 
+ 
+     NOTE1: It's basically impossible to read column P for members that choose more than one list.
+     It's much easier to read their choices directly off their form. To do that:
+       
+       - Go to https://docs.google.com/forms/d/1sFY6y2eHB3PS0HayEyxXtZOrBJV7lfT8thJ8bL9wKqQ/edit#responses
+       - Click on the 'Individual' tab
+       - Click where it says 'achar@ucdavis.edu'. That will open a selection box where you can choose the email address of the member you're working on
+       - Choose the right email address
+       - Scroll to the bottom of their form to the 'Mailing List Options' section
+       
+    NOTE2: Members are automatically added to groups.io when they accept their Slack invite, 
      however the sync can take up to one hour. If someone has accepted thier Slack invite, but
      does not appear in the subgroupmembers page, you can force the sync to happen immediatly by:
        
@@ -107,6 +116,7 @@ If you have just updated their 'Slack Invite Accepted?' checkbox, then you also 
        - Click the 'Slack Members' tab
        - Check the box next to the members name
        - Click the `Add to Groups.io` button
+    
   
 
  ### Check GitHub Invite
