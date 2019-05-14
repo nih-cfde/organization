@@ -35,6 +35,8 @@ Have an *exiting* team member? Send them to the [Offboarding form](https://forms
 
 If you have a team member who needs to *alter* access levels or affiliations please have them use the link in their Onboarding form Confirmation email to update their Onboarding Form. They can also edit their Onboarding info by going to the [Onboarding form](https://forms.gle/H3ThBxzYYHdauaKJ8) while signed in to Google with the email they originally used to Onboard.
 
+You can check the onboarding status of any CFDE member by finding their name here [Onboarded CFDE Members](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing)
+
 ### Reporting
 
 Complete your monthly reporting form by the *last* business day of each month. [Reporting Guide](https://github.com/nih-cfde/project-management/blob/master/MonthlyReportingGuide.md)
