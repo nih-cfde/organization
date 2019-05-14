@@ -16,8 +16,8 @@ To onboard new members, or to continue boarding partially onboarded members, fir
 ### Google Group adds
 
   If 'Added to Google Group?' is unchecked:
-   - Copy their email address from column I, if they don't have one, use the email address in H
-   - Note their Title/Position from column ) and affiliation from column N
+   - Copy their email address from column J, if they don't have one, use the email address in column I
+   - Note their Title/Position from column P and affiliation from column O
    - Decide what Google Permissions group to add them to:
       - For members of Teams Brown or White who are working on infrastructure or data access management, choose [CFDE_Admin](https://groups.google.com/forum/#!managemembers/cfde_admin/add)
       - For everyone else, choose [CFDE_Everyone](https://groups.google.com/forum/#!managemembers/cfde_everyone/add)
@@ -61,7 +61,7 @@ If you have any problems, please email our help desk mailto:autohelp+int+851+654
 ### Slack space adds
 
   If 'Slack Invite Sent?' is unchecked:
-   - Copy their email address from column H
+   - Copy their email address from column I
    - In your CFDE Slack window, click '+Invite people'. (It will just below your list of Direct Messages in the sidebar)
    - Paste their email address into the box. You can add more than one person at a time.
    - Check the 'Slack Invite Sent?' box for each person you added
@@ -69,8 +69,8 @@ If you have any problems, please email our help desk mailto:autohelp+int+851+654
 ### GitHub adds
 
   If 'GitHub Invite Sent?' is unchecked:
-  - Copy their GitHubID from column M
-  - Note their Title/Position from column N and affiliation from column M
+  - Copy their GitHubID from column N
+  - Note their Title/Position from column P and affiliation from column O
   - Go to https://github.com/orgs/nih-cfde/people
   - Click `Invite Member`
   - Paste thier GitHubID into the box (don't put an `@` in front of it)
@@ -86,20 +86,20 @@ If you have any problems, please email our help desk mailto:autohelp+int+851+654
 If 'Slack Invite Accepted?' is unchecked:
   - Go to this link: https://cfdeworkspace.slack.com/admin/invites#pending (you may need to log into your Slack account)
   - If their invitation has moved to 'Accepted Invitations', click the checkbox
-  - You can search for them using their email address in column H
+  - You can search for them using their email address in column I
   - Check the 'Slack Invite Accepted?' box for each person you added
 
 ### Add to Mailing lists
 
 If you have just updated their 'Slack Invite Accepted?' checkbox, then you also need to add them to mailing lists (next section)
- - Note the mailing lists they requested to join in column P (see NOTE1 for help)
+ - Note the mailing lists they requested to join in column Q (see NOTE1 for help)
  - Go to https://cfde.groups.io/g/General/subgroupmembers (see NOTE2 for help)
  - Check the boxes next to their name for their selected lists (you can do multiple members at a time)
  - Click `Update`
  - Click `Yes` in the dialogue box that appears (Yes has a trash can for some reason)
  - Check the 'Mailing Lists Assigned?' box for each person you added
  
-     NOTE1: It's basically impossible to read column P for members that choose more than one list.
+     NOTE1: It's basically impossible to read column Q for members that choose more than one list.
      It's much easier to read their choices directly off their form. To do that:
        
        - Go to https://docs.google.com/forms/d/1sFY6y2eHB3PS0HayEyxXtZOrBJV7lfT8thJ8bL9wKqQ/edit#responses
