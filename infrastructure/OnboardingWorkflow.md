@@ -98,13 +98,15 @@ If you have just updated their 'Slack Invite Accepted?' checkbox, then you also 
  - Click `Update`
  - Click `Yes` in the dialogue box that appears (Yes has a trash can for some reason)
  - Check the 'Mailing Lists Assigned?' box for each person you added
-     NOTE: Members are automatically added to groups.io when they accept their Slack invite, 
+    
+    NOTE: Members are automatically added to groups.io when they accept their Slack invite, 
      however the sync can take up to one hour. If someone has accepted thier Slack invite, but
      does not appear in the subgroupmembers page, you can force the sync to happen immediatly by:
-        - Go to https://cfde.groups.io/g/General/syncslackmembers
-        - Click the 'Slack Members' tab
-        - Check the box next to the members name
-        - Click the `Add to Groups.io` button
+       
+       - Go to https://cfde.groups.io/g/General/syncslackmembers
+       - Click the 'Slack Members' tab
+       - Check the box next to the members name
+       - Click the `Add to Groups.io` button
   
 
  ### Check GitHub Invite
