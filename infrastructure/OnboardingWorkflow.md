@@ -16,8 +16,8 @@ To onboard new members, or to continue boarding partially onboarded members, fir
 ### Google Group adds
 
   If 'Added to Google Group?' is unchecked:
-   - Copy their email address from column G
-   - Note their Title/Position from column M and affiliation from column L
+   - Copy their email address from column H
+   - Note their Title/Position from column N and affiliation from column M
    - Decide what Google Permissions group to add them to:
       - For members of Teams Brown or White who are working on infrastructure or data access management, choose [CFDE_Admin](https://groups.google.com/forum/#!managemembers/cfde_admin/add)
       - For everyone else, choose [CFDE_Everyone](https://groups.google.com/forum/#!managemembers/cfde_everyone/add)
@@ -61,7 +61,7 @@ If you have any problems, please email our help desk mailto:autohelp+int+851+654
 ### Slack space adds
 
   If 'Slack Invite Sent?' is unchecked:
-   - Copy their email address from column G
+   - Copy their email address from column H
    - In your CFDE Slack window, click '+Invite people'. (It will just below your list of Direct Messages in the sidebar)
    - Paste their email address into the box. You can add more than one person at a time.
    - Check the 'Slack Invite Sent?' box for each person you added
@@ -70,7 +70,7 @@ If you have any problems, please email our help desk mailto:autohelp+int+851+654
 
   If 'GitHub Invite Sent?' is unchecked:
   - Copy their GitID from column L
-  - Note their Title/Position from column M and affiliation from column L
+  - Note their Title/Position from column N and affiliation from column M
   - Go to https://github.com/orgs/nih-cfde/people
   - Click `Invite Member`
   - Paste thier GitHubID into the box (without an `@` in front)
