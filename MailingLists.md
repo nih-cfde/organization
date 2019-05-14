@@ -42,7 +42,7 @@ be a member of this list to post messages or search the archive
 
 **ProjectManagement:** Open list for project managers
 
-**PIs_plus_NIH:** For NIH and admin contacts. Strategy, reporting, and NIH items for review.
+**PIsPlusNIH:** For NIH and admin contacts. Strategy, reporting, and NIH items for review.
 
 **Training:** Open list for discussion around Outreach and Training
 
