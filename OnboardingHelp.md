@@ -19,6 +19,8 @@ You will also receive a number of confirmation emails for our mailing lists and 
 
 If you did not receive these emails, please check your spam folder. 
 
+You can see the status of your onboarding progress by finding your name in the [Onboarding Responses Google Sheet](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing).
+
 ## Fixes for Common Access Problems
 
 ### GitHub
