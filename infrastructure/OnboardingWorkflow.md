@@ -31,10 +31,11 @@ To onboard new members, or to continue boarding partially onboarded members, fir
 Google groups should cache the correct welcome messages, however you can copy/paste in one from below if they get erased:
 
 ##### Admin
-
+```
 Welcome to the CFDE working group. 
 
 You have been added to Admin. You will have: 
+
 - Edit access to CFDE_Everyone- day to day documents for the CFDE 
 - Edit access to CFDE_Admin- documents for administration of CFDE infrastructure 
 
@@ -43,12 +44,14 @@ You can access these groups in your google drive under Team Drives
 If you have any problems, please email our help desk mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io 
 
 - CFDE Onboarding Team
-
+```
 ##### Everyone
- 
+
+```
 Welcome to the CFDE working group. 
 
 You have been added to Everyone. You will have: 
+
 - Edit access to CFDE_Everyone- day to day documents for the CFDE 
 - View access to CFDE_Admin- documents for administration of CFDE infrastructure 
 
@@ -57,6 +60,7 @@ You can access these groups in your google drive under Team Drives
 If you have any problems, please email our help desk mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io 
 
 - CFDE Onboarding Team
+```
 
 ### Slack space adds
 
@@ -102,11 +106,11 @@ If you have just updated their 'Slack Invite Accepted?' checkbox, then you also 
      NOTE1: It's basically impossible to read column R for members that choose more than one list.
      It's much easier to read their choices directly off their form. To do that:
        
-       - Go to https://docs.google.com/forms/d/1sFY6y2eHB3PS0HayEyxXtZOrBJV7lfT8thJ8bL9wKqQ/edit#responses
-       - Click on the 'Individual' tab
-       - Click where it says 'achar@ucdavis.edu'. That will open a selection box where you can choose the email address of the member you're working on
-       - Choose the right email address
-       - Scroll to the bottom of their form to the 'Mailing List Options' section
+      - Go to https://docs.google.com/forms/d/1sFY6y2eHB3PS0HayEyxXtZOrBJV7lfT8thJ8bL9wKqQ/edit#responses
+      - Click on the 'Individual' tab
+      - Click where it says 'achar@ucdavis.edu'. That will open a selection box where you can choose the email address of the member you're working on
+      - Choose the right email address
+      - Scroll to the bottom of their form to the 'Mailing List Options' section
        
     NOTE2: Members are automatically added to groups.io when they accept their Slack invite, 
      however the sync can take up to one hour. If someone has accepted thier Slack invite, but
