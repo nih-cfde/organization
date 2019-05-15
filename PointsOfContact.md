@@ -41,13 +41,20 @@ points of contact.
 
 | Role                   | Name           | Email Address             | GitHub username |
 | ---------------------- | -------------- | ------------------------- | --------------- |
-| Project Manager | Jen Yttri  | jyttri@mitre.org    |    jyttri   |
+| Project Manager | Jen Yttri  | <jyttri@mitre.org>    |    jyttri   |
+
+## O'Connor Group
+
+| Role                   | Name           | Email Address             | GitHub username |
+| ---------------------- | -------------- | ------------------------- | --------------- |
+| Principal Investigator  | Brian O'Connor  | <broconno@ucsc.edu>   |   briandoconnor  |
+
 
 ## Sansone Group
 
 | Role                   | Name           | Email Address             | GitHub username |
 | ---------------------- | -------------- | ------------------------- | --------------- |
-| Principal Investigator | Susanna Sansone  | sa.sansone@gmail.com    | SusannaSansone    |
+| Principal Investigator | Susanna Sansone  | <sa.sansone@gmail.com>    | SusannaSansone    |
 
 
 ## White Group
@@ -58,6 +65,5 @@ points of contact.
 | Admin Contact          | Owen White    | <owhite@som.umaryland.edu>    | owhite          |
 | Project Manager        | Anup Mahurkar | <amahurkar@som.umaryland.edu> | amahurkar       |
 | Project Manager        | Bob Carter    | <rlc.dcppc@gmail.com>         | Bob Carter      |
-| SSO Consultant         | Brian O'Connor  | <broconno@ucsc.edu>         | briandoconnor   |
 
 For infrastructure and administrative issues, please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
