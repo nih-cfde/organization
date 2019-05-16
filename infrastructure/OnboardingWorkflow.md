@@ -7,6 +7,15 @@ To fully onboard, a new member must:
  
  We track those events, as well as our progress in adding them to our resources [here](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing).
 
+## Onboarding Overview
+The Onboarding form should be checked and updated at least every other business day. Onboarding each person is a typically a multi-day process, because you have to wait for them to accept your invitations before you can proceed with the final steps. The basic workflow is:
+  
+  - Add them to our Google Group, and send them invitations to Slack and GitHub
+  - Add their name to the "Welcome" list in the Weekly Announcements
+  - Add them to the MPQ form
+  - Wait for them to accept the invitations
+  - Add them to the correct mailing lists
+
 ## Onboarding Walkthrough
 To onboard new members, or to continue boarding partially onboarded members, first navigate to the [Onboarding Reponses Google Sheet](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing).
   Individuals who have newly requested onboarding will not have checks in the first six columns of the spreadsheet. Partially onboarded members will have some boxes checked.
@@ -24,6 +33,12 @@ To onboard new members, or to continue boarding partially onboarded members, fir
    - (You can also reach those pages by going to [Google Groups](https://groups.google.com/forum/#!myforums), choosing 'Manage members' for the appropriate group, and then clicking 'Direct add members' on the left side of the screen.)
    - Enter the email address of the person you want to onboard. If you have more than one to add to a given group, you can add multiple, comma-seperated, email addresses
    - Ensure that the welcome message box is filled correctly (see below), then click `Add` at the top of the screen
+   - As soon as you've added them to the Google Group, you should add them to the Welcome list on the Announcements list. Go to https://github.com/nih-cfde/announcements/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+Announcements
+   - Click on the issue called "Weekly Announcements"
+   - Scroll to the bottom of the page to the text box.
+   - Make the first line say `# Welcome`
+   - List the name and group affiliation of each person you added to Google Groups as in: `Brown: Amanda Charbonneau, Titus Brown`
+   - Click the `Comment` button
    - Check the 'Added to Google Group?' box for each person you added
 
 #### Google Group Welcome Messages
@@ -85,6 +100,21 @@ If you have any problems, please email our help desk mailto:autohelp+int+851+654
   - Click `Send Invite`
   - Check the 'GitHub Invite Sent?' box for each person you added
 
+ ### Add to MPQ
+ 
+ If 'Added to MQP as of?' is blank:
+ - Check their Affiliation(s) in column P, only members of the Tech Teams (Brown, Foster, Kesselman, Ma’ayan, O'Connor, Sansone and White) need to be added to the MPQ
+ - Note the name and affilitation for each person you need to add (columns L and P)
+ - Navigate to the MPQs folder in CFDE Admin on Google: https://drive.google.com/drive/u/0/folders/1G7omyAgRSQr-n6F4o3HWUKcRm_cvoOHJ
+ - Find the MPQ that is due this month and open the form for editing
+ - Scroll down to the correct Tech Team
+ - Click on the last person listed in that Tech Team, the one right before the 'What DCC interactions has your team had this month?' question
+ - The individuals question should switch to editing mode. You may have to click it more than once
+ - At the bottom of their section, click on the copy icon. It looks like two, mostly overlapping rectangles
+ - You should now have two copies of that individuals questions. Copy the new team member over the name in the new copy
+ - Click anywhere else on the screen
+ - Add the correct month_year in the 'Added to MQP as of?' column for each person you added
+
 ### Check Slack Invite
 
 If 'Slack Invite Accepted?' is unchecked:
@@ -129,21 +159,6 @@ If you have just updated their 'Slack Invite Accepted?' checkbox, then you also 
   - Use the dialogue box to update 'GitHub Invite Accepted?' checkmarks
   
   
- ### Add to MPQ
- 
- If 'Added to MQP as of?' is blank:
- - Check their Affiliation(s) in column P, only members of the Tech Teams (Brown, Foster, Kesselman, Ma’ayan, O'Connor, Sansone and White) need to be added to the MPQ
- - Note the name and affilitation for each person you need to add (columns L and P)
- - Navigate to the MPQs folder in CFDE Admin on Google: https://drive.google.com/drive/u/0/folders/1G7omyAgRSQr-n6F4o3HWUKcRm_cvoOHJ
- - Find the MPQ that is due this month and open the form for editing
- - Scroll down to the correct Tech Team
- - Click on the last person listed in that Tech Team, the one right before the 'What DCC interactions has your team had this month?' question
- - The individuals question should switch to editing mode. You may have to click it more than once
- - At the bottom of their section, click on the copy icon. It looks like two, mostly overlapping rectangles
- - You should now have two copies of that individuals questions. Copy the new team member over the name in the new copy
- - Click anywhere else on the screen
- - Add the correct month_year in the 'Added to MQP as of?' column for each person you added
-
 
    
    
