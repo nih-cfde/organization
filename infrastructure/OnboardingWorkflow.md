@@ -115,6 +115,13 @@ If you have any problems, please email our help desk mailto:autohelp+int+851+654
  - Click anywhere else on the screen
  - Add the correct month_year in the 'Added to MQP as of?' column for each person you added
 
+### Special additions for PMs, PIs and Admin contacts
+
+If the person you are onboarding is a PI, PM or Administrative contact for *any* team, they should be added to the [Points of Contact](https://github.com/nih-cfde/organization/blob/master/PointsOfContact.md) list:
+  - Navigate to [Points of Contact](https://github.com/nih-cfde/organization/blob/master/PointsOfContact.md) on GitHub
+  - Use the edit feature to add them and issue a pull request. For help with pull requests, see the [GitHub Usage Guide](./GitHubUsage.md)
+
+
 ### Check Slack Invite
 
 If 'Slack Invite Accepted?' is unchecked:
