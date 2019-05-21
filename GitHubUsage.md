@@ -3,23 +3,22 @@
 For help with *using* GitHub, for e.g. opening issues or making pull requests. If you need help changing GitHub notifications and other settings, please see the [GitHub section of the CFDE Communication Management Help Overview](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#github-help)
 
 
-   - **[Definitions](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#definitions)**
-   - **[Navigating our Organization](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#changing-notifications)**
+   - **[Definitions](https://github.com/nih-cfde/organization/blob/ACharbonneau-patch-1/GitHubUsage.md#definitions)**
+   - **[Navigating our Organization](https://github.com/nih-cfde/organization/blob/ACharbonneau-patch-1/GitHubUsage.md#opening-new-issues)**
    - **[Issues](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#watching-settings)**
-      - **[Opening New Issues]**
-      - **[Commenting on Issues]**
-      - **[Referencing Issues]**
-      - **[Closing Issues]**
-   - **[Pull Requests](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#notification-settings)**
-      - **[Opening New Pull Requests]**
-      - **[Commenting on Pull Requests]**
-      - **[Referencing Pull Requests]**
-      - **[Reviewing Pull Requests]**
-      - **[Merging Pull Requests]**
-      - **[Closing Pull Requests]**
-   - **[Searching](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#subscriptions)**
-       - **[Watching Repos and Teams](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#watching-repos-and-teams)**
-   - **[Labels]**
+      - **[Opening New Issues](https://github.com/nih-cfde/organization/blob/ACharbonneau-patch-1/GitHubUsage.md#opening-new-issues)**
+      - **[Commenting on Issues](https://github.com/nih-cfde/organization/blob/ACharbonneau-patch-1/GitHubUsage.md#commenting-on-issues)**
+      - **[Referencing Issues](https://github.com/nih-cfde/organization/blob/ACharbonneau-patch-1/GitHubUsage.md#referencing-issues)**
+      - **[Closing Issues](https://github.com/nih-cfde/organization/blob/ACharbonneau-patch-1/GitHubUsage.md#closing-issues)**
+   - **[Pull Requests](https://github.com/nih-cfde/organization/blob/ACharbonneau-patch-1/GitHubUsage.md#pull-requests)**
+      - **[Opening New Pull Requests](https://github.com/nih-cfde/organization/blob/ACharbonneau-patch-1/GitHubUsage.md#opening-new-pull-requests)**
+      - **[Commenting on Pull Requests](https://github.com/nih-cfde/organization/blob/ACharbonneau-patch-1/GitHubUsage.md#commenting-on-pull-requests)**
+      - **[Referencing Pull Requests](https://github.com/nih-cfde/organization/blob/ACharbonneau-patch-1/GitHubUsage.md#referencing-pull-requests)**
+      - **[Reviewing Pull Requests](https://github.com/nih-cfde/organization/blob/ACharbonneau-patch-1/GitHubUsage.md#reviewing-pull-requests)**
+      - **[Merging Pull Requests](https://github.com/nih-cfde/organization/blob/ACharbonneau-patch-1/GitHubUsage.md#merging-pull-requests)**
+      - **[Closing Pull Requests](https://github.com/nih-cfde/organization/blob/ACharbonneau-patch-1/GitHubUsage.md#closing-pull-requests)**
+   - **[Searching](https://github.com/nih-cfde/organization/blob/ACharbonneau-patch-1/GitHubUsage.md#closing-pull-requests)**
+   - **[Labels](https://github.com/nih-cfde/organization/blob/ACharbonneau-patch-1/GitHubUsage.md#labels)**
 
 ## Definitions
 
