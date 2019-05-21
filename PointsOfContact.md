@@ -65,6 +65,6 @@ points of contact.
 | Principal Investigator | Owen White    | <owhite@som.umaryland.edu>    | owhite          |
 | Admin Contact          | Owen White    | <owhite@som.umaryland.edu>    | owhite          |
 | Project Manager        | Anup Mahurkar | <amahurkar@som.umaryland.edu> | amahurkar       |
-| Project Manager        | Robert Carter    | <rlc.dcppc@gmail.com>         | Bob Carter      |
+| Project Manager        | Robert Carter    | <rlc.dcppc@gmail.com>         | RLC-DCPPC      |
 
 For infrastructure and administrative issues, please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
