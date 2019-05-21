@@ -19,7 +19,7 @@ points of contact.
 | ---------------------------- | ------------- | --------------------- | --------------- |
 | Principal Investigator       | Ian Foster    |  <foster@uchicago.edu> | ianfoster       |
 | Admin Contact                |    |     |       |
-| Project Manager |  |     |         |
+| Project Manager | Rick Wagner |  rick@globus.org   |  rpwagner |
 
 ## GTEx
 
@@ -47,7 +47,8 @@ points of contact.
 
 | Role                   | Name           | Email Address             | GitHub username |
 | ---------------------- | -------------- | ------------------------- | --------------- |
-| Principal Investigator  | Brian O'Connor  | <broconno@ucsc.edu>   |   briandoconnor  |
+| Principal Investigator  | Brian O'Connor  | <brian@nimbusinformatics.com>   |   briandoconnor  |
+| Project Manager  | Vladimir Makarov  | <vladimir@nimbusinformatics.com>   |   vlmakarov  |
 
 
 ## Sansone Group
