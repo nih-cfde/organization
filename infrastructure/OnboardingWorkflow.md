@@ -81,7 +81,8 @@ If you have any problems, please email our help desk mailto:autohelp+int+851+654
 
   If 'Slack Invite Sent?' is unchecked:
    - Copy their email address from column J
-   - In your CFDE Slack window, click '+Invite people'. (It will just below your list of Direct Messages in the sidebar)
+   - In your CFDE Slack window, click on your name at the top of the side bar
+   - Choose '+Invite people'
    - Paste their email address into the box. You can add more than one person at a time.
    - Check the 'Slack Invite Sent?' box for each person you added
    
