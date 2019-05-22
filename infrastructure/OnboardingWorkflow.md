@@ -33,7 +33,7 @@ To onboard new members, or to continue boarding partially onboarded members, fir
    - (You can also reach those pages by going to [Google Groups](https://groups.google.com/forum/#!myforums), choosing 'Manage members' for the appropriate group, and then clicking 'Direct add members' on the left side of the screen.)
    - Enter the email address of the person you want to onboard. If you have more than one to add to a given group, you can add multiple, comma-seperated, email addresses
    - Ensure that the welcome message box is filled correctly (see below), then click `Add` at the top of the screen
-   - As soon as you've added them to the Google Group, you should add them to the Welcome list on the Announcements list. Go to https://github.com/nih-cfde/announcements/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+Announcements
+   - As soon as you've added them to the Google Group, you should add them to the Welcome list on the Announcements list. Go to [the issues for the announcements repo](https://github.com/nih-cfde/announcements/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+Announcements)
    - Click on the issue called "Weekly Announcements"
    - Scroll to the bottom of the page to the text box.
    - Make the first line say `# Welcome`
@@ -90,7 +90,7 @@ If you have any problems, please email our help desk mailto:autohelp+int+851+654
   If 'GitHub Invite Sent?' is unchecked:
   - Copy their GitHubID from column O
   - Note their Title/Position from column Q and affiliation from column P
-  - Go to https://github.com/orgs/nih-cfde/people
+  - Go to [the people list on GitHub](https://github.com/orgs/nih-cfde/people)
   - Click `Invite Member`
   - Paste thier GitHubID into the box (don't put an `@` in front of it)
   - Click on the rendered version of their GitHubID that pops up. Be sure it's the right person!
@@ -105,7 +105,7 @@ If you have any problems, please email our help desk mailto:autohelp+int+851+654
  If 'Added to MQP as of?' is blank:
  - Check their Affiliation(s) in column P, only members of the Tech Teams (Brown, Foster, Kesselman, Ma’ayan, O'Connor, Sansone and White) need to be added to the MPQ
  - Note the name and affilitation for each person you need to add (columns L and P)
- - Navigate to the MPQs folder in CFDE Admin on Google: https://drive.google.com/drive/u/0/folders/1G7omyAgRSQr-n6F4o3HWUKcRm_cvoOHJ
+ - Navigate to [the MPQs folder in CFDE Admin on Google](https://drive.google.com/drive/u/0/folders/1G7omyAgRSQr-n6F4o3HWUKcRm_cvoOHJ)
  - Find the MPQ that is due this month and open the form for editing
  - Scroll down to the correct Tech Team
  - Click on the last person listed in that Tech Team, the one right before the 'What DCC interactions has your team had this month?' question
@@ -125,7 +125,7 @@ If the person you are onboarding is a PI, PM or Administrative contact for *any*
 ### Check Slack Invite
 
 If 'Slack Invite Accepted?' is unchecked:
-  - Go to this link: https://cfdeworkspace.slack.com/admin/invites#pending (you may need to log into your Slack account)
+  - Go to [the admin page for slack](https://cfdeworkspace.slack.com/admin/invites#pending) (you may need to log into your Slack account)
   - If their invitation has moved to 'Accepted Invitations', click the checkbox
   - You can search for them using their email address in column J
   - Check the 'Slack Invite Accepted?' box for each person you added
@@ -134,7 +134,7 @@ If 'Slack Invite Accepted?' is unchecked:
 
 If you have just updated their 'Slack Invite Accepted?' checkbox, then you also need to add them to mailing lists (next section)
  - Note the mailing lists they requested to join in column R (see NOTE1 for help)
- - Go to https://cfde.groups.io/g/General/subgroupmembers (see NOTE2 for help)
+ - Go to [the subgroup members list](https://cfde.groups.io/g/General/subgroupmembers) (see NOTE2 for help)
  - Check the boxes next to their name for their selected lists (you can do multiple members at a time)
  - Click `Update`
  - Click `Yes` in the dialogue box that appears (Yes has a trash can for some reason)
@@ -143,7 +143,7 @@ If you have just updated their 'Slack Invite Accepted?' checkbox, then you also 
      NOTE1: It's basically impossible to read column R for members that choose more than one list.
      It's much easier to read their choices directly off their form. To do that:
        
-      - Go to https://docs.google.com/forms/d/1sFY6y2eHB3PS0HayEyxXtZOrBJV7lfT8thJ8bL9wKqQ/edit#responses
+      - Go to [the form view for onboarding](https://docs.google.com/forms/d/1sFY6y2eHB3PS0HayEyxXtZOrBJV7lfT8thJ8bL9wKqQ/edit#responses)
       - Click on the 'Individual' tab
       - Click where it says 'achar@ucdavis.edu'. That will open a selection box where you can choose the email address of the member you're working on
       - Choose the right email address
@@ -153,7 +153,7 @@ If you have just updated their 'Slack Invite Accepted?' checkbox, then you also 
      however the sync can take up to one hour. If someone has accepted thier Slack invite, but
      does not appear in the subgroupmembers page, you can force the sync to happen immediately by:
        
-      - Go to https://cfde.groups.io/g/General/syncslackmembers
+      - Go to [the sync page](https://cfde.groups.io/g/General/syncslackmembers)
       - Click the 'Slack Members' tab
       - Check the box next to the members name
       - Click the `Add to Groups.io` button
@@ -161,7 +161,7 @@ If you have just updated their 'Slack Invite Accepted?' checkbox, then you also 
  ### Check GitHub Invite
  
  If 'GitHub Invite Accepted?' is unchecked:
-  - Go to https://github.com/orgs/nih-cfde/people
+  - Go to [the people list on GitHub](https://github.com/orgs/nih-cfde/people)
   - Click on 'X pending invitations'. It will be just below the `Invite member` button.
   - Use the dialogue box to update 'GitHub Invite Accepted?' checkmarks
   
