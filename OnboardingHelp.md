@@ -28,6 +28,8 @@ If you cannot find your GitHub invitation, follow this link to accept on the web
 
 For help configuring your GitHub notifications and other settings see [the GitHub section of Communication Management](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#github-help)
 
+For help with how to interact with GitHub,(e.g. how to submit a pull request), see [the gitHub usage help page](https://github.com/nih-cfde/organization/blob/master/GitHubUsage.md)
+
 ### groups.io
 You may need to add CFDE@groups.io to your safe sender list in your email client’s contacts
 to reliably receive mailing list emails.
