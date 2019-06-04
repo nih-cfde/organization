@@ -1,7 +1,8 @@
-Any user in the CFDE can create a new repository. Before making a new repository, please check to see whether there any existing repositories with similar purposes. 
-If the repository will not host much code, consider whether a mailing list or Slack channel might be effective for your goals.
-
 # Checklist: Adding a new repository
+
+Any user in the CFDE can create a new repository. Before making a new repository, please check to see whether there any existing repositories with similar purposes. 
+
+If the repository will not host much code, consider whether a mailing list or Slack channel might be effective for your goals.
 
 **1) Decide where your repository will live.**
 
