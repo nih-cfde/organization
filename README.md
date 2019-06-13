@@ -33,7 +33,7 @@ Have a *new* team member? Send them to the [Onboarding form](https://forms.gle/H
 
 Have an *exiting* team member? Send them to the [Offboarding form](https://forms.gle/TQMmwvSGaDCFuVXP9)
 
-If you have a team member who needs to *alter* access levels or affiliations please have them use the link in their Onboarding form Confirmation email to update their Onboarding Form. They can also edit their Onboarding info by going to the [Onboarding form](https://forms.gle/H3ThBxzYYHdauaKJ8) while signed in to Google with the email they originally used to Onboard.
+If you have a team member who needs to *alter* access levels or affiliations please have them use the link in their Onboarding form Confirmation email to update their Onboarding Form. They can also edit their Onboarding info by going to the [Onboarding form](https://forms.gle/H3ThBxzYYHdauaKJ8) while signed in to Google with the email they originally used to Onboard. Please [email the helpdesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io) after changing your form to ensure any changes are propagated through the CFDE system.
 
 You can check the onboarding status of any CFDE member by finding their name here [Onboarded CFDE Members](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing)
 
