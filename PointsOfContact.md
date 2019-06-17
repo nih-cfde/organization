@@ -18,7 +18,7 @@ points of contact.
 | Role                         | Name          | Email Address         | GitHub username |
 | ---------------------------- | ------------- | --------------------- | --------------- |
 | Principal Investigator       | Ian Foster    |  <foster@uchicago.edu> | ianfoster       |
-| Admin Contact                |    |     |       |
+| Admin Contact                |  Ian Foster  |   <foster@uchicago.edu>  |  ianfoster     |
 | Project Manager | Rick Wagner |  rick@globus.org   |  rpwagner |
 
 ## GTEx
