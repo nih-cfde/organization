@@ -26,8 +26,7 @@ If the repository will not host much code, consider whether a mailing list or Sl
     by nature of their contents. Github is useful for managing code,
     documents, and project management tasks that should not be made
     public.
-  - Currently, we do *not* have the ability to host private repositories, however we will be adding that functionality shortly. 
-    If you are not sure whether to make your repository public, or need a private repo, please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io) for help.
+  - If you are not sure whether to make your repository public, or need a private repo, please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io) for help.
 
 **3) Name the repository and add a description.**
 
