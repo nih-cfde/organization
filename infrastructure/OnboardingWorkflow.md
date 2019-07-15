@@ -3,17 +3,18 @@
 To fully onboard, a new member must:
  - Fill out the onboarding form
  - Accept our GitHub invite
+ - Accept our Slack invite
  
  We track those events, as well as our progress in adding them to our resources [here](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing).
 
 ## Onboarding Overview
-The Onboarding form should be checked and updated at least every other business day. Onboarding each person is a typically a multi-day process, because you have to wait for them to accept your GitHub invitation. The basic workflow is:
+The Onboarding form should be checked and updated at least every other business day. Onboarding each person is a typically a multi-day process, because you have to wait for them to accept your invitations. The basic workflow is:
   
   - Add them to our Google Group, and send them an invitation GitHub
   - Add their name to the "Welcome" list in the Weekly Announcements
   - Add them to the MPQ form
   - Add them to the correct mailing lists
-  - Wait for them to accept the invitation
+  - Wait for them to accept the invitations
 
 ## Onboarding Walkthrough
 To onboard new members, or to continue boarding partially onboarded members, first navigate to the [Onboarding Reponses Google Sheet](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing).
@@ -78,7 +79,7 @@ If you have any problems, please email our help desk mailto:autohelp+int+851+654
 
 ### Slack space adds
 
-As of 7/15/2019 new members are automatically added to Slack by Groups.io
+As of 7/15/2019 new members are automatically sent a Slack invitation by Groups.io
 
 ### Add to Mailing lists
 
