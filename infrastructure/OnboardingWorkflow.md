@@ -25,8 +25,8 @@ To onboard new members, or to continue boarding partially onboarded members, fir
 ### Google Group adds
 
   If 'Added to Google Group?' is unchecked:
-   - Copy their email address from column J, if they don't have one, use the email address in column I
-   - Note their Title/Position from column P and affiliation from column O
+   - Copy their email address from column K, if they don't have one, use the email address in column J
+   - Note their Title/Position from column Q and affiliation from column P
    - Decide what Google Permissions group to add them to:
       - For members of Teams Brown or White who are working on infrastructure or data access management, choose [CFDE_Admin](https://groups.google.com/forum/#!managemembers/cfde_admin/add)
       - For everyone else, choose [CFDE_Everyone](https://groups.google.com/forum/#!managemembers/cfde_everyone/add)
@@ -85,8 +85,8 @@ As of 7/15/2019 new members are automatically sent a Slack invitation by Groups.
 
 If 'Mailing Lists Assigned??' is unchecked:
 
- - Copy their email address from column J, if they don't have one, use the email address in column I
- - Copy their name from column K
+ - Copy their email address from column K, if they don't have one, use the email address in column J
+ - Copy their name from column L
  - Note the mailing lists they requested to join in column Q (see NOTE1 for help)
  - Got to [direct add for the general mailing list](https://cfde.groups.io/g/General/directadd)
  - Paste the following text in the 'Customize Message' box:
@@ -110,7 +110,7 @@ All documents in the CFDE Google Drives and GitHub repositories are assumed to b
  - Add their name and address to the 'Emails' box in this format: `Name <email@example.com>`
  - Click `+ Add Members`
  
-     NOTE1: It's basically impossible to read column Q for members that choose more than one list.
+     NOTE1: It's basically impossible to read column R for members that choose more than one list.
      It's much easier to read their choices directly off their form. To do that:
        
       - Go to [the form view for onboarding](https://docs.google.com/forms/d/1sFY6y2eHB3PS0HayEyxXtZOrBJV7lfT8thJ8bL9wKqQ/edit#responses)
@@ -122,8 +122,8 @@ All documents in the CFDE Google Drives and GitHub repositories are assumed to b
 ### GitHub adds
 
   If 'GitHub Invite Sent?' is unchecked:
-  - Copy their GitHubID from column N
-  - Note their Title/Position from column P and affiliation from column O
+  - Copy their GitHubID from column O
+  - Note their Title/Position from column Q and affiliation from column P
   - Go to [the people list on GitHub](https://github.com/orgs/nih-cfde/people)
   - Click `Invite Member`
   - Paste thier GitHubID into the box (don't put an `@` in front of it)
@@ -137,8 +137,8 @@ All documents in the CFDE Google Drives and GitHub repositories are assumed to b
  ### Add to MPQ
  
  If 'Added to MQP as of?' is blank:
- - Check their Affiliation(s) in column O, only members of the Tech Teams (Brown, Foster, Kesselman, Ma’ayan, O'Connor, Sansone and White) need to be added to the MPQ
- - Note the name and affilitation for each person you need to add (columns K and O)
+ - Check their Affiliation(s) in column P, only members of the Tech Teams (Brown, Foster, Kesselman, Ma’ayan, O'Connor, Sansone and White) need to be added to the MPQ
+ - Note the name and affilitation for each person you need to add (columns L and P)
  - Navigate to [the MPQs folder in CFDE Admin on Google](https://drive.google.com/drive/u/0/folders/1G7omyAgRSQr-n6F4o3HWUKcRm_cvoOHJ)
  - Find the MPQ that is due this month and open the form for editing
  - Scroll down to the correct Tech Team
@@ -156,7 +156,13 @@ If the person you are onboarding is a PI, PM or Administrative contact for *any*
   - Use the edit feature to add them and issue a pull request. For help with pull requests, see the [GitHub Usage Guide](./GitHubUsage.md)
 
 
+### Check Slack Invite
 
+If 'Slack Invite Accepted?' is unchecked:
+  - Go to [the admin page for slack](https://cfdeworkspace.slack.com/admin/invites#pending) (you may need to log into your Slack account)
+  - If their invitation has moved to 'Accepted Invitations', click the checkbox
+  - You can search for them using their email address in column J
+  - Check the 'Slack Invite Accepted?' box for each person you added
 
  ### Check GitHub Invite
  
