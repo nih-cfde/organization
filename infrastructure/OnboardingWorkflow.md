@@ -2,19 +2,18 @@
 
 To fully onboard, a new member must:
  - Fill out the onboarding form
- - Accept our Slack invite
  - Accept our GitHub invite
  
  We track those events, as well as our progress in adding them to our resources [here](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing).
 
 ## Onboarding Overview
-The Onboarding form should be checked and updated at least every other business day. Onboarding each person is a typically a multi-day process, because you have to wait for them to accept your invitations before you can proceed with the final steps. The basic workflow is:
+The Onboarding form should be checked and updated at least every other business day. Onboarding each person is a typically a multi-day process, because you have to wait for them to accept your GitHub invitation. The basic workflow is:
   
-  - Add them to our Google Group, and send them invitations to Slack and GitHub
+  - Add them to our Google Group, and send them an invitation GitHub
   - Add their name to the "Welcome" list in the Weekly Announcements
   - Add them to the MPQ form
-  - Wait for them to accept the invitations
   - Add them to the correct mailing lists
+  - Wait for them to accept the invitation
 
 ## Onboarding Walkthrough
 To onboard new members, or to continue boarding partially onboarded members, first navigate to the [Onboarding Reponses Google Sheet](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing).
@@ -25,8 +24,8 @@ To onboard new members, or to continue boarding partially onboarded members, fir
 ### Google Group adds
 
   If 'Added to Google Group?' is unchecked:
-   - Copy their email address from column K, if they don't have one, use the email address in column J
-   - Note their Title/Position from column Q and affiliation from column P
+   - Copy their email address from column J, if they don't have one, use the email address in column I
+   - Note their Title/Position from column P and affiliation from column O
    - Decide what Google Permissions group to add them to:
       - For members of Teams Brown or White who are working on infrastructure or data access management, choose [CFDE_Admin](https://groups.google.com/forum/#!managemembers/cfde_admin/add)
       - For everyone else, choose [CFDE_Everyone](https://groups.google.com/forum/#!managemembers/cfde_everyone/add)
@@ -79,18 +78,51 @@ If you have any problems, please email our help desk mailto:autohelp+int+851+654
 
 ### Slack space adds
 
-  If 'Slack Invite Sent?' is unchecked:
-   - Copy their email address from column J
-   - In your CFDE Slack window, click on your name at the top of the side bar
-   - Choose '+Invite people'
-   - Paste their email address into the box. You can add more than one person at a time.
-   - Check the 'Slack Invite Sent?' box for each person you added
+As of 7/15/2019 new members are automatically added to Slack by Groups.io
+
+### Add to Mailing lists
+
+If 'Mailing Lists Assigned??' is unchecked:
+
+ - Copy their email address from column J, if they don't have one, use the email address in column I
+ - Copy their name from column K
+ - Note the mailing lists they requested to join in column Q (see NOTE1 for help)
+ - Got to [direct add for the general mailing list](https://cfde.groups.io/g/General/directadd)
+ - Paste the following text in the 'Customize Message' box:
+ 
+ ```
+ To complete your access, you'll need to accept the invitation to join our GitHub repository nih-cfde
+
+If you do not receive your invitation or have are having trouble with our resources, visit our Onboarding Help
+or email the HelpDesk 
+
+For help using all of our communication resources visit our Communication Management Help page
+
+Please remember that all interactions in the CFDE Google Drive spaces, Github repositories, Slack, groups.io and any other CFDE managed spaces are bound by the [CFDE Code of Conduct](./CODEOFCONDUCT.md). By participating in any of these community spaces you are agreeing to abide by these rules.
+
+All documents in the CFDE Google Drives and GitHub repositories are assumed to be under the [CFDE License](./LICENSE.md) unless another license is specified in the document.
+
+- CFDE Onboarding Team
+```
+
+ - Check the boxes for their selected lists (you can do multiple members at a time)
+ - Add their name and address to the 'Emails' box in this format: `Name <email@example.com>`
+ - Click `+ Add Members`
+ 
+     NOTE1: It's basically impossible to read column Q for members that choose more than one list.
+     It's much easier to read their choices directly off their form. To do that:
+       
+      - Go to [the form view for onboarding](https://docs.google.com/forms/d/1sFY6y2eHB3PS0HayEyxXtZOrBJV7lfT8thJ8bL9wKqQ/edit#responses)
+      - Click on the 'Individual' tab
+      - Click where it says 'achar@ucdavis.edu'. That will open a selection box where you can choose the email address of the member you're working on
+      - Choose the right email address
+      - Scroll to the bottom of their form to the 'Mailing List Options' section      
    
 ### GitHub adds
 
   If 'GitHub Invite Sent?' is unchecked:
-  - Copy their GitHubID from column O
-  - Note their Title/Position from column Q and affiliation from column P
+  - Copy their GitHubID from column N
+  - Note their Title/Position from column P and affiliation from column O
   - Go to [the people list on GitHub](https://github.com/orgs/nih-cfde/people)
   - Click `Invite Member`
   - Paste thier GitHubID into the box (don't put an `@` in front of it)
@@ -104,8 +136,8 @@ If you have any problems, please email our help desk mailto:autohelp+int+851+654
  ### Add to MPQ
  
  If 'Added to MQP as of?' is blank:
- - Check their Affiliation(s) in column P, only members of the Tech Teams (Brown, Foster, Kesselman, Ma’ayan, O'Connor, Sansone and White) need to be added to the MPQ
- - Note the name and affilitation for each person you need to add (columns L and P)
+ - Check their Affiliation(s) in column O, only members of the Tech Teams (Brown, Foster, Kesselman, Ma’ayan, O'Connor, Sansone and White) need to be added to the MPQ
+ - Note the name and affilitation for each person you need to add (columns K and O)
  - Navigate to [the MPQs folder in CFDE Admin on Google](https://drive.google.com/drive/u/0/folders/1G7omyAgRSQr-n6F4o3HWUKcRm_cvoOHJ)
  - Find the MPQ that is due this month and open the form for editing
  - Scroll down to the correct Tech Team
@@ -123,41 +155,7 @@ If the person you are onboarding is a PI, PM or Administrative contact for *any*
   - Use the edit feature to add them and issue a pull request. For help with pull requests, see the [GitHub Usage Guide](./GitHubUsage.md)
 
 
-### Check Slack Invite
 
-If 'Slack Invite Accepted?' is unchecked:
-  - Go to [the admin page for slack](https://cfdeworkspace.slack.com/admin/invites#pending) (you may need to log into your Slack account)
-  - If their invitation has moved to 'Accepted Invitations', click the checkbox
-  - You can search for them using their email address in column J
-  - Check the 'Slack Invite Accepted?' box for each person you added
-
-### Add to Mailing lists
-
-If you have just updated their 'Slack Invite Accepted?' checkbox, then you also need to add them to mailing lists (next section)
- - Note the mailing lists they requested to join in column R (see NOTE1 for help)
- - Go to [the subgroup members list](https://cfde.groups.io/g/General/subgroupmembers) (see NOTE2 for help)
- - Check the boxes next to their name for their selected lists (you can do multiple members at a time)
- - Click `Update`
- - Click `Yes` in the dialogue box that appears (Yes has a trash can for some reason)
- - Check the 'Mailing Lists Assigned?' box for each person you added
- 
-     NOTE1: It's basically impossible to read column R for members that choose more than one list.
-     It's much easier to read their choices directly off their form. To do that:
-       
-      - Go to [the form view for onboarding](https://docs.google.com/forms/d/1sFY6y2eHB3PS0HayEyxXtZOrBJV7lfT8thJ8bL9wKqQ/edit#responses)
-      - Click on the 'Individual' tab
-      - Click where it says 'achar@ucdavis.edu'. That will open a selection box where you can choose the email address of the member you're working on
-      - Choose the right email address
-      - Scroll to the bottom of their form to the 'Mailing List Options' section
-       
-    NOTE2: Members are automatically added to groups.io when they accept their Slack invite, 
-     however the sync can take up to one hour. If someone has accepted thier Slack invite, but
-     does not appear in the subgroupmembers page, you can force the sync to happen immediately by:
-       
-      - Go to [the sync page](https://cfde.groups.io/g/General/syncslackmembers)
-      - Click the 'Slack Members' tab
-      - Check the box next to the members name
-      - Click the `Add to Groups.io` button
 
  ### Check GitHub Invite
  
