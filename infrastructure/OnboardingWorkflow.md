@@ -109,6 +109,7 @@ All documents in the CFDE Google Drives and GitHub repositories are assumed to b
  - Check the boxes for their selected lists (you can do multiple members at a time)
  - Add their name and address to the 'Emails' box in this format: `Name <email@example.com>`
  - Click `+ Add Members`
+ - Check the 'Mailing Lists Assigned??' box for each person you added
  
      NOTE1: It's basically impossible to read column R for members that choose more than one list.
      It's much easier to read their choices directly off their form. To do that:
@@ -125,7 +126,14 @@ All documents in the CFDE Google Drives and GitHub repositories are assumed to b
   - Copy their GitHubID from column O
   - Note their Title/Position from column Q and affiliation from column P
   - Go to [the people list on GitHub](https://github.com/orgs/nih-cfde/people)
-  - Click `Invite Member`
+  - Click `Invite Member` or `Buy more` (it will only show one or the other)
+    
+  If you clicked `Buy more`:
+  - Type in the number of seats (users) you want to add today
+  - Click 'Add seats'
+  - Click `Invite Member` and follow the instructions below
+  
+  If you clicked `Invite Member`:
   - Paste thier GitHubID into the box (don't put an `@` in front of it)
   - Click on the rendered version of their GitHubID that pops up. Be sure it's the right person!
   - Click `Invite`
