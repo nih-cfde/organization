@@ -50,6 +50,13 @@ points of contact.
 | Principal Investigator  | Brian O'Connor  | <brian@nimbusinformatics.com>   |   briandoconnor  |
 | Project Manager  | Vladimir Makarov  | <vladimir@nimbusinformatics.com>   |   vlmakarov  |
 
+## RTI
+
+| Role                   | Name           | Email Address             | GitHub username |
+| ---------------------- | -------------- | ------------------------- | --------------- |
+| Principal Investigator | Rebecca Boyles | <beckyboyles1@gmail.com>  | RebeccaBoyles  |
+| Project Manager | Marcie Rathbun | <mrathbun@rti.org> | mrathbun-rti |
+
 
 ## Sansone Group
 
