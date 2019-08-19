@@ -40,16 +40,16 @@ Offboarding tasks should be completed (or checked up on) from left to right for 
    - Click the `Comment` button
    - Check the 'Removed from Google Group?' box for each person you removed
 
-### Slack space removal
+### Groups.io space removal
 
-  If 'Removed from Slack?' is unchecked:
-   - Copy their email address from column J of the [Onboarding Responses form](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing)
-   - Navigate to the Slack Admin page: https://cfdeworkspace.slack.com/admin 
-   - Paste their email address into the search bar
-   - Click the ellipses on right side of the screen on the line with their name
-   - Choose 'Deactivate account'
-   - In the dialog box, click the `Deactivate` button
-   - Check the 'Removed from Slack?' box for each person you added
+ If 'Removed from Groups.io?' is unchecked:
+  - Copy their email from column J of the [Onboarding Responses form](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing)
+   - Go to https://cfde.groups.io/g/General/members
+  - Paste thier email into the 'search' box
+  - Check the box on the left side of their name and click the 'Actions' button
+  - In the drop down menu, choose 'Remove' 
+  - In the dialogue box, choose 'Yes'
+  - Check the 'Removed from Groups.io?' box for each person you removed (Groups.io will automatically remove them from Slack)
    
 ### GitHub removal
 
