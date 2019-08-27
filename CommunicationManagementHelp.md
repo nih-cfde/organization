@@ -216,9 +216,7 @@ You will have access to two or three different CFDE drives.
  list created by the onboarding form
  - CFDE Everyone: Everyone has edit access to this drive. It contains the bulk of CFDE files and
  is the main place for collaboration
- - CFDE Steering: This is a restricted access folder for budgets, high level reports and other documents
- intended soley for communication between PIs and the NIH
- 
+  
  **All interactions in the CFDE Google Drives are bound by the [CFDE Code of Conduct](./CODEOFCONDUCT.md).**
  
  **All documents in the CFDE Google Drive spaces are assumed to be under the [CFDE License](./LICENSE.md) unless another license is specified in the document.**
@@ -237,7 +235,7 @@ You may need to click on the small arrow to see the list of drives you have acce
 
 #### Sharing Files
 
-All three drives, and their contents, are viewable only by members who have completed the [onboarding form](https://forms.gle/wsBAYevSQNVfG5eF9). You can still send links to files, however in order to view the link,
+Both drives, and their contents, are viewable only by members who have completed the [onboarding form](https://forms.gle/wsBAYevSQNVfG5eF9). You can still send links to files, however in order to view the link,
 the recipient will need to log in using the email they specified in their [onboarding form](https://forms.gle/wsBAYevSQNVfG5eF9). 
 
 To copy the sharable link:
