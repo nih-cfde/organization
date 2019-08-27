@@ -241,7 +241,7 @@ All three drives, and their contents, are viewable only by members who have comp
 the recipient will need to log in using the email they specified in their [onboarding form](https://forms.gle/wsBAYevSQNVfG5eF9). 
 
 To copy the sharable link:
-- Right-click on the desired file and select `Share` OR click on the desired file and click the share button near teh top right of the screen
+- Right-click on the desired file and select `Share` OR click on the desired file and click the share button near the top right of the screen
 - Click 'WHO HAS ACCESS' in the bottom left corner of the dialogue box that appears
 - Click the small arrow next to 'Link sharing off' <img src="/images/links1.png" alt="Link Sharing Off" width="300"/>
 - Click the `COPY` button next to the URL <img src="/images/links2.png" alt="Link Sharing Off" width="300"/>
