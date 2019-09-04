@@ -38,14 +38,12 @@ For help configuring your groups.io mailing frequency and other settings see [th
 
 ### Google Drive
 You must be logged into Google Drive using the email you specified in your onboarding form. 
-You will have access to two or three different CFDE drives.
+You will have access to two different CFDE drives.
  - CFDE Admin: Everyone has view access to this drive. It contains files related to maintaining 
  the CFDE infrastructure and files that need to be locked from direct editing such as the contact
  list created by the onboarding form
  - CFDE Everyone: Everyone has edit access to this drive. It contains the bulk of CFDE files and
  is the main place for collaboration
- - CFDE Steering: This is a restricted access folder for budgets, high level reports and other documents
- intended soley for communication between PIs and the NIH
  
 On the left side of the screen, you should see a button for Team Drives:
 
