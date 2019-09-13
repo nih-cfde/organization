@@ -39,11 +39,11 @@ You can check the onboarding status of any CFDE member by finding their name her
 
 ### Reporting
 
-Complete your monthly reporting form by the *last* business day of each month. [Reporting Guide](https://github.com/nih-cfde/project-management/blob/master/MonthlyReportingGuide.md)
+Complete your monthly reporting form by the 15th day of each month. [Reporting Guide](https://github.com/nih-cfde/project-management/blob/master/MonthlyReportingGuide.md)
 
-Submit your deliverables by the *last* business day of the month they are due. [Delivery Guide](https://github.com/nih-cfde/project-management/blob/master/DeliveryGuide.md)
+Submit your deliverables to UMD at least two days before they are due to NIH. [Delivery Guide](https://github.com/nih-cfde/project-management/blob/master/DeliveryGuide.md)
 
-Submit your financial report by the *last* business day of the quarter. [Financial Report Guide](https://github.com/nih-cfde/project-management/blob/master/FinancialReportingGuide.md)
+Submit your financial report by the 6th business day of the month. [Financial Report Guide](https://github.com/nih-cfde/project-management/blob/master/FinancialReportingGuide.md)
 
 Request changes to delivery dates and changes in deliverables by contacting <bob> [Change Request Guide](https://github.com/nih-cfde/project-management/blob/master/ChangeRequestGuide.md)
 
