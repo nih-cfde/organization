@@ -2,7 +2,7 @@
 
 This style guide is intended to help contributors to the CFDE
 website ([nih-cfde/public-site-mockups](https://github.com/nih-cfde/public-site-mockups))
-repository, to correctly format their Markdown files fast incorporation into the
+repository, to correctly format their Markdown files for fast incorporation into the
 webpage.
 
 ## What is Markdown? What is Github-Flavored Markdown?
