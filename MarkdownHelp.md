@@ -1,8 +1,8 @@
 # Common Fund Data Ecosystem Markdown help
 
 This style guide is intended to help contributors to the CFDE
-website ([nih-cfde/public-site-mockups](https://github.com/nih-cfde/public-site-mockups),
-repositorie, to correctly format their Markdown files fast incorporation into the
+website ([nih-cfde/public-site-mockups](https://github.com/nih-cfde/public-site-mockups))
+repository, to correctly format their Markdown files fast incorporation into the
 webpage.
 
 ## What is Markdown? What is Github-Flavored Markdown?
@@ -22,7 +22,7 @@ by angle brackets, like `<https://example.com>`. Github-flavored
 Markdown will detect it as a link automatically, however, and will
 render it as a link when the Markdown file is viewed on Github.
 
-The internal site uses Markdown, not Github-flavored Markdown. While
+The site uses Markdown, not Github-flavored Markdown. While
 Github-flavored Markdown is convenient because you can be less careful,
 it's good to get into the habit of writing Markdown that's universally
 valid.
