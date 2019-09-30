@@ -92,10 +92,10 @@ Issues can be used to keep track of bugs, enhancements, or other requests. A Git
 2. Select the issue you want to close.
 <img src="/images/repo-issue-list.png" alt="Repo Issues List" width="400"/>
 3. Issues can be closed using either the `Close and comment` or `Close issue` buttons.
-   * Type comment and select `Close and Comment` button.
-      <img src="/images/repo-issue-close-and-commit.png" alt="Close and comment issue" width="400"/>
-   * Select `Close issue` button.
-      <img src="/images/repo-issue-close.png" alt="Close issue" width="400"/>
+* Type comment and select `Close and Comment` button.
+<img src="/images/repo-issue-close-and-commit.png" alt="Close and comment issue" width="400"/>
+* Select `Close issue` button.
+<img src="/images/repo-issue-close.png" alt="Close issue" width="400"/>
 
 ## Pull Requests
 
