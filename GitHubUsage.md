@@ -48,9 +48,11 @@ Issues can be used to keep track of bugs, enhancements, or other requests. A Git
 
 1. Navigate to the GitHub repository which has the issues you are interested in viewing.
 <img src="/images/repo-main-page.png" alt="Repo Main Page" width="400"/>
+
 2. Sign into GitHub if not already signed in. Link in the top left.
 <img src="/images/repo-main-page-sign-in.png" alt="Sign in arrow" width="400"/>
-3. Select the "Issues" tab across the top of the repository page.
+
+3. Select the `Issues` tab across the top of the repository page.
 <img src="/images/repo-issues-tab.png" alt="Repo Issues Tab" width="400"/>
 
 ### Opening New Issues
@@ -58,8 +60,10 @@ Issues can be used to keep track of bugs, enhancements, or other requests. A Git
 1. See [Accessing Repository Issues](GitHubUsage.md#accessing-repository-issues) for instructions to access issues in a GitHub repository.
 2. Select the green "New Issue" button on the left side of the "Issues" page.
 <img src="/images/repo-new-issue-button.png" alt="New Issue Button" width="400"/>
+
 3. Enter Title and Comment for new issue.
 <img src="/images/repo-new-issue.png" alt="New Issue" width="400"/>
+
 4. Select green "Submit new issue" button.
 <img src="/images/repo-new-issue-submit.png" alt="Submit New Issue" width="400"/>
 
@@ -68,10 +72,13 @@ Issues can be used to keep track of bugs, enhancements, or other requests. A Git
 1. See [Accessing Repository Issues](GitHubUsage.md#accessing-repository-issues) for instructions to access issues in a GitHub repository.
 2. Select the issue you want to comment on.
 <img src="/images/repo-issue-list.png" alt="Repo Issues List" width="400"/>
+
 3. Select the text box and type your comment.
 <img src="/images/repo-issue-new-comment.png" alt="New comment" width="400"/>
+
 4. Select the green "Comment" button at the bottom of the text box.
 <img src="/images/repo-issue-comment-button.png" alt="New comment button" width="400"/>
+
 5. You should now see your new comment in the issue with the comment box at the bottom.
 <img src="/images/repo-issue-with-new-comment.png" alt="Issue with new comment" width="400"/>
 
@@ -80,11 +87,14 @@ Issues can be used to keep track of bugs, enhancements, or other requests. A Git
 1. See [Accessing Repository Issues](GitHubUsage.md#accessing-repository-issues) for instructions to access issues in a GitHub repository or see [Accessing Repository Pull Requests](GitHubUsage.md#accessing-repository-pull-requests) for instructions to access Pull Requests.
 2. Select the issue or pull request you want to comment on.
 <img src="/images/repo-issue-list.png" alt="Repo Issues List" width="400"/>
+
 3. Use the `#` symbol in the comment box to get a drop down of open issues in the repository. You can also type the issue number if known.
 <img src="/images/repo-issue-ref_pop_up.png" alt="Reference Issue pop-up" width="400"/>
 <img src="/images/repo-issue-ref_comment.png" alt="Reference Issue Comment" width="400"/>
+
 4. Select the green "Comment" button at the bottom of the text box.
 <img src="/images/repo-issue-comment-button.png" alt="New comment button" width="400"/>
+
 5. You should now see your new comment in the issue with the comment box at the bottom.
 <img src="/images/repo-issue-with-new-comment.png" alt="Issue with new comment" width="400"/>
 
@@ -112,9 +122,11 @@ Pull Requests are used to merge Forked repositories or repository branches.
 
 1. Navigate to the GitHub repository which has the Pull Requests you are interested in viewing.
 <img src="/images/repo-main-page.png" alt="Repo Main Page" width="400"/>
+
 2. Sign into GitHub if not already signed in. Link in the top left.
 <img src="/images/repo-main-page-sign-in.png" alt="Sign in arrow" width="400"/>
-3. Select the "Pull Requests" tab across the top of the repository page.
+
+3. Select the `Pull Requests` tab across the top of the repository page.
 <img src="/images/repo-pull-request-tab.png" alt="Pull Requests Tab" width="400"/>
 
 ### Opening New Pull Requests
