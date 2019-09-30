@@ -19,6 +19,8 @@ For help with *using* GitHub, for e.g. opening issues or making pull requests. I
       - **[Reviewing Pull Requests](GitHubUsage.md#reviewing-pull-requests)**
       - **[Merging Pull Requests](GitHubUsage.md#merging-pull-requests)**
       - **[Closing Pull Requests](GitHubUsage.md#closing-pull-requests)**
+   - **[Forking a Repository](GitHubUsage.md#forking-a-repository)**
+   - **[Creating a New Repository Branch](GitHubUsage.md#creating-a-new-repository-branch)**
    - **[Searching](GitHubUsage.md#searching)**
    - **[Labels](GitHubUsage.md#labels)**
 
@@ -40,11 +42,11 @@ All Common Fund Data Ecosystem GitHub repositories are in the [nih-cfde](https:/
 
 ## Issues
 
-Issues can be used to keep track of bugs, enhancements, or other requests. A GitHub user can open a new Issue or view open Issues for any repository that user has access to.
+Issues can be used to keep track of bugs, enhancements, or other requests. A GitHub user can open a new Issue or view open Issues for any repository that user has access to. [More information](https://help.github.com/en/articles/about-issues)
 
 ### Accessing Repository Issues
 
-1. Navigate to the GitHub repository which has the issues you are interesting in viewing.
+1. Navigate to the GitHub repository which has the issues you are interested in viewing.
 <img src="/images/repo-main-page.png" alt="Repo Main Page" width="400"/>
 2. Sign into GitHub if not already signed in. Link in the top left.
 <img src="/images/repo-main-page-sign-in.png" alt="Sign in arrow" width="400"/>
@@ -75,7 +77,7 @@ Issues can be used to keep track of bugs, enhancements, or other requests. A Git
 
 ### Referencing Issues
 
-1. See [Accessing Repository Issues](GitHubUsage.md#accessing-repository-issues) for instructions to access issues in a GitHub repository or see [Accessing Repository Pull Requests](GitHubUsage.md#accessing-repository-pull-requests)
+1. See [Accessing Repository Issues](GitHubUsage.md#accessing-repository-issues) for instructions to access issues in a GitHub repository or see [Accessing Repository Pull Requests](GitHubUsage.md#accessing-repository-pull-requests) for instructions to access Pull Requests.
 2. Select the issue or pull request you want to comment on.
 <img src="/images/repo-issue-list.png" alt="Repo Issues List" width="400"/>
 3. Use the `#` symbol in the comment box to get a drop down of open issues in the repository. You can also type the issue number if known.
@@ -102,14 +104,79 @@ Issues can be used to keep track of bugs, enhancements, or other requests. A Git
 
 ## Pull Requests
 
+Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch. [More information](https://help.github.com/en/articles/about-pull-requests)
 
+Pull Requests are used to merge Forked repositories or repository branches.
 
 ### Accessing Repository Pull Requests
+
+1. Navigate to the GitHub repository which has the Pull Requests you are interested in viewing.
+<img src="/images/repo-main-page.png" alt="Repo Main Page" width="400"/>
+2. Sign into GitHub if not already signed in. Link in the top left.
+<img src="/images/repo-main-page-sign-in.png" alt="Sign in arrow" width="400"/>
+3. Select the "Pull Requests" tab across the top of the repository page.
+<img src="/images/repo-pull-request-tab.png" alt="Pull Requests Tab" width="400"/>
+
 ### Opening New Pull Requests
+
+1. See [Accessing Repository Pull Requests](GitHubUsage.md#accessing-repository-pull-requests) for instructions to access Pull Requests in a GitHub repository.
+2. 
+
 ### Commenting on Pull Requests
+
+1. See [Accessing Repository Pull Requests](GitHubUsage.md#accessing-repository-pull-requests) for instructions to access Pull Requests in a GitHub repository.
+2. 
+
 ### Referencing Pull Requests
+
+1. See [Accessing Repository Pull Requests](GitHubUsage.md#accessing-repository-pull-requests) for instructions to access Pull Requests in a GitHub repository.
+2. 
+
 ### Reviewing Pull Requests
+
+1. See [Accessing Repository Pull Requests](GitHubUsage.md#accessing-repository-pull-requests) for instructions to access Pull Requests in a GitHub repository.
+2. 
+
 ### Merging Pull Requests
+
+1. See [Accessing Repository Pull Requests](GitHubUsage.md#accessing-repository-pull-requests) for instructions to access Pull Requests in a GitHub repository.
+2. 
+
 ### Closing Pull Requests
+
+1. See [Accessing Repository Pull Requests](GitHubUsage.md#accessing-repository-pull-requests) for instructions to access Pull Requests in a GitHub repository.
+2. 
+
+## Forking a Repository
+
+A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project. [More information](https://help.github.com/en/articles/fork-a-repo)
+
+1. Navigate to the GitHub repository and Sign into GitHub if not already signed in.
+2. Select the `Fork` button on the top right of the repository page.
+<img src="/images/repo-fork-button.png" alt="Fork repo button" width="400"/>
+
+3. Select the location to Fork the repository into.
+<img src="/images/repo-fork-location.png" alt="Fork repo location" width="400"/>
+
+4. Wait while GitHub Forks the repository.
+<img src="/images/repo-fork-in-progress.png" alt="Fork repo in progress" width="400"/>
+
+5. The page will refresh to the new Forked repository.
+<img src="/images/repo-new-forked.png" alt="Fork repo finished" width="400"/>
+
+## Creating a New Repository Branch
+
+Use a branch to isolate development work without affecting other branches in the repository. Each repository has one default branch, and can have multiple other branches. You can merge a branch into another branch using a pull request. [More information](https://help.github.com/en/articles/about-branches)
+
+1. Navigate to the GitHub repository and Sign into GitHub if not already signed in.
+2. Select list of branches using the `Branch: <name>` button.
+<img src="/images/repo-select-branch-list.png" alt="Select Branches" width="400"/>
+
+3. Type name of new branch in the text box, select `Create branch` button on pop up.
+<img src="/images/repo-new-branch.png" alt="Create new branch" width="400"/>
+
+4. The page will refresh and you are now viewing the branch you just created. You can see the branch name in the `Branch: <name>` botton.
+<img src="/images/repo-name-new-branch.png" alt="View new branch" width="400"/>
+
 ## Searching
 ## Labels
