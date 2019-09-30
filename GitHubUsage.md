@@ -3,22 +3,22 @@
 For help with *using* GitHub, for e.g. opening issues or making pull requests. If you need help changing GitHub notifications and other settings, please see the [GitHub section of the CFDE Communication Management Help Overview](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#github-help)
 
 
-   - **[Definitions](https://github.com/nih-cfde/organization/blob/ACharbonneau-patch-1/GitHubUsage.md#definitions)**
-   - **[Navigating our Organization](https://github.com/nih-cfde/organization/blob/ACharbonneau-patch-1/GitHubUsage.md#opening-new-issues)**
-   - **[Issues](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#watching-settings)**
-      - **[Opening New Issues](https://github.com/nih-cfde/organization/blob/ACharbonneau-patch-1/GitHubUsage.md#opening-new-issues)**
-      - **[Commenting on Issues](https://github.com/nih-cfde/organization/blob/ACharbonneau-patch-1/GitHubUsage.md#commenting-on-issues)**
-      - **[Referencing Issues](https://github.com/nih-cfde/organization/blob/ACharbonneau-patch-1/GitHubUsage.md#referencing-issues)**
-      - **[Closing Issues](https://github.com/nih-cfde/organization/blob/ACharbonneau-patch-1/GitHubUsage.md#closing-issues)**
-   - **[Pull Requests](https://github.com/nih-cfde/organization/blob/ACharbonneau-patch-1/GitHubUsage.md#pull-requests)**
-      - **[Opening New Pull Requests](https://github.com/nih-cfde/organization/blob/ACharbonneau-patch-1/GitHubUsage.md#opening-new-pull-requests)**
-      - **[Commenting on Pull Requests](https://github.com/nih-cfde/organization/blob/ACharbonneau-patch-1/GitHubUsage.md#commenting-on-pull-requests)**
-      - **[Referencing Pull Requests](https://github.com/nih-cfde/organization/blob/ACharbonneau-patch-1/GitHubUsage.md#referencing-pull-requests)**
-      - **[Reviewing Pull Requests](https://github.com/nih-cfde/organization/blob/ACharbonneau-patch-1/GitHubUsage.md#reviewing-pull-requests)**
-      - **[Merging Pull Requests](https://github.com/nih-cfde/organization/blob/ACharbonneau-patch-1/GitHubUsage.md#merging-pull-requests)**
-      - **[Closing Pull Requests](https://github.com/nih-cfde/organization/blob/ACharbonneau-patch-1/GitHubUsage.md#closing-pull-requests)**
-   - **[Searching](https://github.com/nih-cfde/organization/blob/ACharbonneau-patch-1/GitHubUsage.md#closing-pull-requests)**
-   - **[Labels](https://github.com/nih-cfde/organization/blob/ACharbonneau-patch-1/GitHubUsage.md#labels)**
+   - **[Definitions](GitHubUsage.md#definitions)**
+   - **[Navigating our Organization](GitHubUsage.md#navigating-our-organization)**
+   - **[Issues](GitHubUsage.md#issues)**
+      - **[Opening New Issues](GitHubUsage.md#opening-new-issues)**
+      - **[Commenting on Issues](GitHubUsage.md#commenting-on-issues)**
+      - **[Referencing Issues](GitHubUsage.md#referencing-issues)**
+      - **[Closing Issues](GitHubUsage.md#closing-issues)**
+   - **[Pull Requests](GitHubUsage.md#pull-requests)**
+      - **[Opening New Pull Requests](GitHubUsage.md#opening-new-pull-requests)**
+      - **[Commenting on Pull Requests](GitHubUsage.md#commenting-on-pull-requests)**
+      - **[Referencing Pull Requests](GitHubUsage.md#referencing-pull-requests)**
+      - **[Reviewing Pull Requests](GitHubUsage.md#reviewing-pull-requests)**
+      - **[Merging Pull Requests](GitHubUsage.md#merging-pull-requests)**
+      - **[Closing Pull Requests](GitHubUsage.md#closing-pull-requests)**
+   - **[Searching](GitHubUsage.md#searching)**
+   - **[Labels](GitHubUsage.md#labels)**
 
 ## Definitions
 
@@ -34,11 +34,47 @@ For help with *using* GitHub, for e.g. opening issues or making pull requests. I
 
 ## Navigating our Organization
 
+All Common Fund Data Ecosystem GitHub repositories are in the [nih-cfde](https://github.com/nih-cfde) GitHub organization.
+
 ## Issues
 
+Issues can be used to keep track of bugs, enhancements, or other requests. A GitHub user can open a new Issue or view open Issues for any repository that user has access to.
+
 ### Opening New Issues
+
+1. Navigate to the GitHub repository you wish to open a new issue for.
+<img src="/images/repo-main-page.png" alt="Repo Main Page" width="400"/>
+2. Sign into GitHub if not already signed in. Link in the top left.
+<img src="/images/repo-main-page-sign-in.png" alt="Sign in arrow" width="400"/>
+3. Select the "Issues" tab across the top of the repository page.
+<img src="/images/repo-issues-tab.png" alt="Repo Issues Tab" width="400"/>
+4. Select the green "New Issue" button on the left side of the "Issues" page.
+<img src="/images/repo-new-issue-button.png" alt="New Issue Button" width="400"/>
+5. Enter Title and Comment for new issue.
+<img src="/images/repo-new-issue.png" alt="New Issue" width="400"/>
+6. Select green "Submit new issue" button.
+<img src="/images/repo-new-issue-submit.png" alt="Submit New Issue" width="400"/>
+
 ### Commenting on Issues
+
+1. Navigate to the GitHub repository you wish to open a new issue for.
+<img src="/images/repo-main-page.png" alt="Repo Main Page" width="400"/>
+2. Sign into GitHub if not already signed in. Link in the top left.
+<img src="/images/repo-main-page-sign-in.png" alt="Sign in arrow" width="400"/>
+3. Select the "Issues" tab across the top of the repository page.
+<img src="/images/repo-issues-tab.png" alt="Repo Issues Tab" width="400"/>
+4. Select the issue you want to comment on.
+<img src="/images/repo-issue-list.png" alt="Repo Issues List" width="400"/>
+5. Select the text box and type your comment.
+<img src="/images/repo-issue-new-comment.png" alt="New comment" width="400"/>
+6. Select the green "Comment" button at the bottom of the text box.
+<img src="/images/repo-issue-comment-button.png" alt="New comment button" width="400"/>
+7. You should now see your new comment in the issue with the comment box at the bottom.
+<img src="/images/repo-issue-with-new-comment.png" alt="Issue with new comment" width="400"/>
+
 ### Referencing Issues
+
+
 ### Closing Issues
 ## Pull Requests
 ### Opening New Pull Requests
