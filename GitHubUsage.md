@@ -221,36 +221,57 @@ Pull Requests are used to merge Forked repositories or repository branches.
 ### Reviewing Pull Requests
 
 1. See [Accessing Repository Pull Requests](GitHubUsage.md#accessing-repository-pull-requests) for instructions to access Pull Requests in a GitHub repository.
-2. 
+2. GitHub users added to review a pull request will be listed on the right side of the page and in the center of the page as you scroll down.
+
+<p float="left">
+   <img src="images/pull-request-reviewers.png" alt="PR Reviewrs list" width="300">
+   <img src="images/pull-request-review-in-line.png" alt="PR reviewer in-line" width="300"/>
+</p>
+
+3. If you are listed as a reviewer, you can select the `Add your review` button on the top of the pull request page.
+
+<img src="images/pull-request-add-your-review-button.png" alt="PR add review button" width="400">
+
+4. Add comments in the text box, select the correct radio button and select `Submit review` at the bottom of the box.
+
+<img src="images/pull-request-review-text.png" alt="PR review text box" width="400">
+
+5. You will then see your review on the pull request page.
+
+<img src="images/pull-request-with-review.png" alt="PR with review" width="400">
 
 ### Merging Pull Requests
 
 1. See [Accessing Repository Pull Requests](GitHubUsage.md#accessing-repository-pull-requests) for instructions to access Pull Requests in a GitHub repository.
 2. Select `Merge pull request` on the pull request page.
 
-<img src="images/pull-request-merge-button.png" alt="New comment button" width="400"/>
+<img src="images/pull-request-merge-button.png" alt="PR merge button" width="400"/>
 
 3. Add a comment and/or title.
 
-<img src="images/pull-request-confirm-merge.png" alt="New comment button" width="400"/>
+<img src="images/pull-request-confirm-merge.png" alt="PR confirm merge" width="400"/>
 
 4. Select `Confim merge`.
 
-<img src="images/pull-request-confirm-merge-button.png" alt="New comment button" width="400"/>
+<img src="images/pull-request-confirm-merge-button.png" alt="PR confirm merge button" width="400"/>
 
 5. Delete the branch the changes were on with the `Delete branch` button.
 
-<img src="images/pull-request-delete-branch-button.png" alt="New comment button" width="400"/>
+<img src="images/pull-request-delete-branch-button.png" alt="PR delete branch button" width="400"/>
 
 6. Successful branch deletion.
 
-<img src="images/pull-request-deleted-branch.png" alt="New comment button" width="400"/>
+<img src="images/pull-request-deleted-branch.png" alt="PR deleted branch" width="400"/>
 
 
 ### Closing Pull Requests
 
+**NOTE**: Closing a pull request will not merge your changes into the selected branch.
+
 1. See [Accessing Repository Pull Requests](GitHubUsage.md#accessing-repository-pull-requests) for instructions to access Pull Requests in a GitHub repository.
-2. 
+2. Select `Close pull request` under the text box at the bottom of the pull request page.
+
+<img src="images/pull-request-close.png" alt="Closed pullr request" width="400"/>
 
 ## Forking a Repository
 
