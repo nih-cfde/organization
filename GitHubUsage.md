@@ -226,7 +226,26 @@ Pull Requests are used to merge Forked repositories or repository branches.
 ### Merging Pull Requests
 
 1. See [Accessing Repository Pull Requests](GitHubUsage.md#accessing-repository-pull-requests) for instructions to access Pull Requests in a GitHub repository.
-2. 
+2. Select `Merge pull request` on the pull request page.
+
+<img src="images/pull-request-merge-button.png" alt="New comment button" width="400"/>
+
+3. Add a comment and/or title.
+
+<img src="images/pull-request-confirm-merge.png" alt="New comment button" width="400"/>
+
+4. Select `Confim merge`.
+
+<img src="images/pull-request-confirm-merge-button.png" alt="New comment button" width="400"/>
+
+5. Delete the branch the changes were on with the `Delete branch` button.
+
+<img src="images/pull-request-delete-branch-button.png" alt="New comment button" width="400"/>
+
+6. Successful branch deletion.
+
+<img src="images/pull-request-deleted-branch.png" alt="New comment button" width="400"/>
+
 
 ### Closing Pull Requests
 
