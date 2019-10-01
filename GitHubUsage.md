@@ -132,12 +132,34 @@ Pull Requests are used to merge Forked repositories or repository branches.
 ### Opening New Pull Requests
 
 1. See [Accessing Repository Pull Requests](GitHubUsage.md#accessing-repository-pull-requests) for instructions to access Pull Requests in a GitHub repository.
-2. 
+2. Select green `New pull request` button on right side of screen.
+<img src="/images/pull-request-new-button.png" alt="New pull request button" width="400"/>
+
+3. Select branches to compare for the pull request. The first branch is the origional branch you are going to add your changes to. The second is the branch with your new changes.
+<img src="/images/pull-request-select-branches.png" alt="pull request branches" width="400"/>
+
+4. On the next screen, add a title and comment for the pull request you are creating.
+<img src="/images/pull-request-add-info.png" alt="pull request title and comment" width="400"/>
+
+5. Select the green `Create pull request` button on the bottom of the comment box.
+<img src="/images/pull-request-create-with-comment.png" alt="pull request create" width="400"/>
+
+6. The page will refresh with your newly created pull request.
 
 ### Commenting on Pull Requests
 
 1. See [Accessing Repository Pull Requests](GitHubUsage.md#accessing-repository-pull-requests) for instructions to access Pull Requests in a GitHub repository.
-2. 
+2. Select the pull request you want to comment on.
+<img src="/images/pull-request-list.png" alt="Pull request list" width="400"/>
+
+3. Select the text box and type your comment.
+<img src="/images/pull-request-add-comment.png" alt="Pull request new comment" width="400"/>
+
+4. Select the green "Comment" button at the bottom of the text box.
+<img src="/images/pull-request-add-comment-button.png" alt="Pull request new comment button" width="400"/>
+
+5. You should now see your new comment in the pull request with the comment box at the bottom.
+<img src="/images/pull-request-with-new-comment.png" alt="Pull request with new comment" width="400"/>
 
 ### Referencing Pull Requests
 
