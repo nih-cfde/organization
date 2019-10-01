@@ -165,19 +165,16 @@ Pull Requests are used to merge Forked repositories or repository branches.
 
 1. See [Accessing Repository Issues](GitHubUsage.md#accessing-repository-issues) for instructions to access issues in a GitHub repository or see [Accessing Repository Pull Requests](GitHubUsage.md#accessing-repository-pull-requests) for instructions to access Pull Requests.
 2. Select the issue or pull request you want to comment on.
-<img src="/images/pull-request-list.png" alt="Pull request list" width="400"/>
-<img src="/images/repo-issue-list.png" alt="Repo Issues List" width="400"/>
+<img src="/images/pull-request-list.png" alt="Pull request list" width="400"/><img src="/images/repo-issue-list.png" alt="Repo Issues List" width="400"/>
 
 3. Use the `#` symbol in the comment box to get a drop down of open issues in the repository. You can also type the issue number if known.
-<img src="/images/pull-request-ref-in-pr.png" alt="Reference in PR" width="400"/>
-<img src="/images/pull-request-ref-in-issue.png" alt="Reference PR in issue" width="400"/>
+<img src="/images/pull-request-ref-in-pr.png" alt="Reference in PR" width="400"/><img src="/images/pull-request-ref-in-issue.png" alt="Reference PR in issue" width="400"/>
 
 4. Select the green "Comment" button at the bottom of the text box.
 <img src="/images/pull-request-ref-in-pr-comment.png" alt="New comment button" width="400"/>
 
 5. You should now see your new comment in the issue with the comment box at the bottom.
-<img src="/images/pull-request-ref-in-pr-hover.png" alt="Reference PR Hover" width="400"/>
-<img src="/images/pull-request-ref-issue-comment.png" alt="Reference PR Hover" width="400"/>
+<img src="/images/pull-request-ref-in-pr-hover.png" alt="Reference PR Hover" width="400"/><img src="/images/pull-request-ref-issue-comment.png" alt="Reference PR Hover" width="400"/>
 
 ### Reviewing Pull Requests
 
