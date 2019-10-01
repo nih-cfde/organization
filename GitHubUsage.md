@@ -168,7 +168,7 @@ Pull Requests are used to merge Forked repositories or repository branches.
 <img src="/images/pull-request-list.png" alt="Pull request list" width="400"/><img src="/images/repo-issue-list.png" alt="Repo Issues List" width="400"/>
 
 3. Use the `#` symbol in the comment box to get a drop down of open issues in the repository. You can also type the issue number if known.
-<img src="/images/pull-request-ref-in-pr.png" alt="Reference in PR" width="400"/><img src="/images/pull-request-ref-in-issue.png" alt="Reference PR in issue" width="400"/>
+<img src="/images/pull-request-ref-in-pr.png" alt="Reference in PR" width="400" style="float: left; margin-right: 10px;" /><img src="/images/pull-request-ref-in-issue.png" alt="Reference PR in issue" width="400" style="float: right; margin-right: 10px;" />
 
 4. Select the green "Comment" button at the bottom of the text box.
 <img src="/images/pull-request-ref-in-pr-comment.png" alt="New comment button" width="400"/>
