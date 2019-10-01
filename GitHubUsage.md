@@ -312,4 +312,23 @@ Use a branch to isolate development work without affecting other branches in the
 <img src="images/repo-name-new-branch.png" alt="View new branch" width="400"/>
 
 ## Searching
+
+Many different powerful ways of searching GitHub exist. For in depth information, visit the GitHub documentation [here](https://help.github.com/en/articles/about-searching-on-github)
+
+* GitHub search box:
+
+<img src="images/search-box.png" alt="GitHub search box" width="400"/>
+
+* Example searching within a repository:
+
+<img src="images/search-repo.png" alt="Search within a repo" width="400"/>
+
+* Example searching within an organization:
+
+<img src="images/search-in-org.png" alt="Search within an organization" width="400"/>
+
+* Example search results:
+
+<img src="images/search-results.png" alt="Search results" width="400"/>
+
 ## Labels
