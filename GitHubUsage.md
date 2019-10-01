@@ -23,6 +23,7 @@ For help with *using* GitHub, for e.g. opening issues or making pull requests. I
    - **[Creating a New Repository Branch](GitHubUsage.md#creating-a-new-repository-branch)**
    - **[Searching](GitHubUsage.md#searching)**
    - **[Labels](GitHubUsage.md#labels)**
+      - **[Adding labels to an Issue or Pull Request](GitHubUsage.md#adding-labels-to-an-issue-or-pull-request)**
 
 ## Definitions
 
@@ -332,3 +333,20 @@ Many different powerful ways of searching GitHub exist. For in depth information
 <img src="images/search-results.png" alt="Search results" width="400"/>
 
 ## Labels
+
+Labels on GitHub help you organize and prioritize your work. You can apply labels to issues and pull requests to signify priority, category, or any other information you find useful. [More information](https://help.github.com/en/articles/about-labels)
+
+### Adding labels to an Issue or Pull Request
+
+1. See [Accessing Repository Issues](GitHubUsage.md#accessing-repository-issues) for instructions to access issues in a GitHub repository or see [Accessing Repository Pull Requests](GitHubUsage.md#accessing-repository-pull-requests) for instructions to access Pull Requests.
+2. Select the gear icon next to the `Labels` title on the right side of the screen.
+
+<img src="images/labels-available.png" alt="Available labels" width="400"/>
+
+3. Click on the labels to apply to the Issue or Pull request.
+
+<img src="images/labels-selected.png" alt="Selected labels" width="400"/>
+
+4. Click somewhere else on the page for the labels to be applied.
+
+<img src="images/labels-applied.png" alt="Applied labels" width="400"/>
