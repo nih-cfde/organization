@@ -163,12 +163,12 @@ Use a branch to isolate development work without affecting other branches in the
 
 <img src="images/repo-select-branch-list.png" alt="Select Branches" width="400"/>
 
-3. Type the name of the new branch in the text box and click the "Create branch: <new branch name>" highlighted block.
+3. Type the name of the new branch in the text box and click the "Create branch: <\new branch name\>" highlighted block.
 
 <img src="images/repo-name-new-branch.png" alt="Create new branch" width="400"/>
 
 
-4. The page will refresh and the branch you just created displays. You can see the branch name in the "Branch: <name>" button.
+4. The page will refresh and the branch you just created displays. You can see the branch name in the "Branch: <\name\>" button.
 
 <img src="images/repo-new-branch.png" alt="View new branch" width="400"/>
 
