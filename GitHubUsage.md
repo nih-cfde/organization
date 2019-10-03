@@ -11,6 +11,8 @@ This guide provides instructions for *using* GitHub, such as opening issues or m
       - **[Commenting on Issues](GitHubUsage.md#commenting-on-issues)**
       - **[Referencing Issues](GitHubUsage.md#referencing-issues)**
       - **[Closing Issues](GitHubUsage.md#closing-issues)**
+   - **[Forking a Repository](GitHubUsage.md#forking-a-repository)**
+   - **[Creating a New Repository Branch](GitHubUsage.md#creating-a-new-repository-branch)**
    - **[Pull Requests](GitHubUsage.md#pull-requests)**
       - **[Accessing Repository Pull Requests](GitHubUsage.md#accessing-repository-pull-requests)**
       - **[Opening New Pull Requests](GitHubUsage.md#opening-new-pull-requests)**
@@ -19,8 +21,6 @@ This guide provides instructions for *using* GitHub, such as opening issues or m
       - **[Reviewing Pull Requests](GitHubUsage.md#reviewing-pull-requests)**
       - **[Merging Pull Requests](GitHubUsage.md#merging-pull-requests)**
       - **[Closing Pull Requests](GitHubUsage.md#closing-pull-requests)**
-   - **[Forking a Repository](GitHubUsage.md#forking-a-repository)**
-   - **[Creating a New Repository Branch](GitHubUsage.md#creating-a-new-repository-branch)**
    - **[Searching](GitHubUsage.md#searching)**
    - **[Labels](GitHubUsage.md#labels)**
       - **[Adding Labels to an Issue or Pull Request](GitHubUsage.md#adding-labels-to-an-issue-or-pull-request)**
@@ -133,6 +133,45 @@ Issues can be used to keep track of bugs, enhancements, or other requests. A Git
 
 <img src="images/repo-issue-close.png" alt="Close issue" width="400"/>
 
+## Forking a Repository
+
+A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project. See the [Fork a Repo](https://help.github.com/en/articles/fork-a-repo) help page for more information.
+
+1. Navigate to the GitHub repository and sign in to GitHub.
+2. Click the "Fork" button on the top right of the repository page.
+
+<img src="images/repo-fork-button.png" alt="Fork repo button" width="400"/>
+
+3. Select the location to fork the repository into.
+
+<img src="images/repo-fork-location.png" alt="Fork repo location" width="400"/>
+
+4. Wait while GitHub forks the repository.
+
+<img src="images/repo-fork-in-progress.png" alt="Fork repo in progress" width="400"/>
+
+5. The page will refresh to the new forked repository.
+
+<img src="images/repo-new-forked.png" alt="Fork repo finished" width="400"/>
+
+## Creating a New Repository Branch
+
+Use a branch to isolate development work without affecting other branches in the repository. Each repository has one default branch and can have multiple other branches. You can merge a branch into another branch using a Pull Request. See the [About Branches](https://help.github.com/en/articles/about-branches) help page for more information.
+
+1. Navigate to the GitHub repository and sign in to GitHub.
+2. Select the list of branches using the "Branch: <name>" button.
+
+<img src="images/repo-select-branch-list.png" alt="Select Branches" width="400"/>
+
+3. Type the name of the new branch in the text box and click the "Create branch: <new branch name>" highlighted block.
+
+<img src="images/repo-name-new-branch.png" alt="Create new branch" width="400"/>
+
+
+4. The page will refresh and the branch you just created displays. You can see the branch name in the "Branch: <name>" button.
+
+<img src="images/repo-new-branch.png" alt="View new branch" width="400"/>
+
 ## Pull Requests
 
 Pull Requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a Pull Request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch. See the [About Pull Requests](https://help.github.com/en/articles/about-pull-requests) help page for more information.
@@ -203,7 +242,7 @@ Pull Requests are used to merge forked repositories or repository branches.
    <img src="images/repo-issue-list.png" alt="Repo Issues List" width="300"/>
 </p>
 
-3. Use the # symbol in the comment box to view a drop-down of open issues in the repository. You can also type the issue number, if known.
+3. Use the # symbol in the comment box to view a drop-down of open issues and open pull requests in the repository. You can also type the issue or pull request number, if known.
 
 <p float="left">
    <img src="images/pull-request-ref-in-pr.png" alt="Reference in PR" width="300" />
@@ -214,7 +253,7 @@ Pull Requests are used to merge forked repositories or repository branches.
 
 <img src="images/pull-request-ref-in-pr-comment.png" alt="New comment button" width="400"/>
 
-5. You should now see your new comment in the issue with the comment box at the bottom.
+5. You should now see your new comment in the issue or pull request with the comment box at the bottom.
 
 <p float="left">
    <img src="images/pull-request-ref-in-pr-hover.png" alt="Reference PR in PR" width="300">
@@ -258,7 +297,7 @@ Pull Requests are used to merge forked repositories or repository branches.
 
 <img src="images/pull-request-confirm-merge-button.png" alt="PR confirm merge button" width="400"/>
 
-5. Delete the branch the changes were on with the "Delete branch" button.
+5. Delete the branch the changes were on with the "Delete branch" button. This keeps the list of branches in your repository tidy.
 
 <img src="images/pull-request-delete-branch-button.png" alt="PR delete branch button" width="400"/>
 
@@ -269,50 +308,14 @@ Pull Requests are used to merge forked repositories or repository branches.
 
 ### Closing Pull Requests
 
-**NOTE**: Closing a Pull Request will not merge your changes into the selected branch.
+You may choose to close a pull request without merging it into the upstream branch. This can be handy if the changes proposed in the branch are no longer needed, or if another solution has been proposed in another branch. [More Information](https://help.github.com/en/articles/closing-a-pull-request)
+
+When closing a Pull Request without merging, both branches will still exist in the repository. However, your changes will only exist on the origional branch.
 
 1. See [Accessing Repository Pull Requests](GitHubUsage.md#accessing-repository-pull-requests) for instructions to access Pull Requests in a GitHub repository.
 2. Click the "Close pull request" button under the text box at the bottom of the Pull Request page.
 
 <img src="images/pull-request-close.png" alt="Closed pullr request" width="400"/>
-
-## Forking a Repository
-
-A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project. See the [Fork a Repo](https://help.github.com/en/articles/fork-a-repo) help page for more information.
-
-1. Navigate to the GitHub repository and sign in to GitHub.
-2. Click the "Fork" button on the top right of the repository page.
-
-<img src="images/repo-fork-button.png" alt="Fork repo button" width="400"/>
-
-3. Select the location to fork the repository into.
-
-<img src="images/repo-fork-location.png" alt="Fork repo location" width="400"/>
-
-4. Wait while GitHub forks the repository.
-
-<img src="images/repo-fork-in-progress.png" alt="Fork repo in progress" width="400"/>
-
-5. The page will refresh to the new forked repository.
-
-<img src="images/repo-new-forked.png" alt="Fork repo finished" width="400"/>
-
-## Creating a New Repository Branch
-
-Use a branch to isolate development work without affecting other branches in the repository. Each repository has one default branch and can have multiple other branches. You can merge a branch into another branch using a Pull Request. See the [About Branches](https://help.github.com/en/articles/about-branches) help page for more information.
-
-1. Navigate to the GitHub repository and sign in to GitHub.
-2. Select the list of branches using the "Branch: <name>" button.
-
-<img src="images/repo-select-branch-list.png" alt="Select Branches" width="400"/>
-
-3. Type the name of the new branch in the text box and click the "Create branch" button.
-
-<img src="images/repo-new-branch.png" alt="Create new branch" width="400"/>
-
-4. The page will refresh and the branch you just created displays. You can see the branch name in the "Branch: <name>" button.
-
-<img src="images/repo-name-new-branch.png" alt="View new branch" width="400"/>
 
 ## Searching
 
