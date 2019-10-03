@@ -27,15 +27,16 @@ This guide provides instructions for *using* GitHub, such as opening issues or m
 
 ## Definitions
 
-- Organization: Our GitHub organization is https://github.com/nih-cfde. This is the location on the web where you can access all of the CFDE GitHub repositories. We also have a repository called "organization", which is a folder that contains all the meta information about our organization.
-- Repository: Each repository or "repo" is a self-contained collection of documents and code. There can be any number of repositories in our organization, and anyone in our group can make a new repository. See the [Checklist for Adding a New Repository](NewRepositoryGuide.md) for more information.
-- Team: Each member of our organization will be assigned to one or more teams. The team(s) you are in determines what repositories you have edit access for. By default, everyone has at least read access to all CFDE repositories. Teams can also be tagged into conversations. Anyone in our group can make new teams. 
-- Pull Request: A Pull Request or "PR" is the main way to share your own edits to documents in a repository.
+
 - Branch: Since many people can work on a document simultaneously, when anyone edits a document, GitHub makes that change on a different "branch" so each person can make their own changes and then submit their version to the group for approval via a Pull Request.
 - Commit: Essentially, this is synonymous with saving. When you are making changes to a document in your branch, you need to commit your changes before you leave the page. If you are making a lot of changes, you can do many commits and submit all the changes on your branch as one Pull Request.
-- Review Request: To ensure that errors are not accidently introduced into important code and documents, all Pull Requests must be reviewed by at least one other person before they are merged into the official version.
-- Merge: Once you have submitted a Pull Request and it has been approved via review, you can merge your changes, at which point your version of the document is the version displayed in the repository.
 - Issues: Issues are ways to make comments or requests in a repository.
+- Merge: Once you have submitted a Pull Request and it has been approved via review, you can merge your changes, at which point your version of the document is the version displayed in the repository.
+- Organization: Our GitHub organization is https://github.com/nih-cfde. This is the location on the web where you can access all of the CFDE GitHub repositories. We also have a repository called "organization", which is a folder that contains all the meta information about our organization.
+- Pull Request: A Pull Request or "PR" is the main way to share your own edits to documents in a repository.
+- Repository: Each repository or "repo" is a self-contained collection of documents and code. There can be any number of repositories in our organization, and anyone in our group can make a new repository. See the [Checklist for Adding a New Repository](NewRepositoryGuide.md) for more information.
+- Review Request: To ensure that errors are not accidently introduced into important code and documents, all Pull Requests must be reviewed by at least one other person before they are merged into the official version.
+- Team: Each member of our organization will be assigned to one or more teams. The team(s) you are in determines what repositories you have edit access for. By default, everyone has at least read access to all CFDE repositories. Teams can also be tagged into conversations. Anyone in our group can make new teams. 
 
 ## Navigating our Organization
 
