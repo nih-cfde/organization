@@ -308,7 +308,7 @@ Pull Requests are used to merge forked repositories or repository branches.
 
 ### Closing Pull Requests
 
-You may choose to close a pull request without merging it into the upstream branch. This can be handy if the changes proposed in the branch are no longer needed, or if another solution has been proposed in another branch. [More Information](https://help.github.com/en/articles/closing-a-pull-request)
+You may choose to close a pull request without merging it into the upstream branch. This can be handy if the changes proposed in the branch are no longer needed, or if another solution has been proposed in another branch. See the [Closing a Pull Request](https://help.github.com/en/articles/closing-a-pull-request) help page for more information.
 
 When closing a Pull Request without merging, both branches will still exist in the repository. However, your changes will only exist on the origional branch.
 
