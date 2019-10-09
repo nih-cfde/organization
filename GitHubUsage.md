@@ -28,7 +28,7 @@ This guide provides instructions for *using* GitHub, such as opening issues or m
 ## Definitions
 
 | Term | Definition |
-| ------------- |:-------------:|
+| ------------- |:-------------|
 | Branch | Since many people can work on a document simultaneously, when anyone edits a document, GitHub makes that change on a different "branch" so each person can make their own changes and then submit their version to the group for approval via a Pull Request. |
 | Commit | Essentially, this is synonymous with saving. When you are making changes to a document in your branch, you need to commit your changes before you leave the page. If you are making a lot of changes, you can do many commits and submit all the changes on your branch as one Pull Request. |
 | Issues | Issues are ways to make comments or requests in a repository. |
