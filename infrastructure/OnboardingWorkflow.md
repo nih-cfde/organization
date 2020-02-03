@@ -12,7 +12,6 @@ The Onboarding form should be checked and updated at least every other business 
   
   - Add them to our Google Group, and send them an invitation GitHub
   - Add their name to the "Welcome" list in the Weekly Announcements
-  - Add them to the MPQ form
   - Add them to the correct mailing lists
   - Wait for them to accept the invitations
 
@@ -141,21 +140,6 @@ All documents in the CFDE Google Drives and GitHub repositories are assumed to b
   - Based on their Title/Position and affiliation, add them to as many teams as is appropriate
   - Click `Send Invite`
   - Check the 'GitHub Invite Sent?' box for each person you added
-
- ### Add to MPQ
- 
- If 'Added to MQP as of?' is blank:
- - Check their Affiliation(s) in column P, only members of the Tech Teams (Brown, Foster, Kesselman, Ma’ayan, O'Connor, Sansone and White) need to be added to the MPQ
- - Note the name and affilitation for each person you need to add (columns L and P)
- - Navigate to [the MPQs folder in CFDE Admin on Google](https://drive.google.com/drive/u/0/folders/1G7omyAgRSQr-n6F4o3HWUKcRm_cvoOHJ)
- - Find the MPQ that is due this month and open the form for editing
- - Scroll down to the correct Tech Team
- - Click on the last person listed in that Tech Team, the one right before the 'What DCC interactions has your team had this month?' question
- - The individuals question should switch to editing mode. You may have to click it more than once
- - At the bottom of their section, click on the copy icon. It looks like two, mostly overlapping rectangles
- - You should now have two copies of that individuals questions. Copy the new team member over the name in the new copy
- - Click anywhere else on the screen
- - Add the correct month_year in the 'Added to MQP as of?' column for each person you added
 
 ### Special additions for PMs, PIs and Admin contacts
 
