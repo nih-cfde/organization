@@ -4,14 +4,32 @@ The admin contacts are the main point of contact for each team for
 scheduling and resource access. The project managers are the technical
 points of contact.
 
+## 4D Nucleome
+
+| Role                   | Name          | Email Address                 | GitHub username |
+| ---------------------- | ------------- | ----------------------------- | --------------- |
+|   |   |  |  |
+
+## A2CPS
+
+| Role                   | Name          | Email Address                 | GitHub username |
+| ---------------------- | ------------- | ----------------------------- | --------------- |
+|   |   |  |  |
+
+
 ## Brown Group
 
 | Role                   | Name               | Email Address       | GitHub username |
 | ---------------------- | ------------------ | ------------------- | --------------- |
 | Principal Investigator | C. Titus Brown     | <titus@idyll.org>   | ctb             |
 | Admin Contact:         | Amanda Charbonneau | <achar@ucdavis.edu> | ACharbonneau    |
-| Project Manager:       | C. Titus Brown     | <titus@idyll.org>   | ctb             |
 | Project Manager:       | Amanda Charbonneau | <achar@ucdavis.edu> | ACharbonneau    |
+
+## ExRNA
+
+| Role                   | Name          | Email Address                 | GitHub username |
+| ---------------------- | ------------- | ----------------------------- | --------------- |
+|   |   |  |  |
 
 ## Foster Group
 
@@ -29,6 +47,49 @@ points of contact.
 |   | Kristin Ardlie  | <kardlie@broadinstitute.org>  |                 |
 |   | Jared Nedzel    | <jnedzel@broadinstitute.org>  | jnedzel         |
 
+## HMP
+
+| Role                   | Name          | Email Address                 | GitHub username |
+| ---------------------- | ------------- | ----------------------------- | --------------- |
+|   |   |  |  |
+
+## HuBMAP
+
+| Role                   | Name          | Email Address                 | GitHub username |
+| ---------------------- | ------------- | ----------------------------- | --------------- |
+|  PI |  Nils Gehlenborg | nils@hms.harvard.edu | ngehlenborg |
+
+## IDG
+
+| Role                   | Name          | Email Address                 | GitHub username |
+| ---------------------- | ------------- | ----------------------------- | --------------- |
+|   |   |  |  |
+
+## Kesselman Group
+
+| Role                   | Name          | Email Address                 | GitHub username |
+| ---------------------- | ------------- | ----------------------------- | --------------- |
+|  PI |  Carl Kesselman | carl@isi.edu | carlkesselman |
+
+## Kids First
+
+| Role                   | Name          | Email Address                 | GitHub username |
+| ---------------------- | ------------- | ----------------------------- | --------------- |
+|  Program Officer | Valerie Cotton  | valerie.cotton@nih.gov | cottonva |
+|  PI | Allison Heath  | heathap@email.chop.edu | allisonheath |
+
+## KOMP
+
+| Role                   | Name          | Email Address                 | GitHub username |
+| ---------------------- | ------------- | ----------------------------- | --------------- |
+|   |   |  |  |
+
+## LINCS
+
+| Role                   | Name          | Email Address                 | GitHub username |
+| ---------------------- | ------------- | ----------------------------- | --------------- |
+|   |   |  |  |
+
 ## Ma'ayan Group
 
 | Role                   | Name           | Email Address             | GitHub username |
@@ -37,18 +98,24 @@ points of contact.
 | Admin Contact          | Sherry Jenkins | <Sherry.Jenkins@mssm.edu> | sherry-jenkins  |
 | Project Manager        | Sherry Jenkins | <Sherry.Jenkins@mssm.edu> | sherry-jenkins  |
 
+## Metabolomics
+
+| Role                   | Name          | Email Address                 | GitHub username |
+| ---------------------- | ------------- | ----------------------------- | --------------- |
+|   |   |  |  |
+
+## MoTrPAC
+
+| Role                   | Name          | Email Address                 | GitHub username |
+| ---------------------- | ------------- | ----------------------------- | --------------- |
+|   |   |  |  |
+
 ## NIH
 
 | Role                   | Name           | Email Address             | GitHub username |
 | ---------------------- | -------------- | ------------------------- | --------------- |
 | Project Manager | Jen Yttri  | <jyttri@mitre.org>    |    jyttri   |
 
-## O'Connor Group
-
-| Role                   | Name           | Email Address             | GitHub username |
-| ---------------------- | -------------- | ------------------------- | --------------- |
-| Principal Investigator  | Brian O'Connor  | <brian@nimbusinformatics.com>   |   briandoconnor  |
-| Project Manager  | Vladimir Makarov  | <vladimir@nimbusinformatics.com>   |   vlmakarov  |
 
 ## RTI
 
@@ -63,7 +130,19 @@ points of contact.
 | Role                   | Name           | Email Address             | GitHub username |
 | ---------------------- | -------------- | ------------------------- | --------------- |
 | Principal Investigator | Susanna Sansone  | <sa.sansone@gmail.com>    | SusannaSansone    |
+| Admin Contact | Philippe Rocca-Serra | philippe.rocca-serra@oerc.ox.ac.uk | proccaserra | 
 
+## SPARC
+
+| Role                   | Name          | Email Address                 | GitHub username |
+| ---------------------- | ------------- | ----------------------------- | --------------- |
+|   |   |  |  |
+
+## UDN
+
+| Role                   | Name          | Email Address                 | GitHub username |
+| ---------------------- | ------------- | ----------------------------- | --------------- |
+|   |   |  |  |
 
 ## White Group
 
