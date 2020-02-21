@@ -24,10 +24,10 @@ To onboard new members, or to continue boarding partially onboarded members, fir
 ### Google Group adds
 
   If 'Added to Google Group?' is unchecked:
-   - Copy their email address from column K, if they don't have one, use the email address in column J
-   - Note their Title/Position from column Q and affiliation from column P
+   - Copy their email address from "Alternate email for Google Drive", if they don't have one, use the email address in "Email Address"
+   - Note their Title/Position from column O and affiliation from column N
    - Decide what Google Permissions group to add them to:
-      - For members of Teams Brown or White who are working on infrastructure or data access management, choose [CFDE_Admin](https://groups.google.com/forum/#!managemembers/cfde_admin/add)
+      - For members of Teams Brown or White **who are working on infrastructure or data access management**, choose [CFDE_Admin](https://groups.google.com/forum/#!managemembers/cfde_admin/add)
       - For everyone else, choose [CFDE_Everyone](https://groups.google.com/forum/#!managemembers/cfde_everyone/add)
    - (You can also reach those pages by going to [Google Groups](https://groups.google.com/forum/#!myforums), choosing 'Manage members' for the appropriate group, and then clicking 'Direct add members' on the left side of the screen.)
    - Enter the email address of the person you want to onboard. If you have more than one to add to a given group, you can add multiple, comma-seperated, email addresses
@@ -36,7 +36,7 @@ To onboard new members, or to continue boarding partially onboarded members, fir
    - Click on the issue called "Weekly Announcements"
    - Scroll to the bottom of the page to the text box.
    - Make the first line say `# Welcome`
-   - List the name and group affiliation of each person you added to Google Groups as in: `Brown: Amanda Charbonneau, Titus Brown`
+   - List the name and group affiliation of each person you added to Google Groups as in: `Brown Group: Amanda Charbonneau, Titus Brown`
    - Click the `Comment` button
    - Check the 'Added to Google Group?' box for each person you added
 
@@ -84,9 +84,9 @@ As of 7/15/2019 new members are automatically sent a Slack invitation by Groups.
 
 If 'Mailing Lists Assigned??' is unchecked:
 
- - Copy their email address from column K, if they don't have one, use the email address in column J
- - Copy their name from column L
- - Note the mailing lists they requested to join in column Q (see NOTE1 for help)
+ - Copy their email address from "Alternate email for Google Drive", if they don't have one, use the email address in "Email Address"
+ - Copy their name from column J
+ - Note the mailing lists they requested to join in column P (see NOTE1 for help)
  - Got to [direct add for the general mailing list](https://cfde.groups.io/g/General/directadd)
  - Paste the following text in the 'Customize Message' box:
  
@@ -122,8 +122,8 @@ All documents in the CFDE Google Drives and GitHub repositories are assumed to b
 ### GitHub adds
 
   If 'GitHub Invite Sent?' is unchecked:
-  - Copy their GitHubID from column O
-  - Note their Title/Position from column Q and affiliation from column P
+  - Copy their GitHubID from column M
+  - Note their Title/Position from column O and affiliation from column N
   - Go to [the people list on GitHub](https://github.com/orgs/nih-cfde/people)
   - Click `Invite Member` or `Buy more` (it will only show one or the other)
     
@@ -153,7 +153,7 @@ If the person you are onboarding is a PI, PM or Administrative contact for *any*
 If 'Slack Invite Accepted?' is unchecked:
   - Go to [the admin page for slack](https://cfdeworkspace.slack.com/admin/invites#pending) (you may need to log into your Slack account)
   - If their invitation has moved to 'Accepted Invitations', click the checkbox
-  - You can search for them using their email address in column J
+  - You can search for them using their email address in "Email Address"
   - Check the 'Slack Invite Accepted?' box for each person you added
 
  ### Check GitHub Invite
