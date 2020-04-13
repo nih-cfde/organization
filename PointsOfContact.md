@@ -123,6 +123,7 @@ points of contact.
 | ---------------------- | -------------- | ------------------------- | --------------- |
 | Principal Investigator | Rebecca Boyles | <beckyboyles1@gmail.com>  | RebeccaBoyles  |
 | Project Manager | Marcie Rathbun | <mrathbun@rti.org> | mrathbun-rti |
+| Project Manager | Carol Place | <cpbahama@gmail.com> | cplace-rti |
 
 
 ## Sansone Group
