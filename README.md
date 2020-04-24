@@ -17,7 +17,7 @@ email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
 
 ## General Resources
 
-[Announcements and Links](https://github.com/nih-cfde/Announcements/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+Announcements) Contribute links and other announcements to our consortium [summary email by replying to the linked issue.
+[Announcements and Links](https://github.com/nih-cfde/Announcements/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+Announcements) Contribute links and other announcements to our consortium summary email by replying to the linked issue.
 
 [Communication Management Help](CommunicationManagementHelp.md): Resource for navigating Slack, GitHub, groups.io and Google Drive
 
