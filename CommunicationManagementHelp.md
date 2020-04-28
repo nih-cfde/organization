@@ -79,7 +79,8 @@ You should get something like this:
 <img src="/images/watching.png" alt="Watch List" width="600"/>
 
 For each repository in the list, decide how often you want to hear about it. There are four options: 'Not Watching', 'Releases Only', 'Watching' and 'Ignoring'
-<img src="/images/watchingoptions.png" alt="Watching Options" width="600"/>
+
+><img src="/images/watchingoptions.png" alt="Watching Options" width="600"/>
 
 For repositories that you actively work in, and would like to be notified of things like PRs and conversations, choose 'Watching'. You can set what types of actions send you notifications using the [Notification Settings](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#notification-settings) instructions below.
 
@@ -241,8 +242,10 @@ the recipient will need to log in using the email they specified in their [onboa
 To copy the sharable link:
 - Right-click on the desired file and select `Share` OR click on the desired file and click the share button near the top right of the screen
 - Click 'WHO HAS ACCESS' in the bottom left corner of the dialogue box that appears
-- Click the small arrow next to 'Link sharing off' <img src="/images/links1.png" alt="Link Sharing Off" width="300"/>
-- Click the `COPY` button next to the URL <img src="/images/links2.png" alt="Link Sharing Off" width="300"/>
+- Click the small arrow next to 'Link sharing off' 
+<img src="/images/links1.png" alt="Link Sharing Off" width="300"/>
+- Click the `COPY` button next to the URL 
+<img src="/images/links2.png" alt="Link Sharing Off" width="300"/>
 
 If you did not find the solution to your problem on this page, or believe you have been assigned the wrong permissions, please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
 
@@ -258,7 +261,9 @@ All interactions in the CFDE Slack, including inside of private messages and cha
 #### Channels
 ##### Joining Channels
 By default, everyone is added to #general and #random, but you can join as many other open channels as you like. To see the current list of available channels and join some:
-- Click the *word* 'Channels' in the sidebar <img src="/images/addchannels.png" alt="Channels" width="200"/>
+- Click the *word* 'Channels' in the sidebar 
+<img src="/images/addchannels.png" alt="Channels" width="200"/>
+
 - Browse the list of channels under 'Channels you can join' 
 
 <img src="/images/browse.png" alt="Browse" width="200"/>
@@ -276,7 +281,9 @@ As a member of our Slack community, you must be a part of #general, however you 
 Members are welcome to add channels for topics not currently covered by other channels, and are not restricted to CFDE topics (i.e. a channel that's all cat pictures all the time is perfectly fine). However, all interactions in the CFDE Slack, including private messages and channels are bound by the [CFDE Code of Conduct](./CODEOFCONDUCT.md), and messages that constitute harassment of any kind will not be tolerated.
 
 To create a new channel:
-- Click on the plus sign in a circle *next* to the word 'Channels' in the sidebar  <img src="/images/channels.png" alt="Channels" width="200"/>
+- Click on the plus sign in a circle *next* to the word 'Channels' in the sidebar 
+<img src="/images/channels.png" alt="Channels" width="200"/>
+
 - Choose whether the channel is public or private. Public channels are listed in the directory and joinable by any member, Private channels are not listed in the directory and are invitation only. Channels for large working groups, general discussion, cat photos, etc, should generally be public. Channels for discussing the travel plans of your small working group, steering committees, etc should generally be private. (See [Private messages vs Private Channels]() below for more info.)
 - Choose a short, but descriptive name
 - If your channel is public, be sure to give it a purpose (description) so people can tell what it's about
@@ -326,7 +333,9 @@ Slack supports global search of your messages, so you don't have to remember wha
 
 - To confine your search to one channel, include the channel name, e.g. to find where someone mentioned the meeting in the PM channel search: `#project-management meeting`
 - To search all public channels (regardless of whether you are a member) as well as all private channels and private messages that include you, just search your word, e.g. `meeting`
-- To search only public and private channels that you are a member of and your private messages, do the above search and then filter the results by checking the 'Only search my channels' box <img src="/images/filter.png" alt="filter" width="300"/>
+- To search only public and private channels that you are a member of and your private messages, do the above search and then filter the results by checking the 'Only search my channels' box
+<img src="/images/filter.png" alt="filter" width="300"/>
+
 - You can also filter your results by person, channel, and date range
 
 #### Apps
