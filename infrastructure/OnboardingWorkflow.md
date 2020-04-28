@@ -11,8 +11,8 @@ To fully onboard, a new member must:
 The Onboarding form should be checked and updated at least every other business day. Onboarding each person is a typically a multi-day process, because you have to wait for them to accept your invitations. The basic workflow is:
   
   - Add them to our Google Group, and send them an invitation GitHub
-  - Add their name to the "Welcome" list in the Weekly Announcements
   - Add them to the correct mailing lists
+  - Add their name to the "Welcome" list in the Weekly Announcements
   - Wait for them to accept the invitations
 
 ## Onboarding Walkthrough
@@ -25,24 +25,18 @@ To onboard new members, or to continue boarding partially onboarded members, fir
 
   If 'Added to Google Group?' is unchecked:
    - Copy their email address from "Alternate email for Google Drive", if they don't have one, use the email address in "Email Address"
-   - Note their Title/Position from column O and affiliation from column N
+   - Note their Title/Position from column P and affiliation from column O
    - Decide what Google Permissions group to add them to:
       - For members of Teams Brown or White **who are working on infrastructure or data access management**, choose [CFDE_Admin](https://groups.google.com/forum/#!managemembers/cfde_admin/add)
       - For everyone else, choose [CFDE_Everyone](https://groups.google.com/forum/#!managemembers/cfde_everyone/add)
    - (You can also reach those pages by going to [Google Groups](https://groups.google.com/forum/#!myforums), choosing 'Manage members' for the appropriate group, and then clicking 'Direct add members' on the left side of the screen.)
    - Enter the email address of the person you want to onboard. If you have more than one to add to a given group, you can add multiple, comma-seperated, email addresses
    - Ensure that the welcome message box is filled correctly (see below), then click `Add` at the top of the screen
-   - As soon as you've added them to the Google Group, you should add them to the Welcome list on the Announcements list. Go to [the issues for the announcements repo](https://github.com/nih-cfde/announcements/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+Announcements)
-   - Click on the issue called "Weekly Announcements"
-   - Scroll to the bottom of the page to the text box.
-   - Make the first line say `# Welcome`
-   - List the name and group affiliation of each person you added to Google Groups as in: `Brown Group: Amanda Charbonneau, Titus Brown`
-   - Click the `Comment` button
    - Check the 'Added to Google Group?' box for each person you added
 
 #### Google Group Welcome Messages
 
-Google groups should cache the correct welcome messages, however you can copy/paste in one from below if they get erased:
+Google groups sometimes caches the correct welcome messages, however you can copy/paste in one from below if they get erased:
 
 ##### Admin
 ```
@@ -85,8 +79,8 @@ As of 7/15/2019 new members are automatically sent a Slack invitation by Groups.
 If 'Mailing Lists Assigned??' is unchecked:
 
  - Copy their email address from "Alternate email for Google Drive", if they don't have one, use the email address in "Email Address"
- - Copy their name from column J
- - Note the mailing lists they requested to join in column P (see NOTE1 for help)
+ - Copy their name from column K
+ - Note the mailing lists they requested to join in column Q (see NOTE1 for help)
  - Got to [direct add for the general mailing list](https://cfde.groups.io/g/General/directadd)
  - Paste the following text in the 'Customize Message' box:
  
@@ -105,13 +99,13 @@ All documents in the CFDE Google Drives and GitHub repositories are assumed to b
 - CFDE Onboarding Team
 ```
 
- - Check the boxes for their selected lists (you can do multiple members at a time)
+ - Check the boxes for their selected lists (you can do multiple new members at a time)
  - Add their name and address to the 'Emails' box in this format: `Name <email@example.com>`
  - Click `+ Add Members`
  - Check the 'Mailing Lists Assigned??' box for each person you added
  
-     NOTE1: It's basically impossible to read column R for members that choose more than one list.
-     It's much easier to read their choices directly off their form. To do that:
+     NOTE1: I find it hard to read column Q for members that choose more than one list.
+     If you prefer, you can read their choices directly off their form. To do that:
        
       - Go to [the form view for onboarding](https://docs.google.com/forms/d/1sFY6y2eHB3PS0HayEyxXtZOrBJV7lfT8thJ8bL9wKqQ/edit#responses)
       - Click on the 'Individual' tab
@@ -122,25 +116,28 @@ All documents in the CFDE Google Drives and GitHub repositories are assumed to b
 ### GitHub adds
 
   If 'GitHub Invite Sent?' is unchecked:
-  - Copy their GitHubID from column M
-  - Note their Title/Position from column O and affiliation from column N
+  - Copy their GitHubID from column N
+  - Note their Title/Position from column P and affiliation from column O
   - Go to [the people list on GitHub](https://github.com/orgs/nih-cfde/people)
-  - Click `Invite Member` or `Buy more` (it will only show one or the other)
-    
-  If you clicked `Buy more`:
-  - Type in the number of seats (users) you want to add today
-  - Click 'Add seats'
-  - Click `Invite Member` and follow the instructions below
-  
-  If you clicked `Invite Member`:
-  - Paste thier GitHubID into the box (don't put an `@` in front of it)
-  - Click on the rendered version of their GitHubID that pops up. Be sure it's the right person!
-  - Click `Invite`
+  - Paste their GitHubID into the box that says `Invite by username, full name, or email address` and click `Invite`
   - Scroll down and click 'Show all XX teams'
   - Based on their Title/Position and affiliation, add them to as many teams as is appropriate
   - Click `Send Invite`
   - Check the 'GitHub Invite Sent?' box for each person you added
 
+
+### Announcements
+
+If 'In Announcements?' is unchecked:
+
+- Go to [the issues for the announcements repo](https://github.com/nih-cfde/announcements/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+Announcements)
+   - Click on the issue called "Weekly Announcements"
+   - Scroll to the bottom of the page to the text box.
+   - Make the first line say `# Welcome`
+   - List the name and group affiliation of each person added in: `Brown Group: Amanda Charbonneau, Titus Brown`
+   - Click the `Comment` button
+   
+   
 ### Special additions for PMs, PIs and Admin contacts
 
 If the person you are onboarding is a PI, PM or Administrative contact for *any* team, they should be added to the [Points of Contact](https://github.com/nih-cfde/organization/blob/master/PointsOfContact.md) list:
