@@ -244,8 +244,11 @@ To copy the sharable link:
 - Click 'WHO HAS ACCESS' in the bottom left corner of the dialogue box that appears
 
 <img src="/images/who-has-access.PNG" alt="Link Sharing Off" width="300"/>
+
 - Click the small arrow next to 'Link sharing off' 
+
 <img src="/images/links1.png" alt="Link Sharing Off" width="300"/>
+
 - Click the `COPY` button next to the URL 
 <img src="/images/links2.png" alt="Link Sharing Off" width="300"/>
 
