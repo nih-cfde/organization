@@ -210,7 +210,7 @@ If you did not find the solution to your problem on this page, please email the 
 
 ## Google Drive Help
 
-You will have access to two or three different CFDE drives.
+You will have access to two different CFDE drives.
  - CFDE Admin: Everyone has view access to this drive. It contains files related to maintaining 
  the CFDE infrastructure and files that need to be locked from direct editing such as the contact
  list created by the onboarding form
