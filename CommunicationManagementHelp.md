@@ -227,7 +227,7 @@ You must be logged into Google Drive using the email you specified in your [onbo
 
 On the left side of the screen, you should see a button for Team Drives:
 
-<img src="/images/teamdrive1.png" alt="Team Drives" width="400"/>
+<img src="/images/shared-drives.PNG" alt="Shared Drives" width="400"/>
 
 You may need to click on the small arrow to see the list of drives you have access to:
 
@@ -241,6 +241,7 @@ the recipient will need to log in using the email they specified in their [onboa
 To copy the sharable link:
 - Right-click on the desired file and select `Share` OR click on the desired file and click the share button near the top right of the screen
 - Click 'WHO HAS ACCESS' in the bottom left corner of the dialogue box that appears
+<img src="/images/who-has-access.PNG" alt="Link Sharing Off" width="300"/>
 - Click the small arrow next to 'Link sharing off' <img src="/images/links1.png" alt="Link Sharing Off" width="300"/>
 - Click the `COPY` button next to the URL <img src="/images/links2.png" alt="Link Sharing Off" width="300"/>
 
