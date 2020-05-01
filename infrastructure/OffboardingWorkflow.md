@@ -12,7 +12,6 @@ The Offboarding form should be checked and updated at least every other business
   - Remove them from Slack
   - Remove them from GitHub
   - Add their name to the "Goodbye" list in the Weekly Announcements
-  - Remove them from the upcoming MPQ form
 
 ## Offboarding Walkthrough
 To offboard members, first navigate to the [Offboarding Reponses Google Sheet](https://docs.google.com/spreadsheets/d/1bY-P5ZrIOPDrDpzlXNrDnV96XqOnV_X9z9ur7t9Qkhk/edit?usp=sharing).
@@ -62,19 +61,7 @@ Offboarding tasks should be completed (or checked up on) from left to right for 
   - In the dialogue box, click the 'Remove members' button
   - Check the 'Removed from Github?' box for each person you removed
 
- ### Remove from MPQ
  
- If 'Removed from MQP as of?' is blank:
- - Check their Affiliation(s) in column P, of the [Onboarding Responses form](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing) only members of the Tech Teams (Brown, Foster, Kesselman, Ma’ayan, O'Connor, Sansone and White) need to be removed from the MPQ
- - Navigate to the MPQs folder in CFDE Admin on Google: https://drive.google.com/drive/u/0/folders/1G7omyAgRSQr-n6F4o3HWUKcRm_cvoOHJ
- - Find the MPQ that is due this month and open the form for editing. Do *NOT* delete people from previous months MPQs
- - Scroll down to the correct Tech Team
- - Click on the correct person listed in that Tech Team
- - The individuals question should switch to editing mode. You may have to click it more than once
- - At the bottom of their section, click on the trashcan icon. 
- - Click anywhere else on the screen
- - Add the correct month_year in the 'Removed from MQP as of?' column for each person you added
-
 ### Special removals for PMs, PIs and Admin contacts
 
 If the person you are offboarding is a PI, PM or Administrative contact for *any* team, they may need to be removed from the [Points of Contact](https://github.com/nih-cfde/organization/blob/master/PointsOfContact.md) list:
