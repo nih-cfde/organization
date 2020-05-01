@@ -22,11 +22,11 @@ Offboarding tasks should be completed (or checked up on) from left to right for 
 ### Google Group removal
 
   If 'Removed from Google Group?' is unchecked:
-   - Get the name of the person to be offboarded from column H
+   - Get the name of the person to be offboarded from column G
    - Find their name in the [Onboarding Responses form](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing)
      - You can search the form for their last name by hitting `command + f` on a Mac or `Ctrl + f` on Windows to open a search box
-   - Copy their email address from column K, if they don't have one, use the email address in column J
-   - Note their Title/Position from column Q and affiliation from column P
+   - Copy their email address from column J, if they don't have one, use the email address in column I
+   - Note their Title/Position from column P and affiliation from column O
    - Go to the correct Google Group management page: Most CFDE members are in [CFDE_Everyone](https://groups.google.com/forum/#!managemembers/cfde_everyone/members/active), however some members of Teams Brown or White will be in [CFDE_Admin](https://groups.google.com/forum/#!managemembers/cfde_admin/members/active)
      - (You can also reach those pages by going to [Google Groups](https://groups.google.com/forum/#!myforums), and choosing 'Manage members' for the appropriate group)
    - Find the email address of the person you want to offboard and click the box at the begining of their row. If you have more than one to remove from a given group, you can check multiple boxes
@@ -42,7 +42,7 @@ Offboarding tasks should be completed (or checked up on) from left to right for 
 ### Groups.io space removal
 
  If 'Removed from Groups.io?' is unchecked:
-  - Copy their email from column J of the [Onboarding Responses form](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing)
+  - Copy their email from column I of the [Onboarding Responses form](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing)
    - Go to https://cfde.groups.io/g/General/members
   - Paste thier email into the 'search' box
   - Check the box on the left side of their name and click the 'Actions' button
@@ -53,8 +53,8 @@ Offboarding tasks should be completed (or checked up on) from left to right for 
 ### GitHub removal
 
   If 'Removed from Github?' is unchecked:
-  - Copy their GitHubID from column O of the [Onboarding Responses form](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing)
-  - Note their Title/Position from column Q and affiliation from column P of the [Onboarding Responses form](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing)
+  - Copy their GitHubID from column N of the [Onboarding Responses form](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing)
+  - Note their Title/Position from column P and affiliation from column O of the [Onboarding Responses form](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing)
   - Go to https://github.com/orgs/nih-cfde/people
   - Paste thier GitHubID into the 'Find a member' box (don't put an `@` in front of it)
   - Click on the gear icon on the right side of the screen and select 'Remove from organization'
