@@ -8,7 +8,9 @@ To fully onboard, a new member must:
  We track those events, as well as our progress in adding them to our resources [here](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing).
 
 ## Onboarding Overview
-For notifications regarding onboarding and offboarding updates, go to coordination@CFDE.groups.io. The Onboarding form should be checked and updated at least every other business day. Onboarding each person is a typically a multi-day process, because you have to wait for them to accept your invitations. The basic workflow is:
+The Onboarding form will send notifications to coordination@CFDE.groups.io whenever the form is filled out. To request being added to coordination mailing list and receive notifications, send your request to the [helpdesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io).
+
+A member of the coordination mailing list should begin the onboarding process for new forms *within 2 business days*. Full onboarding for each person is a typically a multi-day process, and can be done by multiple memebers of the coordination team, because we have to wait for each new onboardee to accept the invitations. The basic workflow is:
   
   - Add them to our Google Group, and send them an invitation GitHub
   - Add them to the correct mailing lists
