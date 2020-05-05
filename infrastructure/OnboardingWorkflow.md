@@ -8,7 +8,7 @@ To fully onboard, a new member must:
  We track those events, as well as our progress in adding them to our resources [here](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing).
 
 ## Onboarding Overview
-The Onboarding form should be checked and updated at least every other business day. Onboarding each person is a typically a multi-day process, because you have to wait for them to accept your invitations. The basic workflow is:
+For notifications regarding onboarding and offboarding updates, go to coordination@CFDE.groups.io. The Onboarding form should be checked and updated at least every other business day. Onboarding each person is a typically a multi-day process, because you have to wait for them to accept your invitations. The basic workflow is:
   
   - Add them to our Google Group, and send them an invitation GitHub
   - Add them to the correct mailing lists
