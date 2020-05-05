@@ -151,6 +151,7 @@ points of contact.
 | ---------------------- | ------------- | ----------------------------- | --------------- |
 | Principal Investigator | Owen White    | <owhite@som.umaryland.edu>    | owhite          |
 | Admin Contact          | Owen White    | <owhite@som.umaryland.edu>    | owhite          |
+| Admin Contact          | Danay Rodriguez| <danay.rodriguez@som.umaryland.edu> | -        |
 | Project Manager        | Anup Mahurkar | <amahurkar@som.umaryland.edu> | amahurkar       |
 | Project Manager        | Robert Carter    | <rlc.dcppc@gmail.com>         | RLC-DCPPC      |
 
