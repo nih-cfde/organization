@@ -6,8 +6,10 @@ To offboard ,a member (or someone from their team) must:
  We track those events, as well as our progress in adding them to our resources [here](https://docs.google.com/spreadsheets/d/1bY-P5ZrIOPDrDpzlXNrDnV96XqOnV_X9z9ur7t9Qkhk/edit?usp=sharing).
 
 ## Offboarding Overview
-The Offboarding form should be checked and updated at least every other business day. Offboarding each person is very quick, and all steps for a given person should be done all at once. The basic workflow is:
-  
+The Offboarding form will send notifications to coordination@CFDE.groups.io whenever the form is filled out. To request being added to coordination mailing list and receive notifications, send your request to the [helpdesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io).
+
+A member of the coordination mailing list should begin the onboarding process for new forms *within 2 business days*. Full onboarding for each person is a typically a multi-day process, and can be done by multiple memebers of the coordination team, because we have to wait for each new onboardee to accept the invitations. The basic workflow is:
+
   - Remove them from our Google Group
   - Remove them from Slack
   - Remove them from GitHub
