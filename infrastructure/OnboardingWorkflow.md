@@ -121,6 +121,16 @@ All documents in the CFDE Google Drives and GitHub repositories are assumed to b
   - Copy their GitHubID from column N
   - Note their Title/Position from column P and affiliation from column O
   - Go to [the people list on GitHub](https://github.com/orgs/nih-cfde/people)
+  - Look at the `Buy more` text:
+    ![](../images/buymore.png)
+
+  If it says '0 seats left':
+  - Click on `Buy more`
+  - Change the number of seats to add to the number of people you are onboarding right now
+  - Click `Add seats`
+  - Now there's seats!
+
+  If it does not say '0 seats left':
   - Paste their GitHubID into the box that says `Invite by username, full name, or email address` and click `Invite`
   - Scroll down and click 'Show all XX teams'
   - Based on their Title/Position and affiliation, add them to as many teams as is appropriate
