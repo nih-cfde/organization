@@ -16,7 +16,7 @@ If the repository will not host much code, consider whether a mailing list or Sl
   - Repositories that are created in the CFDE organization are able to
     take advantage of Github teams in the CFDE organization.
   - All repositories that are part of the CFDE project are subject to
-    the [CFDE Code of Conduct](https://github.com/nih-cfde/organization/blob/master/CODEOFCONDUCT.md).
+    the [CFDE Code of Conduct](./CODEOFCONDUCT.md).
 
 **2) Decide whether to make your repository public or private.**
 
@@ -73,8 +73,7 @@ If the repository will not host much code, consider whether a mailing list or Sl
 **7) Add a `CONTRIBUTING.md` that explains how to contribute to the
 repository.**
 
-  - Sample `CONTRIBUTING.md`:
-    <https://github.com/nih-cfde/organization/blob/master/CONTRIBUTING.md>
+  - Sample `CONTRIBUTING.md`: [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 
 <a name="addendum"></a>
