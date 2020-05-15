@@ -8,7 +8,7 @@ To fully onboard, a new member must:
  We track those events, as well as our progress in adding them to our resources [here](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing).
 
 ## Onboarding Overview
-The Onboarding form will send notifications to coordination@CFDE.groups.io whenever the form is filled out. To request being added to coordination mailing list and receive notifications, send your request to the [helpdesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io).
+The Onboarding form will send notifications to coordination@CFDE.groups.io whenever the form is filled out. To request being added to coordination mailing list and receive notifications, send your request to the [helpdesk](mailto:coordination+int+1481+4810093048235559374@CFDE.groups.io).
 
 A member of the coordination mailing list should begin the onboarding process for new forms *within 2 business days*. Full onboarding for each person is a typically a multi-day process, and can be done by multiple members of the coordination team, because we have to wait for each new onboardee to accept the invitations. The basic workflow is:
   
@@ -83,7 +83,7 @@ If 'Mailing Lists Assigned??' is unchecked:
  - Copy their email address from "Alternate email for Google Drive", if they don't have one, use the email address in "Email Address"
  - Copy their name from column K
  - Note the mailing lists they requested to join in column Q (see NOTE1 for help)
- - Got to [direct add for the general mailing list](https://cfde.groups.io/g/General/directadd)
+ - Go to [direct add for the general mailing list](https://cfde.groups.io/g/General/directadd)
  - Paste the following text in the 'Customize Message' box:
  
  ```
