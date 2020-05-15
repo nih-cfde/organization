@@ -152,9 +152,16 @@ If 'In Announcements?' is unchecked:
    
 ### Special additions for PMs, PIs and Admin contacts
 
+For most places:
+- the PI on the grant is the Principal Investigator
+- the Administrator Contact is the person I would ask things like "how much money did your grant spend in March?" not things like "hey when is Bobs calendar open"
+- the PM is the head PM of that group. the person you contact to find out why their deliverable isn't done, or where some product is. 
+
 If the person you are onboarding is a PI, PM or Administrative contact for *any* team, they should be added to the [Points of Contact](https://github.com/nih-cfde/organization/blob/master/PointsOfContact.md) list:
   - Navigate to [Points of Contact](https://github.com/nih-cfde/organization/blob/master/PointsOfContact.md) on GitHub
   - Use the edit feature to add them and issue a pull request. For help with pull requests, see the [GitHub Usage Guide](./GitHubUsage.md)
+  
+ If you are unsure whether a newly onboarded person needs to go on the Point of Contact List, ask Amanda Charbonneau.
 
 
 ### Check Slack Invite
