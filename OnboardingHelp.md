@@ -54,7 +54,7 @@ You may need to click on the small arrow to see the list of drives you have acce
 <img src="/images/teamdrive2.png" alt="Show Team Drives" width="400"/>
 
 If you have trouble accessing drives, or believe you have been assigned the wrong permissions,
-please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
+please email the [HelpDesk](mailto:coordination+int+1481+4810093048235559374@CFDE.groups.io)
 
 For help configuring your Google Drive notifications and other settings see [the Google Drive section of Communication Management](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#google-drive-help)
 
@@ -66,4 +66,4 @@ Our workspace is `cfdeworkspace`
 For help configuring your Slack notifications and other settings see [the Slack section of Communication Management](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#slack-help)
 
 
-If you did not find a solution to your problem on this page, please check the [Communication Management Help page](./CommunicationManagementHelp.md) or email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
+If you did not find a solution to your problem on this page, please check the [Communication Management Help page](./CommunicationManagementHelp.md) or email the [HelpDesk](mailto:coordination+int+1481+4810093048235559374@CFDE.groups.io)
