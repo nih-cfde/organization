@@ -15,7 +15,7 @@ to post via web or email, you can email that address to post new topics.
 
 If you completed onboarding more than two business days ago and are not receiving mail, 
 please check your spam folder and be sure to add CFDE@groups.io to your safe sender list
-in your email client’s contacts. If you are still experianceing difficulties, email our
+in your email client’s contacts. If you are still experiencing difficulties, email our
 [helpdesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
 
 ### Modifying your subscription
