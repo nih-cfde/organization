@@ -3,7 +3,7 @@
 This is the central organizational repository for the Common Fund Data Ecosystem
 
 To modify or update this repository: create a pull
-request, file an issue, or [e-mail us](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io) with your
+request, file an issue, or [e-mail us](mailto:coordination+int+1481+4810093048235559374@CFDE.groups.io) with your
 request.
 
 ## Onboarding
@@ -13,7 +13,7 @@ GitHub, mailing list, calendars and other internal documents.
 
 If you are having trouble accessing something you believe you should have access to, please visit our
 [Onboarding Help](OnboardingHelp.md) or 
-email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
+email the [HelpDesk](mailto:coordination+int+1481+4810093048235559374@CFDE.groups.io)
 
 ## General Resources
 
