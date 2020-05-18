@@ -73,7 +73,8 @@ If the repository will not host much code, consider whether a mailing list or Sl
 **7) Add a `CONTRIBUTING.md` that explains how to contribute to the
 repository.**
 
-  - Sample `CONTRIBUTING.md`: [CONTRIBUTING.md](./CONTRIBUTING.md)
+  - Sample `CONTRIBUTING.md`:
+    - [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 
 <a name="addendum"></a>
