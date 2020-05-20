@@ -60,11 +60,11 @@ Restricted to only certain people, should not be listed on on-boarding form:
 
 **CFDE-RFC-Admin:** This is a list that will be used for the RFC process that we're in the middle of standing up. It is restricted membership, but people can know about it, and I'm open to making the archives public to onboarded members if people want to. 
 
-Help Desk Mailing Lists:
+## Help Desk Mailing Lists: ##
 
 **Onboarding:** This link will be used to message the Onboarding Team of any issues related to onboarding(setting up Slack, groups.io, and github) <coordination+int+1481+4810093048235559374@CFDE.groups.io>
 
-**Offboard:** This link will be used to message the Offboarding Team of any issues related to offboarding (removing members from Slack, groups.io, and github teams. <coordination+int+1482+3914664481228082529@CFDE.groups.io>
+**Offboarding:** This link will be used to message the Offboarding Team of any issues related to offboarding (removing members from Slack, groups.io, and github teams. <coordination+int+1482+3914664481228082529@CFDE.groups.io>
 
 If the sentence is about Code of conduct problems, or something that really needs to be Amanda's problem specifically, make the email address:
 
