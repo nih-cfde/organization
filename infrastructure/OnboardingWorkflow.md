@@ -29,7 +29,7 @@ To onboard new members, or to continue boarding partially onboarded members, fir
    - Copy their email address from "Alternate email for Google Drive", if they don't have one, use the email address in "Email Address"
    - Note their Title/Position from column P and affiliation from column O
    - Decide what Google Permissions group to add them to:
-      - For members of Teams Brown or White **who are working on infrastructure or data access management**, choose [CFDE_Admin](https://groups.google.com/forum/#!managemembers/cfde_admin/add)
+      - For members of Teams Brown or White **who are working on infrastructure or data access management**, ask Amanda and add them to [CFDE_Admin](https://groups.google.com/forum/#!managemembers/cfde_admin/add) only after her explicit approval
       - For everyone else, choose [CFDE_Everyone](https://groups.google.com/forum/#!managemembers/cfde_everyone/add)
    - (You can also reach those pages by going to [Google Groups](https://groups.google.com/forum/#!myforums), choosing 'Manage members' for the appropriate group, and then clicking 'Direct add members' on the left side of the screen.)
    - Enter the email address of the person you want to onboard. If you have more than one to add to a given group, you can add multiple, comma-seperated, email addresses
