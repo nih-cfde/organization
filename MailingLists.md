@@ -32,8 +32,6 @@ If you do not wish to belong to this group, you may unsubscribe by sending an em
 
 **Announcements:** Open list for announcements about important CFDE milestones, deadlines, meetings and more
 
-**autohelp:** Restricted list: Helpdesk members only. Receives all helpdesk messages.
-
 **GitHubTracking:** Open list with automated updates about the CFDE Github repositories
 
 **General:** No specific topic, literally everyone who is onboarded is in it by default. 
