@@ -32,9 +32,9 @@ If you do not wish to belong to this group, you may unsubscribe by sending an em
 
 **Announcements:** Open list for announcements about important CFDE milestones, deadlines, meetings and more
 
-**autohelp:** Restricted list: Helpdesk members only. Receives all helpdesk messages.
-
 **GitHubTracking:** Open list with automated updates about the CFDE Github repositories
+
+**General:** No specific topic, literally everyone who is onboarded is in it by default. 
 
 **OrgHelpForum:** Open list to create a searchable history of questions about the organization, 
 how things work, and where to find what you need. Unlike the other lists you do *NOT* need to 
@@ -42,9 +42,12 @@ be a member of this list to post messages or search the archive
 
 **ProjectManagement:** Open list for project managers
 
+**PIs:** Mostly for announcing PI meetings and telling them about reporting deadlines. Anyone can join, but it's aimed at PIs. Opt-in
+
 **PIsPlusNIH:** For NIH and admin contacts. Strategy, reporting, and NIH items for review.
 
 **Training:** Open list for discussion around Outreach and Training
+
 
 
 
