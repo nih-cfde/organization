@@ -63,6 +63,9 @@ Offboarding tasks should be completed (or checked up on) from left to right for 
   - In the dialogue box, click the 'Remove members' button
   - Check the 'Removed from Github?' box for each person you removed
 
+### Slack removal
+  Slack accounts are added and removed automatically through groups.io. 
+  - Admins *can* access Slack and change accounts [here](https://cfdeworkspace.slack.com/admin) if a user wishes to change their e-mail. 
  
 ### Special removals for PMs, PIs and Admin contacts
 
