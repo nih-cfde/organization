@@ -115,7 +115,7 @@ points of contact.
 | Role                   | Name           | Email Address             | GitHub username |
 | ---------------------- | -------------- | ------------------------- | --------------- |
 | Project Manager | Jen Yttri  | <jyttri@mitre.org>    |    jyttri   |
-
+| Project Manager | Kristen Cleveland | <kcleveland@bioteam.net>   |
 
 ## RTI
 
