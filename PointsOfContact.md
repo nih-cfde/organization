@@ -88,7 +88,9 @@ points of contact.
 
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
-|   |   |  |  |
+| Principal Investigator | Avi Ma'ayan    | <Avi.Maayan@mssm.edu>  |                 |
+| Admin Contact          | Sherry Jenkins | <Sherry.Jenkins@mssm.edu> | sherry-jenkins  |
+| Project Manager        | Sherry Jenkins | <Sherry.Jenkins@mssm.edu> | sherry-jenkins  |
 
 ## Ma'ayan Group
 
@@ -108,7 +110,7 @@ points of contact.
 
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
-|   |   |  |  |
+|  Admin Contact | Karen Dalton  | kdalton@stanford.edu | kilodalton |
 
 ## NIH
 
