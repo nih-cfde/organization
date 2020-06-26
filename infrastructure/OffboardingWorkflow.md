@@ -46,11 +46,11 @@ Offboarding tasks should be completed (or checked up on) from left to right for 
  If 'Removed from Groups.io?' is unchecked:
   - Copy their email from column I of the [Onboarding Responses form](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing)
    - Go to https://cfde.groups.io/g/General/members
-  - Paste thier email into the 'search' box
+  - Paste their email into the 'search' box
   - Check the box on the left side of their name and click the 'Actions' button
   - In the drop down menu, choose 'Remove' 
   - In the dialogue box, choose 'Yes'
-  - Check the 'Removed from Groups.io?' box for each person you removed (Groups.io will automatically remove them from Slack)
+  - Check the 'Removed from Groups.io?' box on the [CFDE Offboarding Responses form](https://docs.google.com/spreadsheets/d/1bY-P5ZrIOPDrDpzlXNrDnV96XqOnV_X9z9ur7t9Qkhk/edit#gid=1873329009) for each person you removed.
    
 ### GitHub removal
 
@@ -64,6 +64,7 @@ Offboarding tasks should be completed (or checked up on) from left to right for 
 
 ### Slack removal 
   - Admins can access Slack and change accounts [here](https://cfdeworkspace.slack.com/admin) to remove a user or change their e-mail. 
+  - Click the 'Removed from Slack?' box for each removed member on the [CFDE Offboarding form](https://docs.google.com/spreadsheets/d/1bY-P5ZrIOPDrDpzlXNrDnV96XqOnV_X9z9ur7t9Qkhk/edit#gid=1873329009) form. 
  
 ### Special removals for PMs, PIs and Admin contacts
 
