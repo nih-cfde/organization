@@ -46,11 +46,11 @@ Offboarding tasks should be completed (or checked up on) from left to right for 
  If 'Removed from Groups.io?' is unchecked:
   - Copy their email from column I of the [Onboarding Responses form](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing)
    - Go to https://cfde.groups.io/g/General/members
-  - Paste thier email into the 'search' box
+  - Paste their email into the 'search' box
   - Check the box on the left side of their name and click the 'Actions' button
   - In the drop down menu, choose 'Remove' 
   - In the dialogue box, choose 'Yes'
-  - Check the 'Removed from Groups.io?' box for each person you removed (Groups.io will automatically remove them from Slack)
+  - Check the 'Removed from Groups.io?' box on the [CFDE Offboarding Responses form](https://docs.google.com/spreadsheets/d/1bY-P5ZrIOPDrDpzlXNrDnV96XqOnV_X9z9ur7t9Qkhk/edit#gid=1873329009) for each person you removed.
    
 ### GitHub removal
 
@@ -58,13 +58,13 @@ Offboarding tasks should be completed (or checked up on) from left to right for 
   - Copy their GitHubID from column N of the [Onboarding Responses form](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing)
   - Note their Title/Position from column P and affiliation from column O of the [Onboarding Responses form](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing)
   - Go to https://github.com/orgs/nih-cfde/people
-  - Paste thier GitHubID into the 'Find a member' box (don't put an `@` in front of it)
+  - Paste their GitHubID into the 'Find a member' box (don't put an `@` in front of it)
   - Click on the gear icon on the right side of the screen and select 'Remove from organization'
-  - In the dialogue box, click the 'Remove members' button
-  - Check the 'Removed from Github?' box for each person you removed
+  - Check the 'Removed from Github?' box for each person you removed on the [CFDE Offboarding form](https://docs.google.com/spreadsheets/d/1bY-P5ZrIOPDrDpzlXNrDnV96XqOnV_X9z9ur7t9Qkhk/edit#gid=1873329009). 
 
 ### Slack removal 
   - Admins can access Slack and change accounts [here](https://cfdeworkspace.slack.com/admin) to remove a user or change their e-mail. 
+  - Click the 'Removed from Slack?' box for each removed member on the [CFDE Offboarding form](https://docs.google.com/spreadsheets/d/1bY-P5ZrIOPDrDpzlXNrDnV96XqOnV_X9z9ur7t9Qkhk/edit#gid=1873329009) form. 
  
 ### Special removals for PMs, PIs and Admin contacts
 
@@ -72,6 +72,8 @@ If the person you are offboarding is a PI, PM or Administrative contact for *any
   - Navigate to [Points of Contact](https://github.com/nih-cfde/organization/blob/master/PointsOfContact.md) on GitHub
   - If the person is listed, use the edit feature to remove them and issue a pull request. For help with pull requests, see the [GitHub Usage Guide](./GitHubUsage.md)
 
+### Last step 
+  - Go to the [Onboarding Reponses Google Sheet](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing) and enter the date you offboarded the member in the offboarding column.
 
    
   
