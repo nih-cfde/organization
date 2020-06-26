@@ -72,6 +72,8 @@ If the person you are offboarding is a PI, PM or Administrative contact for *any
   - Navigate to [Points of Contact](https://github.com/nih-cfde/organization/blob/master/PointsOfContact.md) on GitHub
   - If the person is listed, use the edit feature to remove them and issue a pull request. For help with pull requests, see the [GitHub Usage Guide](./GitHubUsage.md)
 
+### Last step 
+  - Go to the [Onboarding Reponses Google Sheet](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing) and enter the date you offboarded the member in the offboarding column.
 
    
   
