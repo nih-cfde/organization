@@ -27,6 +27,7 @@ To onboard new members, or to continue boarding partially onboarded members, fir
 
   If 'Added to Google Group?' is unchecked:
    - Copy their email address from "Alternate email for Google Drive", if they don't have one, use the email address in "Email Address"
+     - Note : If the e-mail is a commercial (.com) address, but not from a big service provider (gmail / hotmail) Google Groups may not give them access, the Onboarding Form recommends users give a non-commercial address, but it's good, as administrator, to be aware that you may need to ask them to change/create a different e-mail for full access. 
    - Note their Title/Position from column P and affiliation from column O
    - Decide what Google Permissions group to add them to:
       - For members of Teams Brown or White **who are working on infrastructure or data access management**, ask Amanda and add them to [CFDE_Admin](https://groups.google.com/forum/#!managemembers/cfde_admin/add) only after her explicit approval
