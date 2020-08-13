@@ -68,7 +68,7 @@ You have been added to Everyone. You will have:
 
 You can access these groups in your google drive under Team Drives 
 
-If you have any problems, please email our help desk mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io 
+If you have any problems, please email our help desk mailto:CFDE+coordination+int+1481+4810093048235559374@groups.io
 
 - CFDE Onboarding Team
 ```
