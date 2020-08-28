@@ -22,7 +22,7 @@ All issues that contribute to a given metatask should be connected to that Epic.
 ## Strategy 2 Make the issues first, in bulk
 
 1. In Github, create new issues in the appropriate repos
-      1. Navigate to https://github.com/nih1.cfde
+      1. Navigate to https://github.com/nih.cfde
       1. Click on the name of a repo
       1. Click `Issues` at the top of the page
       1. Click `New issue` on the top right
@@ -47,7 +47,7 @@ All issues that contribute to a given metatask should be connected to that Epic.
 
 Dependencies are for tasks that need to be completed in a specific order, OR for tasks that are reliant on some other work or event. For instance,
 some of our work is dependent on DCC funding or might be delayed due to the pandemic, in which case you would want to assign them dependencies from the
-[Risks repo.](https://github.com/nih1.cfde/risks/issues)
+[Risks repo.](https://github.com/nih.cfde/risks/issues)
 
 If an entire Epic has a dependency, or is a dependency for another task, you can assign the entire Epic by:
 
