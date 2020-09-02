@@ -39,7 +39,6 @@ You can check the onboarding status of any CFDE member by finding their name her
 
 ### Reporting
 
-
 Submit your deliverables to UMD at least two days before they are due to NIH. [Delivery Guide](https://github.com/nih-cfde/project-management/blob/master/DeliveryGuide.md)
 
 Submit your financial report by the 6th business day of the month. [Financial Report Guide](https://github.com/nih-cfde/project-management/blob/master/FinancialReportingGuide.md)
@@ -47,6 +46,12 @@ Submit your financial report by the 6th business day of the month. [Financial Re
 Request changes to delivery dates or changes to deliverables by contacting [Bob Carter](mailto:ROCarter@som.umaryland.edu). [Change Request Guide](https://github.com/nih-cfde/project-management/blob/master/ChangeRequestGuide.md)
 
 [Central repo for project management](https://github.com/nih-cfde/project-management/)
+
+### GitHub 
+
+The CFDE relies on GitHub for project management and version control. The [GitHub User Guide](GitHubUsage.md) is our evolving resource for using GitHub.
+
+[Zenhub](https://www.zenhub.com/) is an agile project management tool we can use with GitHub to help plan and track work on various projects. In Zenhub we can create Epics to help track and manage Roadmap tasks and goals. For an explanation of Epics in Zenhub read our [Adding issues to Epics](AddingIssuesToEpis.md) guide,
 
 ## Code of Conduct
 
