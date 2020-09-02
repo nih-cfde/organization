@@ -28,7 +28,7 @@ You can opt to receive: all messages in individual emails, collections of messag
 
 If you do not wish to belong to this group, you may unsubscribe by sending an email to: CFDE+unsubscribe@groups.io
 
-## List of mailing list for the Common Fund Data Ecosystem project
+## Mailing lists for the Common Fund Data Ecosystem project
 
 **Announcements:** Open list for announcements about important CFDE milestones, deadlines, meetings and more
 
