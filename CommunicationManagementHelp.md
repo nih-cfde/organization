@@ -50,7 +50,7 @@ If you are having problems *accessing* these services, please see the [Onboardin
 
 This page is for changing GitHub notification and other settings. For help with *using* GitHub, for e.g. opening issues or making pull requests, see the [GitHub Usage Guide](./GitHubUsage.md)
 
-#### Definitions
+#### Glossary
 
 - Organization: Our GitHub Organization is https://github.com/nih-cfde This is the location on the web where you can access all of the CFDE github repositories. We also have an 'organization' repository, which is a folder that contains all the meta information about our Organization
 - Repository: Each repository or 'repo' is a self-contained collection of documents and code. There can be any number of repositories in our Organization, and anyone in our group can make a new repository. See the [New Repository Guidelines](NewRepositoryGuide.md) for more info
