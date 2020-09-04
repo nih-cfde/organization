@@ -15,7 +15,7 @@ email the [HelpDesk](mailto:coordination+int+1481+4810093048235559374@CFDE.group
 
 ## General Resources
 
-[Project Management Resources](/projectmanagement/README.md): Resources for Projece Management including <b>Personnel</b>, <b>GitHub Guides</b>, and <b>Reporting</b>.
+[Project Management Resources](/projectmanagement/README.md): Resources for Project Management including <b>Personnel</b>, <b>GitHub Guides</b>, and <b>Reporting</b>.
 
 [Points of Contact](PointsOfContact.md): Admin and group points of contact. For a full CFDE directory see: [Onboarded CFDE Members](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing).
 
@@ -27,13 +27,6 @@ Contribute links and other announcements to our consortium summary email by repl
 [Mailing lists](MailingLists.md): A mail list guide with all of our current mailing lists.
 
 [Markdown Help](MarkdownHelp.md): CFDE produced primer on using markdown; necessary for adding and editing docs on CFDE platforms (GitHub/Website).
-
-
-
-
-
-
-
 
 ## Code of Conduct
 
