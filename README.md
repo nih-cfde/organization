@@ -15,6 +15,10 @@ email the [HelpDesk](mailto:coordination+int+1481+4810093048235559374@CFDE.group
 
 ## General Resources
 
+[Project Management Resources](/projectmanagement/README.md): Resources for Projece Management including <b>Personnel</b>, <b>GitHub Guides</b>, and <b>Reporting</b>.
+
+[Points of Contact](PointsOfContact.md): Admin and group points of contact. For a full CFDE directory see: [Onboarded CFDE Members](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing).
+
 [Announcements and Links](https://github.com/nih-cfde/Announcements/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+Announcements): 
 Contribute links and other announcements to our consortium summary email by replying to the linked issue.
 
@@ -24,30 +28,12 @@ Contribute links and other announcements to our consortium summary email by repl
 
 [Markdown Help](MarkdownHelp.md): CFDE produced primer on using markdown; necessary for adding and editing docs on CFDE platforms (GitHub/Website).
 
-[Points of Contact](PointsOfContact.md): Admin and group points of contact. For a full CFDE directory see: [Onboarded CFDE Members](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing).
-
-[Project Management Resources](/projectmanagement/README.md):
 
 
-### Personnel
 
-Have a *new* team member? Send them to the [Onboarding form](https://forms.gle/H3ThBxzYYHdauaKJ8)
 
-Have an *exiting* team member? Send them to the [Offboarding form](https://forms.gle/TQMmwvSGaDCFuVXP9)
 
-If you have a team member who needs to *alter* access levels or affiliations please have them use the link in their Onboarding form Confirmation email to update their Onboarding Form. They can also edit their Onboarding info by going to the [Onboarding form](https://forms.gle/H3ThBxzYYHdauaKJ8) while signed in to Google with the email they originally used to Onboard. Please [email the helpdesk](mailto:coordination+int+1481+4810093048235559374@CFDE.groups.io) after changing your form to ensure any changes are propagated through the CFDE system.
 
-You can check the onboarding status of any CFDE member by finding their name here [Onboarded CFDE Members](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing)
-
-### Reporting
-
-Submit your deliverables to UMD at least two days before they are due to NIH. [Delivery Guide](https://github.com/nih-cfde/project-management/blob/master/DeliveryGuide.md)
-
-Submit your financial report by the 6th business day of the month. [Financial Report Guide](https://github.com/nih-cfde/project-management/blob/master/FinancialReportingGuide.md)
-
-Request changes to delivery dates or changes to deliverables by contacting [Bob Carter](mailto:ROCarter@som.umaryland.edu). [Change Request Guide](https://github.com/nih-cfde/project-management/blob/master/ChangeRequestGuide.md)
-
-[Central repo for project management](https://github.com/nih-cfde/project-management/)
 
 ## Code of Conduct
 

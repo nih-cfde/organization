@@ -11,8 +11,6 @@
 
 [Zenhub Help](AddingIssuesToEpics.md): a guide for adding Epics to the Zenhub Project Management system being used by the <b>CFDE Roadmap Committee</b>.
 
-
-
 ### Personnel
 
 Have a *new* team member? Send them to the [Onboarding form](https://forms.gle/H3ThBxzYYHdauaKJ8).
