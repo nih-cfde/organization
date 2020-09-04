@@ -22,9 +22,11 @@ Contribute links and other announcements to our consortium summary email by repl
 
 [Mailing lists](MailingLists.md): A mail list guide with all of our current mailing lists.
 
+[Markdown Help](MarkdownHelp.md): CFDE produced primer on using markdown; necessary for adding and editing docs on CFDE platforms (GitHub/Website).
+
 [Points of Contact](PointsOfContact.md): Admin and group points of contact. For a full CFDE directory see: [Onboarded CFDE Members](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing).
 
-[Project Management Resources](/projectmanagement/README.md)
+[Project Management Resources](/projectmanagement/README.md):
 
 
 ### Personnel
@@ -38,7 +40,6 @@ If you have a team member who needs to *alter* access levels or affiliations ple
 You can check the onboarding status of any CFDE member by finding their name here [Onboarded CFDE Members](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing)
 
 ### Reporting
-
 
 Submit your deliverables to UMD at least two days before they are due to NIH. [Delivery Guide](https://github.com/nih-cfde/project-management/blob/master/DeliveryGuide.md)
 
