@@ -1,52 +1,36 @@
 # CFDE Organizational Resources
 
-This is the central organizational repository for the Common Fund Data Ecosystem
-
-To modify or update this repository: create a pull
+This is the central organizational repository for the Common Fund Data Ecosystem. To modify or update this repository you can create a pull
 request, file an issue, or [e-mail us](mailto:coordination+int+1481+4810093048235559374@CFDE.groups.io) with your
 request.
 
 ## Onboarding
 
-New members *must* fill out [this form](https://forms.gle/H3ThBxzYYHdauaKJ8) to gain access to our 
-GitHub, mailing list, calendars and other internal documents.
+New members *must* fill out [this onboarding form](https://forms.gle/H3ThBxzYYHdauaKJ8) to gain access to our 
+GitHub, mailing list, calendars and other internal documents. A more detailed introduction and onboarding instructions can be found at the [Welcome to the CFDE](https://cfde-welcome-to-cfde.readthedocs-hosted.com/en/master/) web page.
 
 If you are having trouble accessing something you believe you should have access to, please visit our
-[Onboarding Help](OnboardingHelp.md) or 
-email the [HelpDesk](mailto:coordination+int+1481+4810093048235559374@CFDE.groups.io)
+[Onboarding Help](OnboardingHelp.md) page or 
+email the [HelpDesk](mailto:coordination+int+1481+4810093048235559374@CFDE.groups.io).
+
+## Offboarding
+
+Are you or a team member leaving the CFDE? The departing member should fill out the CFDE [Offboarding form](https://forms.gle/TQMmwvSGaDCFuVXP9).
 
 ## General Resources
 
-[Announcements and Links](https://github.com/nih-cfde/Announcements/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+Announcements) Contribute links and other announcements to our consortium summary email by replying to the linked issue.
+[Project Management Resources](/projectmanagement/README.md): Resources for Project Management including <b>Personnel</b>, <b>GitHub Guides</b>, and <b>Reporting</b>.
 
-[Communication Management Help](CommunicationManagementHelp.md): Resource for navigating Slack, GitHub, groups.io and Google Drive
+[Points of Contact](PointsOfContact.md): Admin and group points of contact. For a full CFDE directory see [Onboarded CFDE Members](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing).
 
-[Mailing lists](MailingLists.md): A listing of all our current mailing lists
+[Announcements and Links](https://github.com/nih-cfde/Announcements/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+Announcements): 
+Contribute links and other announcements to our consortium summary email by replying to the linked issue.
 
-[Points of Contact](PointsOfContact.md): Admin and group points of contact. For a full CFDE directory see: [Onboarded CFDE Members](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing)
+[Communication Management Help](CommunicationManagementHelp.md): Resources for navigating Slack, GitHub, groups.<span></span>io and Google Drive.
 
-## Project Management Resources
+[Mailing lists](MailingLists.md): A mail list guide with all of our current mailing lists.
 
-### Personnel
-
-Have a *new* team member? Send them to the [Onboarding form](https://forms.gle/H3ThBxzYYHdauaKJ8)
-
-Have an *exiting* team member? Send them to the [Offboarding form](https://forms.gle/TQMmwvSGaDCFuVXP9)
-
-If you have a team member who needs to *alter* access levels or affiliations please have them use the link in their Onboarding form Confirmation email to update their Onboarding Form. They can also edit their Onboarding info by going to the [Onboarding form](https://forms.gle/H3ThBxzYYHdauaKJ8) while signed in to Google with the email they originally used to Onboard. Please [email the helpdesk](mailto:coordination+int+1481+4810093048235559374@CFDE.groups.io) after changing your form to ensure any changes are propagated through the CFDE system.
-
-You can check the onboarding status of any CFDE member by finding their name here [Onboarded CFDE Members](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing)
-
-### Reporting
-
-
-Submit your deliverables to UMD at least two days before they are due to NIH. [Delivery Guide](https://github.com/nih-cfde/project-management/blob/master/DeliveryGuide.md)
-
-Submit your financial report by the 6th business day of the month. [Financial Report Guide](https://github.com/nih-cfde/project-management/blob/master/FinancialReportingGuide.md)
-
-Request changes to delivery dates or changes to deliverables by contacting [Bob Carter](mailto:ROCarter@som.umaryland.edu). [Change Request Guide](https://github.com/nih-cfde/project-management/blob/master/ChangeRequestGuide.md)
-
-[Central repo for project management](https://github.com/nih-cfde/project-management/)
+[Markdown Help](MarkdownHelp.md): CFDE produced primer on using markdown; necessary for adding and editing docs on CFDE platforms (GitHub/Website).
 
 ## Code of Conduct
 
