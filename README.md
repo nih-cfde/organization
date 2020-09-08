@@ -13,6 +13,10 @@ If you are having trouble accessing something you believe you should have access
 [Onboarding Help](OnboardingHelp.md) page or 
 email the [HelpDesk](mailto:coordination+int+1481+4810093048235559374@CFDE.groups.io).
 
+## Offboarding
+
+Are you or a team member leaving the CFDE? The departing member should fill out the CFDE [Offboarding form](https://forms.gle/TQMmwvSGaDCFuVXP9).
+
 ## General Resources
 
 [Project Management Resources](/projectmanagement/README.md): Resources for Project Management including <b>Personnel</b>, <b>GitHub Guides</b>, and <b>Reporting</b>.
