@@ -23,9 +23,7 @@ You can check the onboarding status of any CFDE member by finding their name her
 
 ### Reporting
 
-+ **Deliverables**: Follow the [Delivery Guide](https://github.com/nih-cfde/project-management/blob/master/DeliveryGuide.md) and submit your deliverables to the University of Maryland at least two days before they are due to NIH. 
-
-    The current timeline of deliverables is found in the [Deliverables repository](https://github.com/nih-cfde/deliverables/issues) and as an excel sheet in the CFDE Google Drive Project Management folder [Deliverables List](https://drive.google.com/file/d/1nEeSyqnCZ1WCjgVOBsWrHGBJEYMiX5Il/view?usp=sharing).
++ **Deliverables**: Follow the [Delivery Guide](https://github.com/nih-cfde/project-management/blob/master/DeliveryGuide.md) and submit your deliverables to the University of Maryland at least two days before they are due to NIH. The current timeline of deliverables is found in the [Deliverables repository](https://github.com/nih-cfde/deliverables/issues) and as an excel sheet in the CFDE Google Drive Project Management folder [Deliverables List](https://drive.google.com/file/d/1nEeSyqnCZ1WCjgVOBsWrHGBJEYMiX5Il/view?usp=sharing).
 
 + **Financial Reporting**: By the 6th of each month we need financial information to include dollars spent for labor and, separately, for travel (if any) for each team. The estimates should be fully loaded. So labor should include salary + benefits + overhead (indirects). Ideally what you provide will match an eventual invoice or at least be a close approximation.
 
