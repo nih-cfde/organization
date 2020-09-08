@@ -21,7 +21,7 @@ Are you or a team member leaving the CFDE? The departing member should fill out 
 
 [Project Management Resources](/projectmanagement/README.md): Resources for Project Management including <b>Personnel</b>, <b>GitHub Guides</b>, and <b>Reporting</b>.
 
-[Points of Contact](PointsOfContact.md): Admin and group points of contact. For a full CFDE directory see: [Onboarded CFDE Members](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing).
+[Points of Contact](PointsOfContact.md): Admin and group points of contact. For a full CFDE directory see [Onboarded CFDE Members](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing).
 
 [Announcements and Links](https://github.com/nih-cfde/Announcements/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+Announcements): 
 Contribute links and other announcements to our consortium summary email by replying to the linked issue.
