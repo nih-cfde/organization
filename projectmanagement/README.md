@@ -7,6 +7,8 @@
 
 [GitHub Notifications and Settings](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md#github-help): the <b>GitHub Help</b> section of the CFDE Communication Management Help Overview where you will find a GitHub glossary and help on managing GitHub notifications and settings. 
 
+[Markdown Help](MarkdownHelp.md): a guide for using Markdown, the standard format for writing text in GitHub.
+
 [New Repository Guide](NewRepositoryGuide.md): a useful checklist guide for creating your own repositories in GitHub and details about branch protection. 
 
 [Zenhub Help](AddingIssuesToEpics.md): a guide for adding Epics to the Zenhub Project Management system being used by the <b>CFDE Roadmap Committee</b>.
@@ -30,4 +32,14 @@ You can check the onboarding status of any CFDE member by finding their name her
 + **Change Requests**: 
 If changes are needed, please contact Bob Carter (rlc.dcppc@gmail.com) to discuss. Changes need to be negotiated with NIH, so please do not edit the deliverables list. 
 
+### CFDE Deliverables Information
 
+*   Each [deliverable](https://github.com/nih-cfde/deliverables/issues) for the CFDE Coordination center is an issue. They’re tagged with due dates, teams and other info!
+
+*   This GitHub project shows [current deliverable tasks](https://github.com/orgs/nih-cfde/projects/1) that comprise our current ‘focus’ within the CFDE-CCs. We’re using an Agile approach for program management.
+
+*   This [compilation of Gantt charts](https://nih-cfde.github.io/planning-docs/) shows current progress on CFDE Coordination Center deliverables.
+
+*   The [CFDE-CC calendar](https://cfde.groups.io/g/General/calendar) within groups<span>.io</span> shows upcoming meetings and special events.
+
+*   A list of all [CFDE-CC deliverables submitted](https://github.com/nih-cfde/deliverables) to the NIH can be seen in this GitHub repository. 
