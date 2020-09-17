@@ -95,9 +95,9 @@ or email the HelpDesk
 
 For help using all of our communication resources visit our Communication Management Help page
 
-Please remember that all interactions in the CFDE Google Drive spaces, Github repositories, Slack, groups.io and any other CFDE managed spaces are bound by the [CFDE Code of Conduct](./CODEOFCONDUCT.md). By participating in any of these community spaces you are agreeing to abide by these rules.
+Please remember that all interactions in the CFDE Google Drive spaces, Github repositories, Slack, groups.io and any other CFDE managed spaces are bound by the [CFDE Code of Conduct](https://cfde-welcome-to-cfde.readthedocs-hosted.com/en/master/General_Onboarding/CODEOFCONDUCT/). By participating in any of these community spaces you are agreeing to abide by these rules.
 
-All documents in the CFDE Google Drives and GitHub repositories are assumed to be under the [CFDE License](./LICENSE.md) unless another license is specified in the document.
+All documents in the CFDE Google Drives and GitHub repositories are assumed to be under the [CFDE License](https://cfde-welcome-to-cfde.readthedocs-hosted.com/en/master/Resources/License/) unless another license is specified in the document.
 
 - CFDE Onboarding Team
 ```
