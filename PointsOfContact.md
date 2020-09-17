@@ -14,7 +14,8 @@ points of contact.
 
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
-|   |   |  |  |
+| Principle Investigator | Ari B Kahn    | akahn@tacc.utexas.edu	       | resglowing      |
+|  |  |
 
 
 ## Brown Group
@@ -41,11 +42,13 @@ points of contact.
 
 ## GTEx
 
-| Role                   | Name          | Email Address                 | GitHub username |
-| ---------------------- | ------------- | ----------------------------- | --------------- |
-|   | Francois Aguet  | <francois@broadinstitute.org> | francois-a      |
-|   | Kristin Ardlie  | <kardlie@broadinstitute.org>  |                 |
-|   | Jared Nedzel    | <jnedzel@broadinstitute.org>  | jnedzel         |
+| Role                   | Name           | Email Address                 | GitHub username |
+| ---------------------- | -------------  | ----------------------------- | --------------- |
+| Principal Investigator | Kristin Ardlie | kardlie@broadinstitute.org    |
+| Project Manager        | Lan Nguyen     | ltn@broadinstitute.org        | ltn-broad       |
+|                        | Francois Aguet | <francois@broadinstitute.org> | francois-a      |
+|                        | Kristin Ardlie  | <kardlie@broadinstitute.org> |                 |
+|                        | Jared Nedzel    | <jnedzel@broadinstitute.org> | jnedzel         |
 
 ## HMP
 
@@ -116,8 +119,8 @@ points of contact.
 
 | Role                   | Name           | Email Address             | GitHub username |
 | ---------------------- | -------------- | ------------------------- | --------------- |
-| Project Manager | Jen Yttri  | <jyttri@mitre.org>    |    jyttri   |
-| Project Manager | Kristen Cleveland | <kcleveland@bioteam.net>   |
+| Project Manager |   |    |      |
+|  | |  |
 
 ## RTI
 
