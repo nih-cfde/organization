@@ -85,7 +85,7 @@ If 'Mailing Lists Assigned??' is unchecked:
  - Copy their name from column K
  - Note the mailing lists they requested to join in column Q (see NOTE1 for help)
  - Go to [direct add for the general mailing list](https://cfde.groups.io/g/General/directadd)
- - Paste the following text in the 'Customize Message' box:
+ - Paste the following text in the 'Customize Message' box (note, you may need to copy the links and then use the 'link' button to re-add them for the Code of Conduct and License sections)
  
  ```
  To complete your access, you'll need to accept the invitation to join our GitHub repository nih-cfde
