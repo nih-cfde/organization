@@ -51,7 +51,7 @@ Request changes to delivery dates or changes to deliverables by contacting [Bob 
 
 The CFDE relies on GitHub for project management and version control. The [GitHub User Guide](GitHubUsage.md) is our evolving resource for using GitHub.
 
-[Zenhub](https://www.zenhub.com/) is an agile project management tool we can use with GitHub to help plan and track work on various projects. In Zenhub we can create Epics to help track and manage Roadmap tasks and goals. For an explanation of Epics in Zenhub read our [Adding issues to Epics](AddingIssuesToEpis.md) guide,
+[Zenhub](https://www.zenhub.com/) is an agile project management tool we can use with GitHub to help plan and track work on various projects. In Zenhub we can create Epics to help track and manage Roadmap tasks and goals. For an explanation of Epics in Zenhub read our [Adding issues to Epics](AddingIssuesToEpis.md) guide.
 
 ## Code of Conduct
 
