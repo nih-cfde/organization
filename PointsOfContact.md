@@ -142,7 +142,7 @@ points of contact.
 
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
-|   |   |  |  |
+| Principal Investigator | Peter John Hunter | p.hunter@auckland.ac.nz |  |
 
 ## UDN
 
