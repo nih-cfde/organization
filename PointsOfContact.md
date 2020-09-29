@@ -60,7 +60,8 @@ points of contact.
 
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
-|  PI |  Nils Gehlenborg | nils@hms.harvard.edu | ngehlenborg |
+| Principal Investigator | Nils Gehlenborg | nils@hms.harvard.edu | ngehlenborg |
+| Principal Investigator | Katy Börner | katy@iu.edu | katyb |
 
 ## IDG
 
@@ -142,7 +143,7 @@ points of contact.
 
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
-|   |   |  |  |
+| Principal Investigator | Peter John Hunter | p.hunter@auckland.ac.nz |  |
 
 ## UDN
 
