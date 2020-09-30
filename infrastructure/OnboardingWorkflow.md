@@ -85,22 +85,23 @@ If 'Mailing Lists Assigned??' is unchecked:
  - Copy their name from column K
  - Note the mailing lists they requested to join in column Q (see NOTE1 for help)
  - Go to [direct add for the general mailing list](https://cfde.groups.io/g/General/directadd)
- - Paste the following text in the 'Customize Message' box (note, you may need to copy the links and then use the 'link' button to re-add them for the Code of Conduct and License sections)
+ - Paste the following text in the 'Customize Message' box (note, you may need to copy the links and then use the 'link' button to re-add them for the Code of Conduct and License sections):
  
- ```
- To complete your access, you'll need to accept the invitation to join our GitHub repository nih-cfde
+ ---
+To complete your access, you'll need to accept the invitation to join our GitHub repository `nih-cfde`.
 
 If you do not receive your invitation or have are having trouble with our resources, visit our Onboarding Help
-or email the HelpDesk 
+or [email the HelpDesk](CFDE+coordination+int+1481+4810093048235559374@groups.io).
 
-For help using all of our communication resources visit our Communication Management Help page
+For help using all of our communication resources visit our [Communication Management Help page](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md).
 
 Please remember that all interactions in the CFDE Google Drive spaces, Github repositories, Slack, groups.io and any other CFDE managed spaces are bound by the [CFDE Code of Conduct](https://cfde-welcome-to-cfde.readthedocs-hosted.com/en/master/General_Onboarding/CODEOFCONDUCT/). By participating in any of these community spaces you are agreeing to abide by these rules.
 
 All documents in the CFDE Google Drives and GitHub repositories are assumed to be under the [CFDE License](https://cfde-welcome-to-cfde.readthedocs-hosted.com/en/master/Resources/License/) unless another license is specified in the document.
 
-- CFDE Onboarding Team
-```
+CFDE Onboarding Team
+
+---
 
  - Check the boxes for their selected lists (you can do multiple new members at a time)
  - Add their name and address to the 'Emails' box in this format: `Name <email@example.com>`
