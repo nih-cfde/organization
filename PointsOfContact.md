@@ -144,6 +144,7 @@ points of contact.
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
 | Principal Investigator | Peter John Hunter | p.hunter@auckland.ac.nz |  |
+| Principal Investigator | Bernard de Bono | bernard.de.bono@auckland.ac.nz | bdebono |
 
 ## UDN
 
