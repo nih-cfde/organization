@@ -23,8 +23,8 @@ points of contact.
 | Role                   | Name               | Email Address       | GitHub username |
 | ---------------------- | ------------------ | ------------------- | --------------- |
 | Principal Investigator | C. Titus Brown     | <titus@idyll.org>   | ctb             |
-| Admin Contact:         | Amanda Charbonneau | <achar@ucdavis.edu> | ACharbonneau    |
-| Project Manager:       | Amanda Charbonneau | <achar@ucdavis.edu> | ACharbonneau    |
+| Admin Contact         | Amanda Charbonneau | <achar@ucdavis.edu> | ACharbonneau    |
+| Project Manager       | Amanda Charbonneau | <achar@ucdavis.edu> | ACharbonneau    |
 
 ## ExRNA
 
@@ -68,13 +68,16 @@ points of contact.
 
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
-|   |   |  |  |
+| Principal Investigator | Jeremy Yang | jeremyjyang@gmail.com |
+| Principal Investigator | Avi Maayan | avi.maayan@mssm.edu |
+| Principal Investigator | Tudor Oprea | toprea@salud.unm.edu |
+|   |  |  |
 
 ## Kesselman Group
 
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
-|  PI |  Carl Kesselman | carl@isi.edu | carlkesselman |
+|  Principal Investigator |  Carl Kesselman | carl@isi.edu | carlkesselman |
 
 ## Kids First
 
