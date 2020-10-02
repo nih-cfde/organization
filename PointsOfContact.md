@@ -62,7 +62,7 @@ points of contact.
 | ---------------------- | ------------- | ----------------------------- | --------------- |
 | Principal Investigator | Nils Gehlenborg | nils@hms.harvard.edu | ngehlenborg |
 | Principal Investigator | Katy Börner | katy@iu.edu | katyb |
-
+| Project Manager | Robin Scibek | flaus@psc.edu | robinpsc |
 ## IDG
 
 | Role                   | Name          | Email Address                 | GitHub username |
