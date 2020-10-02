@@ -62,6 +62,7 @@ points of contact.
 | ---------------------- | ------------- | ----------------------------- | --------------- |
 | Principal Investigator | Nils Gehlenborg | nils@hms.harvard.edu | ngehlenborg |
 | Principal Investigator | Katy Börner | katy@iu.edu | katyb |
+| Project Manager | Robin Scibek | flaus@psc.edu | robinpsc |
 
 ## IDG
 
@@ -82,8 +83,9 @@ points of contact.
 
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
-|  Program Officer | Valerie Cotton  | valerie.cotton@nih.gov | cottonva |
-|  Principal Investigator | Allison Heath  | heathap@email.chop.edu | allisonheath |
+| Program Officer | Valerie Cotton  | valerie.cotton@nih.gov | cottonva |
+| Principal Investigator | Allison Heath  | heathap@email.chop.edu | allisonheath |
+| Principal Investigator | Vincent Ferretti | vferretti.crsj@gmail.com | vferretti |
 
 ## KOMP
 
