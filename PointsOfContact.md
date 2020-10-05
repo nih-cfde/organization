@@ -60,8 +60,8 @@ points of contact.
 
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
-| Principal Investigator | Shawn Brown | stbrown@andrew.cmu.edu |
 | Principal Investigator | Philip Blood | blood@psc.edu |
+| Principal Investigator | Shawn Brown | stbrown@andrew.cmu.edu |
 | Principal Investigator | Jonathan Silverstein | j.c.s@pitt.edu |
 | Principal Investigator | Katy Börner | katy@iu.edu | katyb |
 | Project Manager | Robin Scibek | flaus@psc.edu | robinpsc |
@@ -86,6 +86,7 @@ points of contact.
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
 | Program Officer | Valerie Cotton  | valerie.cotton@nih.gov | cottonva |
+| Principal Investigator | Jack DiGiovanna | jackDiGi |
 | Principal Investigator | Allison Heath  | heathap@email.chop.edu | allisonheath |
 | Principal Investigator | Vincent Ferretti | vferretti.crsj@gmail.com | vferretti |
 
