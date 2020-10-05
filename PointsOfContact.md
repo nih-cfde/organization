@@ -60,7 +60,9 @@ points of contact.
 
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
-| Principal Investigator | Nils Gehlenborg | nils@hms.harvard.edu | ngehlenborg |
+| Principal Investigator | Shawn Brown | stbrown@andrew.cmu.edu |
+| Principal Investigator | Philip Blood | blood@psc.edu |
+| Principal Investigator | Jonathan Silverstein | j.c.s@pitt.edu |
 | Principal Investigator | Katy Börner | katy@iu.edu | katyb |
 | Project Manager | Robin Scibek | flaus@psc.edu | robinpsc |
 
