@@ -86,7 +86,7 @@ points of contact.
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
 | Program Officer | Valerie Cotton  | valerie.cotton@nih.gov | cottonva |
-| Principal Investigator | Jack DiGiovanna | jackDiGi |
+| Principal Investigator | Jack DiGiovanna | jack.digiovanna@sbgenomics.com | jackDiGi |
 | Principal Investigator | Allison Heath  | heathap@email.chop.edu | allisonheath |
 | Principal Investigator | Vincent Ferretti | vferretti.crsj@gmail.com | vferretti |
 
