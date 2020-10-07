@@ -69,8 +69,8 @@ points of contact.
 
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
-| Principal Investigator | Avi Maayan | avi.maayan@mssm.edu |
 | Principal Investigator | Tudor Oprea | toprea@salud.unm.edu |
+| Principal Investigator | Avi Maayan | avi.maayan@mssm.edu |
 
 ## Kesselman Group
 
@@ -153,7 +153,7 @@ points of contact.
 | Principal Investigator | Jeffrey Grethe | <jgrethe@ucsd.edu> |
 | Principal Investigator | Peter John Hunter | <p.hunter@auckland.ac.nz> |  |
 | Principal Investigator | Bernard de Bono | <bernard.de.bono@auckland.ac.nz> | bdebono |
-| Project Manager        | Jyl K Boline.   | <jylboline@informedminds.info> | jylb |
+| Project Manager        | Jyl K Boline    | <jylboline@informedminds.info> | jylb |
 
 ## UDN
 
