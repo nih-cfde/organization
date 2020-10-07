@@ -128,7 +128,7 @@ points of contact.
 | ---------------------- | --------------  | ------------------------- | --------------- |
 | Program Officer        | Lora Kutkat     | kutkat.lora@gmail.com | kutkatl |
 | Program Officer    | Haluk Resat     | haluk.resat@nih.gov |  hresat    |
-| Program Officer    | Chris Kinsinger | kinsingc@mail.nih.gov |
+| Program Officer    | Chris Kinsinger | kinsingc@mail.nih.gov | kingsingc |
 
 ## RTI
 
