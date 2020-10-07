@@ -44,7 +44,7 @@ points of contact.
 
 | Role                   | Name           | Email Address                 | GitHub username |
 | ---------------------- | -------------  | ----------------------------- | --------------- |
-| Principal Investigator | Kristin Ardlie | <kardlie@broadinstitute.org>  |
+| Principal Investigator | Kristin Ardlie | <kardlie@broadinstitute.org>  | --
 | Principal Investigator | Jared Nedzel   | <jnedzel@broadinstitute.org>  | jnedzel         |
 | Principal Investigator | Francois Aguet | <francois@broadinstitute.org> | francois-a      |
 | Project Manager        | Lan Nguyen     | <ltn@broadinstitute.org>      | ltn-broad       |
@@ -59,8 +59,8 @@ points of contact.
 
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
-| Principal Investigator | Philip Blood | blood@psc.edu |
-| Principal Investigator | Shawn Brown | stbrown@andrew.cmu.edu |
+| Principal Investigator | Philip Blood | blood@psc.edu | pblood |
+| Principal Investigator | Shawn Brown | stbrown@andrew.cmu.edu | shots47s |
 | Principal Investigator | Jonathan Silverstein | j.c.s@pitt.edu |
 | Principal Investigator | Katy Börner | katy@iu.edu | katyb |
 | Project Manager | Robin Scibek | flaus@psc.edu | robinpsc |
@@ -98,7 +98,7 @@ points of contact.
 
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
-| Principal Investigator | Avi Ma'ayan    | <Avi.Maayan@mssm.edu>  |                 |
+| Principal Investigator | Avi Ma'ayan    | <Avi.Maayan@mssm.edu>  | AviMaayan                |
 | Admin Contact          | Sherry Jenkins | <Sherry.Jenkins@mssm.edu> | sherry-jenkins  |
 | Project Manager        | Sherry Jenkins | <Sherry.Jenkins@mssm.edu> | sherry-jenkins  |
 
@@ -149,9 +149,9 @@ points of contact.
 
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
-| Principal Investigator | Maryann E Martone | <mmartone@ucsd.edu> |
-| Principal Investigator | Jeffrey Grethe | <jgrethe@ucsd.edu> |
-| Principal Investigator | Peter John Hunter | <p.hunter@auckland.ac.nz> |  |
+| Principal Investigator | Maryann E Martone | <mmartone@ucsd.edu> | memartone |
+| Principal Investigator | Jeffrey Grethe | <jgrethe@ucsd.edu> | jgrethe |
+| Principal Investigator | Peter John Hunter | <p.hunter@auckland.ac.nz> | --  |
 | Principal Investigator | Bernard de Bono | <bernard.de.bono@auckland.ac.nz> | bdebono |
 | Project Manager        | Jyl K Boline    | <jylboline@informedminds.info> | jylb |
 
