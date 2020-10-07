@@ -14,7 +14,7 @@ points of contact.
 
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
-| Principle Investigator | Ari B Kahn    | akahn@tacc.utexas.edu	       | resglowing      |
+| Principal Investigator | Ari B Kahn    | akahn@tacc.utexas.edu	       | resglowing      |
 |  |  |
 
 
@@ -30,7 +30,7 @@ points of contact.
 
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
-|   |   |  |  |
+| Principal Investigator | Aleksandar Milosavljevic | amilosav@bcm.edu |
 
 ## Foster Group
 
@@ -44,11 +44,10 @@ points of contact.
 
 | Role                   | Name           | Email Address                 | GitHub username |
 | ---------------------- | -------------  | ----------------------------- | --------------- |
-| Principal Investigator | Kristin Ardlie | kardlie@broadinstitute.org    |
-| Project Manager        | Lan Nguyen     | ltn@broadinstitute.org        | ltn-broad       |
-|                        | Francois Aguet | <francois@broadinstitute.org> | francois-a      |
-|                        | Kristin Ardlie  | <kardlie@broadinstitute.org> |                 |
-|                        | Jared Nedzel    | <jnedzel@broadinstitute.org> | jnedzel         |
+| Principal Investigator | Kristin Ardlie | <kardlie@broadinstitute.org>  |
+| Principal Investigator | Jared Nedzel   | <jnedzel@broadinstitute.org>  | jnedzel         |
+| Principal Investigator | Francois Aguet | <francois@broadinstitute.org> | francois-a      |
+| Project Manager        | Lan Nguyen     | <ltn@broadinstitute.org>      | ltn-broad       |
 
 ## HMP
 
@@ -70,10 +69,8 @@ points of contact.
 
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
-| Principal Investigator | Jeremy Yang | jeremyjyang@gmail.com |
 | Principal Investigator | Avi Maayan | avi.maayan@mssm.edu |
 | Principal Investigator | Tudor Oprea | toprea@salud.unm.edu |
-|   |  |  |
 
 ## Kesselman Group
 
@@ -89,12 +86,13 @@ points of contact.
 | Principal Investigator | Jack DiGiovanna | jack.digiovanna@sbgenomics.com | jackDiGi |
 | Principal Investigator | Allison Heath  | heathap@email.chop.edu | allisonheath |
 | Principal Investigator | Vincent Ferretti | vferretti.crsj@gmail.com | vferretti |
+| Principal Investigator | Adam Resnick | resnick@email.chop.edu |
 
 ## KOMP
 
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
-|   |   |  |  |
+| Program Officer        | Colin Fletcher | colin.fletcher@nih.gov | Colin-Fletcher  |  
 
 ## LINCS
 
@@ -116,7 +114,7 @@ points of contact.
 
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
-|   |   |  |  |
+| Principal Investigator | Shankar Subramaniam | shsubramaniam@ucsd.edu  |  |
 
 ## MoTrPAC
 
@@ -126,17 +124,17 @@ points of contact.
 
 ## NIH
 
-| Role                   | Name           | Email Address             | GitHub username |
-| ---------------------- | -------------- | ------------------------- | --------------- |
-| Project Manager |   |    |      |
-|  | |  |
+| Role                   | Name            | Email Address             | GitHub username |
+| ---------------------- | --------------  | ------------------------- | --------------- |
+| Program Officer        | Lora Kutkat     | kutkat.lora@gmail.com | kutkatl |
+| Program Officer    | Haluk Resat     | haluk.resat@nih.gov |  hresat    |
+| Program Officer    | Chris Kinsinger | kinsingc@mail.nih.gov |
 
 ## RTI
 
 | Role                   | Name           | Email Address             | GitHub username |
 | ---------------------- | -------------- | ------------------------- | --------------- |
 | Principal Investigator | Rebecca Boyles | <beckyboyles1@gmail.com>  | RebeccaBoyles  |
-| Project Manager | Marcie Rathbun | <mrathbun@rti.org> | mrathbun-rti |
 | Project Manager | Carol Place | <cpbahama@gmail.com> | cplace-rti |
 
 
@@ -151,8 +149,11 @@ points of contact.
 
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
-| Principal Investigator | Peter John Hunter | p.hunter@auckland.ac.nz |  |
-| Principal Investigator | Bernard de Bono | bernard.de.bono@auckland.ac.nz | bdebono |
+| Principal Investigator | Maryann E Martone | <mmartone@ucsd.edu> |
+| Principal Investigator | Jeffrey Grethe | <jgrethe@ucsd.edu> |
+| Principal Investigator | Peter John Hunter | <p.hunter@auckland.ac.nz> |  |
+| Principal Investigator | Bernard de Bono | <bernard.de.bono@auckland.ac.nz> | bdebono |
+| Project Manager        | Jyl K Boline.   | <jylboline@informedminds.info> | jylb |
 
 ## UDN
 
