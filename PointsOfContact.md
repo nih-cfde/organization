@@ -59,7 +59,7 @@ points of contact.
 
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
-| Principal Investigator | Philip Blood | blood@psc.edu | pblood |
+| Principal Investigator | Philip Blood | blood@psc.edu | pdblood |
 | Principal Investigator | Shawn Brown | stbrown@andrew.cmu.edu | shots47s |
 | Principal Investigator | Jonathan Silverstein | j.c.s@pitt.edu |
 | Principal Investigator | Katy Börner | katy@iu.edu | katyb |
