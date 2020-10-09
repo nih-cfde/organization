@@ -73,6 +73,11 @@ If you have any problems, please email our help desk mailto:CFDE+coordination+in
 - CFDE Onboarding Team
 ```
 
+### Master Contact list
+
+Add the name, contact e-mail, organization, and job title to our [master list](https://docs.google.com/spreadsheets/d/1niqenLvLLN38Tfz2IXOaKum4Bo0N2m0HxM33X3E2pf8/edit?usp=sharing
+).
+
 ### Slack space adds
 
 As of 7/15/2019 new members are automatically sent a Slack invitation by Groups.io
@@ -87,7 +92,7 @@ If 'Mailing Lists Assigned??' is unchecked:
  - Go to [direct add for the general mailing list](https://cfde.groups.io/g/General/directadd)
  - Paste the following text in the 'Customize Message' box (note, you may need to copy the links and then use the 'link' button to re-add them for the Code of Conduct and License sections):
  
- ---
+---
 To complete your access, you'll need to accept the invitation to join our GitHub repository `nih-cfde`.
 
 If you do not receive your invitation or have are having trouble with our resources, visit our Onboarding Help
@@ -116,7 +121,35 @@ CFDE Onboarding Team
       - Click where it says 'achar@ucdavis.edu'. That will open a selection box where you can choose the email address of the member you're working on
       - Choose the right email address
       - Scroll to the bottom of their form to the 'Mailing List Options' section      
-   
+
+### Cross-Pollination Mailing lists
+
+Currently all members on-boarding to the CFDE are also being added to the Cross-Pollination groups.io mailing list
+
+- Copy their email address from "Email Address"
+- Copy their name from column K
+- Go to [direct add for the cross-pollination mailing list](https://groups.io/g/CrossPollinationEvents/directadd)
+- Paste the following text in the 'Customize Message' box (note, you may need to copy the links and then use the 'link' button to re-add them for the Code of Conduct and License sections):
+
+---
+This mailing group gives you access to information about upcoming Common Fund Data Ecosystem (CFDE) Cross-Pollination Events. Cross-Pollination announcements, calendars, and invitations will all be coordinated through this group.
+
+A [Cross-Pollination Event Calendar](https://groups.io/g/CrossPollinationEvents/calendar) is available for you to view schedules and details of meetings, or you can visit the [Google Sheet](https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit?usp=sharing) with the details of the entire series on one page.
+
+The CFDE Cross-Pollination Events and this group are open to anyone interested in joining, so if you have colleagues you think would be interested, please share our information. New members can join by going to this link and clicking on the Join Group button: https://groups.io/g/CrossPollinationEvents
+
+Please remember that all interactions in the CFDE Google Drive spaces, Github repositories, Slack, groups.io and any other CFDE managed spaces are bound by the [CFDE Code of Conduct](https://cfde-welcome-to-cfde.readthedocs-hosted.com/en/master/General_Onboarding/CODEOFCONDUCT/). By participating in any of these community spaces you are agreeing to abide by these rules.
+
+All documents in the CFDE Google Drives and GitHub repositories are assumed to be under the [CFDE License](https://cfde-welcome-to-cfde.readthedocs-hosted.com/en/master/Resources/License/) unless another license is specified in the document.
+
+CFDE Coordination Team
+
+---
+
+ - Add their name and address to the 'Emails' box in this format: `Name <email@example.com>`
+ - Click `+ Add Members`
+ - Make sure you have checked the 'Mailing Lists Assigned??' box for each person you added if you haven't already for the general group
+ 
 ### GitHub adds
 
   If 'GitHub Invite Sent?' is unchecked:
