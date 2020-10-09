@@ -31,6 +31,7 @@ points of contact.
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
 | Principal Investigator | Aleksandar Milosavljevic | amilosav@bcm.edu |
+| Project Manager | Matt Roth | mattr@bcm.edu | 
 
 ## Foster Group
 
@@ -87,6 +88,7 @@ points of contact.
 | Principal Investigator | Allison Heath  | heathap@email.chop.edu | allisonheath |
 | Principal Investigator | Vincent Ferretti | vferretti.crsj@gmail.com | vferretti |
 | Principal Investigator | Adam Resnick | resnick@email.chop.edu |
+| Project Manager | Maia Nguyen | nguyenm7@email.chop.edu | MaiaNguyen12 |
 
 ## KOMP
 
