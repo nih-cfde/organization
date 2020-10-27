@@ -82,16 +82,16 @@ points of contact.
 
 ## Kids First
 
-| Company                                  | Role                  | Name          | Email Address                 | GitHub username |
-| ---------------------------------------- |---------------------- | ------------- | ----------------------------- | --------------- |
-| NIH | Program Officer | Valerie Cotton  | valerie.cotton@nih.gov | cottonva |
-| Seven Bridges | Principal Investigator | Jack DiGiovanna | jack.digiovanna@sbgenomics.com | jackDiGi |
-| Seven Bridges | Senior Program Manager | Michele Mattioni | michele.mattioni@sbgenomics.com | MICHELEMATTIONI |
-| Children's Hospital of Pennsylvania | Principal Investigator | Allison Heath | heathap@email.chop.edu | allisonheath |
-| Children's Hospital of Pennsylvania | Principal Investigator | Adam Resnick | resnick@email.chop.edu |
-| Children's Hospital of Pennsylvania | Project Manager | Maia Nguyen | nguyenm7@email.chop.edu | MaiaNguyen12 |
-| Ste. Justine Research Center | Principal Investigator | Vincent Ferretti | vferretti.crsj@gmail.com | vferretti |
-| Ste. Justine Research Center | Project Manager | Denis Beauregard | dbeauregard@ferlab.bio | denis-crsj |
+| Role                  | Name          | Email Address                 | GitHub username |
+|---------------------- | ------------- | ----------------------------- | --------------- |
+| Program Officer | Valerie Cotton  | valerie.cotton@nih.gov | cottonva |
+| Principal Investigator | Jack DiGiovanna | jack.digiovanna@sbgenomics.com | jackDiGi |
+| Senior Program Manager | Michele Mattioni | michele.mattioni@sbgenomics.com | MICHELEMATTIONI |
+| Principal Investigator | Allison Heath | heathap@email.chop.edu | allisonheath |
+| Principal Investigator | Adam Resnick | resnick@email.chop.edu |
+| Project Manager | Maia Nguyen | nguyenm7@email.chop.edu | MaiaNguyen12 |
+| Principal Investigator | Vincent Ferretti | vferretti.crsj@gmail.com | vferretti |
+| Project Manager | Denis Beauregard | dbeauregard@ferlab.bio | denis-crsj |
 
 
 ## KOMP
