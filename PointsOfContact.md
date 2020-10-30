@@ -23,8 +23,8 @@ points of contact.
 | Role                   | Name               | Email Address       | GitHub username |
 | ---------------------- | ------------------ | ------------------- | --------------- |
 | Principal Investigator | C. Titus Brown     | <titus@idyll.org>   | ctb             |
-| Admin Contact         | Amanda Charbonneau | <achar@ucdavis.edu> | ACharbonneau    |
 | Project Manager       | Amanda Charbonneau | <achar@ucdavis.edu> | ACharbonneau    |
+| Admin Contact         | Amanda Charbonneau | <achar@ucdavis.edu> | ACharbonneau    |
 
 ## ExRNA
 
@@ -38,8 +38,9 @@ points of contact.
 | Role                         | Name          | Email Address         | GitHub username |
 | ---------------------------- | ------------- | --------------------- | --------------- |
 | Principal Investigator       | Ian Foster    |  <foster@uchicago.edu> | ianfoster       |
-| Admin Contact                |  Ian Foster  |   <foster@uchicago.edu>  |  ianfoster     |
 | Project Manager | Rick Wagner |  rick@globus.org   |  rpwagner |
+| Admin Contact              |  Ian Foster  |   <foster@uchicago.edu>  |  ianfoster     |
+
 
 ## GTEx
 
@@ -65,7 +66,7 @@ points of contact.
 | Principal Investigator | Jonathan Silverstein | j.c.s@pitt.edu |
 | Principal Investigator | Katy Börner | katy@iu.edu | katyb |
 | Project Manager | Robin Scibek | flaus@psc.edu | robinpsc |
-
+| Admin Contact | Matthew Martindale | <masmarti@iu.edu> |
 ## IDG
 
 | Role                   | Name          | Email Address                 | GitHub username |
@@ -78,7 +79,8 @@ points of contact.
 
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
-|  Principal Investigator |  Carl Kesselman | carl@isi.edu | carlkesselman |
+| Principal Investigator |  Carl Kesselman | carl@isi.edu | carlkesselman |
+| Admin Contact | Shawn Sanders | sanders@isi.edu |
 
 ## Kids First
 
@@ -86,11 +88,11 @@ points of contact.
 |---------------------- | ------------- | ----------------------------- | --------------- |
 | Program Officer | Valerie Cotton  | valerie.cotton@nih.gov | cottonva |
 | Principal Investigator | Jack DiGiovanna | jack.digiovanna@sbgenomics.com | jackDiGi |
-| Senior Program Manager | Michele Mattioni | michele.mattioni@sbgenomics.com | MICHELEMATTIONI |
 | Principal Investigator | Allison Heath | heathap@email.chop.edu | allisonheath |
 | Principal Investigator | Adam Resnick | resnick@email.chop.edu |
-| Project Manager | Maia Nguyen | nguyenm7@email.chop.edu | MaiaNguyen12 |
 | Principal Investigator | Vincent Ferretti | vferretti.crsj@gmail.com | vferretti |
+| Project Manager | Michele Mattioni | michele.mattioni@sbgenomics.com | MICHELEMATTIONI |
+| Project Manager | Maia Nguyen | nguyenm7@email.chop.edu | MaiaNguyen12 |
 | Project Manager | Denis Beauregard | dbeauregard@ferlab.bio | denis-crsj |
 
 
@@ -105,16 +107,18 @@ points of contact.
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
 | Principal Investigator | Avi Ma'ayan    | <Avi.Maayan@mssm.edu>  | AviMaayan                |
-| Admin Contact          | Sherry Jenkins | <Sherry.Jenkins@mssm.edu> | sherry-jenkins  |
 | Project Manager        | Sherry Jenkins | <Sherry.Jenkins@mssm.edu> | sherry-jenkins  |
+| Admin Contact          | Sherry Jenkins | <Sherry.Jenkins@mssm.edu> | sherry-jenkins  |
+
 
 ## Ma'ayan Group
 
 | Role                   | Name           | Email Address             | GitHub username |
 | ---------------------- | -------------- | ------------------------- | --------------- |
 | Principal Investigator | Avi Ma'ayan    | <Avi.Maayan@mssm.edu>  |                 |
-| Admin Contact          | Sherry Jenkins | <Sherry.Jenkins@mssm.edu> | sherry-jenkins  |
 | Project Manager        | Sherry Jenkins | <Sherry.Jenkins@mssm.edu> | sherry-jenkins  |
+| Admin Contact          | Sherry Jenkins | <Sherry.Jenkins@mssm.edu> | sherry-jenkins  |
+
 
 ## Metabolomics
 
@@ -172,8 +176,8 @@ points of contact.
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
 | Principal Investigator | Owen White    | <owhite@som.umaryland.edu>    | owhite          |
-| Admin Contact          | Owen White    | <owhite@som.umaryland.edu>    | owhite          |
 | Project Manager        | Anup Mahurkar | <amahurkar@som.umaryland.edu> | amahurkar       |
 | Project Manager        | Robert Carter    | <rlc.dcppc@gmail.com>         | RLC-DCPPC      |
+| Admin Contact          | Danay Rodriguez    | <danay.rodriguez@som.umaryland.edu >    | |
 
 For infrastructure and administrative issues, please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io)
