@@ -8,7 +8,9 @@ points of contact.
 
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
-|   |   |  |  |
+| Principal Investigator  | Nils Gehlenborg | <nils@hms.harvard.edu> |
+| Principal Investigator | Peter Park | <peter_park@hms.harvard.edu> | 
+| Project Manager | Burak Alver | <burak_alver@hms.harvard.edu> |
 
 ## A2CPS
 
@@ -66,8 +68,12 @@ points of contact.
 | Principal Investigator | Shawn Brown | stbrown@andrew.cmu.edu | shots47s |
 | Principal Investigator | Jonathan Silverstein | j.c.s@pitt.edu |
 | Principal Investigator | Katy Börner | katy@iu.edu | katyb |
+| Principal Investigator  | Nils Gehlenborg | nils@hms.harvard.edu |
 | Project Manager | Robin Scibek | flaus@psc.edu | robinpsc |
+| Project Manager | Margaret Vella | margaret_vella@hms.harvard.edu |
+| Project Manager | Elizabeth Record | <recorde@indiana.edu> |
 | Admin Contact | Matthew Martindale | <masmarti@iu.edu> |
+
 ## IDG
 
 | Role                   | Name          | Email Address                 | GitHub username |
@@ -154,6 +160,7 @@ points of contact.
 | Role                   | Name           | Email Address             | GitHub username |
 | ---------------------- | -------------- | ------------------------- | --------------- |
 | Principal Investigator | Susanna Sansone  | <sa.sansone@gmail.com>    | SusannaSansone    |
+| Project Manager | Carol Place | cpbahama@gmail.com |
 | Admin Contact | Philippe Rocca-Serra | philippe.rocca-serra@oerc.ox.ac.uk | proccaserra | 
 
 ## SPARC
