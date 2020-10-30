@@ -55,7 +55,8 @@ points of contact.
 
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
-|   |   |  |  |
+| Principal Investigator | Owen White    | <owhite@som.umaryland.edu>    | owhite          |  
+| Admin Contact  | Michelle Giglio | <mgiglio@som.umaryland.edu> |
 
 ## HuBMAP
 
