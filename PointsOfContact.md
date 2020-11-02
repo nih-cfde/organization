@@ -69,9 +69,11 @@ points of contact.
 | Principal Investigator | Jonathan Silverstein | j.c.s@pitt.edu |
 | Principal Investigator | Katy Börner | katy@iu.edu | katyb |
 | Principal Investigator  | Nils Gehlenborg | nils@hms.harvard.edu |
+| Principal Investigator | Mark Musen | musen@stanford.edu |
 | Project Manager | Robin Scibek | flaus@psc.edu | robinpsc |
 | Project Manager | Margaret Vella | margaret_vella@hms.harvard.edu |
 | Project Manager | Elizabeth Record | <recorde@indiana.edu> |
+| Project Manager | John Graybeal | <jgraybeal@stanford.edu> |
 | Admin Contact | Matthew Martindale | <masmarti@iu.edu> |
 
 ## IDG
@@ -98,9 +100,11 @@ points of contact.
 | Principal Investigator | Allison Heath | heathap@email.chop.edu | allisonheath |
 | Principal Investigator | Adam Resnick | resnick@email.chop.edu |
 | Principal Investigator | Vincent Ferretti | vferretti.crsj@gmail.com | vferretti |
+| Principal Investigator | Deanne Taylor | taylordm@email.chop.edu |
 | Project Manager | Michele Mattioni | michele.mattioni@sbgenomics.com | MICHELEMATTIONI |
 | Project Manager | Maia Nguyen | nguyenm7@email.chop.edu | MaiaNguyen12 |
 | Project Manager | Denis Beauregard | dbeauregard@ferlab.bio | denis-crsj |
+| Project Manager | Tatiana Patton | pattont@email.chop.edu |
 
 
 ## KOMP
@@ -137,6 +141,7 @@ points of contact.
 
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
+| Principal Investigator | Matthew Wheeler | wheelerm@stanford.edu |
 |  Admin Contact | Karen Dalton  | kdalton@stanford.edu | kilodalton |
 
 ## NIH
