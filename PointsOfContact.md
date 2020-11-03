@@ -70,10 +70,6 @@ points of contact.
 | Principal Investigator | Philip Blood | blood@psc.edu | pdblood |
 | Principal Investigator | Shawn Brown | stbrown@andrew.cmu.edu | shots47s |
 | Project Manager | Robin Scibek | flaus@psc.edu | robinpsc |
-| Project Manager | Margaret Vella | margaret_vella@hms.harvard.edu |
-| Project Manager | Elizabeth Record | <recorde@indiana.edu> |
-| Project Manager | John Graybeal | <jgraybeal@stanford.edu> |
-
 
 ## IDG
 
@@ -100,11 +96,6 @@ points of contact.
 | Principal Investigator | Deanne Taylor | taylordm@email.chop.edu |
 | Principal Investigator | Jack DiGiovanna | jack.digiovanna@sbgenomics.com | jackDiGi |
 | Principal Investigator | Vincent Ferretti | vferretti.crsj@gmail.com | vferretti |
-| Project Manager | Michele Mattioni | michele.mattioni@sbgenomics.com | MICHELEMATTIONI |
-| Project Manager | Maia Nguyen | nguyenm7@email.chop.edu | MaiaNguyen12 |
-| Project Manager | Denis Beauregard | dbeauregard@ferlab.bio | denis-crsj |
-| Project Manager | Tatiana Patton | pattont@email.chop.edu |
-
 
 ## KOMP
 
