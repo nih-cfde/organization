@@ -1,6 +1,6 @@
 # Teams and Contact Points
 
-The admin contacts are the main point of contact for each team for
+The admin contacts are the main point of contact for a PI for
 scheduling and resource access. The project managers are the technical
 points of contact.
 
@@ -26,7 +26,6 @@ points of contact.
 | ---------------------- | ------------------ | ------------------- | --------------- |
 | Principal Investigator | C. Titus Brown     | <titus@idyll.org>   | ctb             |
 | Project Manager       | Amanda Charbonneau | <achar@ucdavis.edu> | ACharbonneau    |
-| Admin Contact         | Amanda Charbonneau | <achar@ucdavis.edu> | ACharbonneau    |
 
 ## ExRNA
 
@@ -47,8 +46,8 @@ points of contact.
 | Role                   | Name           | Email Address                 | GitHub username |
 | ---------------------- | -------------  | ----------------------------- | --------------- |
 | Principal Investigator | Francois Aguet | <francois@broadinstitute.org> | francois-a      |
+| Principal Investigator | Kristin Ardlie | <kardlie@broadinstitute.org>  | --              |
 | Principal Investigator | Jared Nedzel   | <jnedzel@broadinstitute.org>  | jnedzel         |
-| Principal Investigator | Kristin Ardlie | <kardlie@broadinstitute.org>  | --
 | Project Manager        | Lan Nguyen     | <ltn@broadinstitute.org>      | ltn-broad       |
 
 ## HMP
@@ -56,19 +55,21 @@ points of contact.
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
 | Principal Investigator | Owen White    | <owhite@som.umaryland.edu>    | owhite          |  
-| Admin Contact  | Michelle Giglio | <mgiglio@som.umaryland.edu> |
+| Admin Contact (Owen)        | Danay Rodriguez    | <danay.rodriguez@som.umaryland.edu >    | |
+| Project Manager        | Anup Mahurkar | <amahurkar@som.umaryland.edu> | amahurkar       |
+| Project Manager | Michelle Giglio | <mgiglio@som.umaryland.edu> |
 
 ## HuBMAP
 
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
-| Principal Investigator | Jonathan Silverstein | j.c.s@pitt.edu |
+| Principal Investigator | Philip Blood | blood@psc.edu | pdblood |
 | Principal Investigator | Katy Börner | katy@iu.edu | katyb |
 | Admin Contact (Katy) | Matthew Martindale | <masmarti@iu.edu> |
-| Principal Investigator | Mark Musen | musen@stanford.edu |
-| Principal Investigator | Nils Gehlenborg | nils@hms.harvard.edu |
-| Principal Investigator | Philip Blood | blood@psc.edu | pdblood |
 | Principal Investigator | Shawn Brown | stbrown@andrew.cmu.edu | shots47s |
+| Principal Investigator | Nils Gehlenborg | nils@hms.harvard.edu |
+| Principal Investigator | Mark Musen | musen@stanford.edu |
+| Principal Investigator | Jonathan Silverstein | j.c.s@pitt.edu |
 | Project Manager | Robin Scibek | flaus@psc.edu | robinpsc |
 
 ## IDG
@@ -91,11 +92,11 @@ points of contact.
 | Role                  | Name          | Email Address                 | GitHub username |
 |---------------------- | ------------- | ----------------------------- | --------------- |
 | Program Officer | Valerie Cotton  | valerie.cotton@nih.gov | cottonva |
-| Principal Investigator | Adam Resnick | resnick@email.chop.edu |
-| Principal Investigator | Allison Heath | heathap@email.chop.edu | allisonheath |
-| Principal Investigator | Deanne Taylor | taylordm@email.chop.edu |
 | Principal Investigator | Jack DiGiovanna | jack.digiovanna@sbgenomics.com | jackDiGi |
 | Principal Investigator | Vincent Ferretti | vferretti.crsj@gmail.com | vferretti |
+| Principal Investigator | Allison Heath | heathap@email.chop.edu | allisonheath |
+| Principal Investigator | Adam Resnick | resnick@email.chop.edu |
+| Principal Investigator | Deanne Taylor | taylordm@email.chop.edu |
 
 ## KOMP
 
@@ -109,7 +110,6 @@ points of contact.
 | ---------------------- | ------------- | ----------------------------- | --------------- |
 | Principal Investigator | Avi Ma'ayan    | <Avi.Maayan@mssm.edu>  | AviMaayan                |
 | Project Manager        | Sherry Jenkins | <Sherry.Jenkins@mssm.edu> | sherry-jenkins  |
-| Admin Contact          | Sherry Jenkins | <Sherry.Jenkins@mssm.edu> | sherry-jenkins  |
 
 
 ## Ma'ayan Group
@@ -117,7 +117,6 @@ points of contact.
 | Role                   | Name           | Email Address             | GitHub username |
 | ---------------------- | -------------- | ------------------------- | --------------- |
 | Principal Investigator | Avi Ma'ayan    | <Avi.Maayan@mssm.edu>  |                 |
-| Admin Contact (Avi)    | Sherry Jenkins | <Sherry.Jenkins@mssm.edu> | sherry-jenkins  |
 | Project Manager        | Sherry Jenkins | <Sherry.Jenkins@mssm.edu> | sherry-jenkins  |
 
 
@@ -133,7 +132,7 @@ points of contact.
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
 | Principal Investigator | Matthew Wheeler | wheelerm@stanford.edu |
-| Admin Contact (Matthew) | Karen Dalton  | kdalton@stanford.edu | kilodalton |
+| Project Manager | Karen Dalton  | kdalton@stanford.edu | kilodalton |
 
 ## NIH
 
@@ -156,7 +155,7 @@ points of contact.
 | Role                   | Name           | Email Address             | GitHub username |
 | ---------------------- | -------------- | ------------------------- | --------------- |
 | Principal Investigator | Susanna Sansone  | <sa.sansone@gmail.com>    | SusannaSansone    |
-| Admin Contact (Susanna) | Philippe Rocca-Serra | philippe.rocca-serra@oerc.ox.ac.uk | proccaserra | 
+| Project Manager | Philippe Rocca-Serra | philippe.rocca-serra@oerc.ox.ac.uk | proccaserra | 
 
 ## SPARC
 
