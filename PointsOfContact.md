@@ -142,7 +142,7 @@ points of contact.
 | Program Officer    | Haluk Resat     | haluk.resat@nih.gov |  hresat    |
 | Program Officer    | Chris Kinsinger | kinsingc@mail.nih.gov | kingsingc |
 
-## RTI
+## RTI Group
 
 | Role                   | Name           | Email Address             | GitHub username |
 | ---------------------- | -------------- | ------------------------- | --------------- |
