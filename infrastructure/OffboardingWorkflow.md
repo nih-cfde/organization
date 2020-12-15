@@ -40,6 +40,11 @@ Offboarding tasks should be completed (or checked up on) from left to right for 
    - List the name and group affiliation of each person you added to Google Groups as in: `Brown: Amanda Charbonneau, Titus Brown`
    - Click the `Comment` button
    - Check the 'Removed from Google Group?' box for each person you removed
+   
+### Master Contact list removal
+
+Deprecate the user from our [master list](https://docs.google.com/spreadsheets/d/1niqenLvLLN38Tfz2IXOaKum4Bo0N2m0HxM33X3E2pf8/edit?usp=sharing
+). 
 
 ### Groups.io space removal
 
@@ -51,7 +56,8 @@ Offboarding tasks should be completed (or checked up on) from left to right for 
   - In the drop down menu, choose 'Remove' 
   - In the dialogue box, choose 'Yes'
   - Check the 'Removed from Groups.io?' box on the [CFDE Offboarding Responses form](https://docs.google.com/spreadsheets/d/1bY-P5ZrIOPDrDpzlXNrDnV96XqOnV_X9z9ur7t9Qkhk/edit#gid=1873329009) for each person you removed.
-   
+  - Repeat steps for Cross-Pollination group: https://crosspollinationevents.groups.io/g/main/members   
+  
 ### GitHub removal
 
   If 'Removed from Github?' is unchecked:
