@@ -95,7 +95,7 @@ If 'Mailing Lists Assigned??' is unchecked:
 ---
 To complete your access, you'll need to accept the invitation to join our GitHub repository `nih-cfde`.
 
-If you do not receive your invitation or have are having trouble with our resources, visit our Onboarding Help
+If you do not receive your invitation or are having trouble with our resources, visit our Onboarding Help
 or [email the HelpDesk](CFDE+coordination+int+1481+4810093048235559374@groups.io).
 
 For help using all of our communication resources visit our [Communication Management Help page](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md).
