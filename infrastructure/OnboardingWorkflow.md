@@ -68,7 +68,7 @@ You have been added to Everyone. You will have:
 
 You can access these groups in your google drive under Team Drives 
 
-If you have any problems, please email our help desk mailto:CFDE+coordination+int+1481+4810093048235559374@groups.io
+If you have any problems, please email our help desk mailto:support@cfde.atlassian.net
 
 - CFDE Onboarding Team
 ```
@@ -136,7 +136,7 @@ This mailing group gives you access to information about upcoming Common Fund Da
 
 A [Cross-Pollination Event Calendar](https://groups.io/g/CrossPollinationEvents/calendar) is available for you to view schedules and details of meetings, or you can visit the [Google Sheet](https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit?usp=sharing) with the details of the entire series on one page.
 
-The CFDE Cross-Pollination Events and this group are open to anyone interested in joining, so if you have colleagues you think would be interested, please share our information. New members can join by going to this link and clicking on the Join Group button: https://groups.io/g/CrossPollinationEvents
+The CFDE Cross-Pollination Events and this group are open to anyone interested in joining, so if you have colleagues you think would be interested, please share our information. New members can join by going to this link and clicking on the Join Group button: https://cfdepublic.groups.io/g/CrossPollinationEvents
 
 Please remember that all interactions in the CFDE Google Drive spaces, Github repositories, Slack, groups.io and any other CFDE managed spaces are bound by the [CFDE Code of Conduct](https://cfde-welcome-to-cfde.readthedocs-hosted.com/en/master/General_Onboarding/CODEOFCONDUCT/). By participating in any of these community spaces you are agreeing to abide by these rules.
 
