@@ -128,7 +128,8 @@ Currently all members on-boarding to the CFDE are also being added to the Cross-
 
 - Copy their email address from "Email Address"
 - Copy their name from column K
-- Go to [direct add for the cross-pollination mailing list](https://groups.io/g/CrossPollinationEvents/directadd)
+- Go to [direct add for the cross-pollination mailing list](https://cfdepublic.groups.io/g/CrossPollinationEvents/directadd)
+- Check the 'Cross Pollination Events' box
 - Paste the following text in the 'Customize Message' box (note, you may need to copy the links and then use the 'link' button to re-add them for the Code of Conduct and License sections):
 
 ---
