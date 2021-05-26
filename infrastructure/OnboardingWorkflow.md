@@ -128,8 +128,7 @@ Currently all members on-boarding to the CFDE are also being added to the Cross-
 
 - Copy their email address from "Email Address"
 - Copy their name from column K
-- Go to [direct add for the cross-pollination mailing list](https://cfdepublic.groups.io/g/CrossPollinationEvents/directadd)
-- Check the 'Cross Pollination Events' box
+- Go to [direct add for the cross-pollination mailing list](https://cfdepublic.groups.io/g/CFDEPublicMain/directadd)
 - Paste the following text in the 'Customize Message' box (note, you may need to copy the links and then use the 'link' button to re-add them for the Code of Conduct and License sections):
 
 ---
@@ -146,7 +145,7 @@ All documents in the CFDE Google Drives and GitHub repositories are assumed to b
 CFDE Coordination Team
 
 ---
-
+ - Check the 'Cross Pollination Events' box
  - Add their name and address to the 'Emails' box in this format: `Name <email@example.com>`
  - Click `+ Add Members`
  - Make sure you have checked the 'Mailing Lists Assigned??' box for each person you added if you haven't already for the general group
