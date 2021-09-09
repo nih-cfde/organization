@@ -8,16 +8,15 @@ points of contact.
 
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
-| Principal Investigator  | Nils Gehlenborg | <nils@hms.harvard.edu> |
 | Principal Investigator | Peter Park | <peter_park@hms.harvard.edu> | 
-| Project Manager | Burak Alver | <burak_alver@hms.harvard.edu> |
+| Project Manager |  |  |
+
 
 ## A2CPS
 
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
 | Principal Investigator | Ari B Kahn    | akahn@tacc.utexas.edu	       | resglowing      |
-|  |  |
 
 
 ## Brown Group
@@ -39,7 +38,12 @@ points of contact.
 | Role                         | Name          | Email Address         | GitHub username |
 | ---------------------------- | ------------- | --------------------- | --------------- |
 | Principal Investigator       | Ian Foster    |  <foster@uchicago.edu> | ianfoster       |
-| Project Manager | Rick Wagner |  rpwagner@ucsd.edu   |  rpwagner |
+
+## Glygen
+
+| Role                         | Name          | Email Address         | GitHub username |
+| ---------------------------- | ------------- | --------------------- | --------------- |
+| Principal Investigator       | Raja Mazumder | mazumder@gwu.edu      |                 |
 
 ## GTEx
 
@@ -56,8 +60,9 @@ points of contact.
 | ---------------------- | ------------- | ----------------------------- | --------------- |
 | Principal Investigator | Owen White    | <owhite@som.umaryland.edu>    | owhite          |  
 | Admin Contact (Owen)        | Danay Rodriguez    | <danay.rodriguez@som.umaryland.edu >    | |
-| Project Manager        | Anup Mahurkar | <amahurkar@som.umaryland.edu> | amahurkar       |
 | Project Manager | Michelle Giglio | <mgiglio@som.umaryland.edu> |
+| Project Manager        | Anup Mahurkar | <amahurkar@som.umaryland.edu> | amahurkar       |
+
 
 ## HuBMAP
 
@@ -70,7 +75,7 @@ points of contact.
 | Principal Investigator | Nils Gehlenborg | nils@hms.harvard.edu |
 | Principal Investigator | Mark Musen | musen@stanford.edu |
 | Principal Investigator | Jonathan Silverstein | j.c.s@pitt.edu |
-| Project Manager | Robin Scibek | flaus@psc.edu | robinpsc |
+| Project Manager | Kevin Hanshaw | kjhanshaw@psc.edu |  |
 
 ## IDG
 
@@ -92,10 +97,10 @@ points of contact.
 | Role                  | Name          | Email Address                 | GitHub username |
 |---------------------- | ------------- | ----------------------------- | --------------- |
 | Program Officer | Valerie Cotton  | valerie.cotton@nih.gov | cottonva |
+| Principal Investigator | Adam Resnick | resnick@email.chop.edu |
 | Principal Investigator | Jack DiGiovanna | jack.digiovanna@sbgenomics.com | jackDiGi |
 | Principal Investigator | Vincent Ferretti | vferretti.crsj@gmail.com | vferretti |
 | Principal Investigator | Allison Heath | heathap@email.chop.edu | allisonheath |
-| Principal Investigator | Adam Resnick | resnick@email.chop.edu |
 | Principal Investigator | Deanne Taylor | taylordm@email.chop.edu |
 
 ## KOMP
@@ -120,12 +125,12 @@ points of contact.
 | Project Manager        | Sherry Jenkins | <Sherry.Jenkins@mssm.edu> | sherry-jenkins  |
 
 
-
 ## Metabolomics
 
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
 | Principal Investigator | Shankar Subramaniam | shsubramaniam@ucsd.edu  |  |
+
 
 ## MoTrPAC
 
@@ -134,13 +139,16 @@ points of contact.
 | Principal Investigator | Matthew Wheeler | wheelerm@stanford.edu |
 | Project Manager | Karen Dalton  | kdalton@stanford.edu | kilodalton |
 
+
 ## NIH
 
 | Role                   | Name            | Email Address             | GitHub username |
 | ---------------------- | --------------  | ------------------------- | --------------- |
-| Program Officer        | Lora Kutkat     | kutkat.lora@gmail.com | kutkatl |
+| Program Officer        | George    |  |  |
 | Program Officer    | Haluk Resat     | haluk.resat@nih.gov |  hresat    |
 | Program Officer    | Chris Kinsinger | kinsingc@mail.nih.gov | kingsingc |
+| Program Officer | Kano
+
 
 ## RTI Group
 
@@ -157,6 +165,7 @@ points of contact.
 | Principal Investigator | Susanna Sansone  | <sa.sansone@gmail.com>    | SusannaSansone    |
 | Project Manager | Philippe Rocca-Serra | philippe.rocca-serra@oerc.ox.ac.uk | proccaserra | 
 
+
 ## SPARC
 
 | Role                   | Name          | Email Address                 | GitHub username |
@@ -164,14 +173,12 @@ points of contact.
 | Principal Investigator | Bernard de Bono | <bernard.de.bono@auckland.ac.nz> | bdebono |
 | Principal Investigator | Jeffrey Grethe | <jgrethe@ucsd.edu> | jgrethe |
 | Principal Investigator | Maryann E Martone | <mmartone@ucsd.edu> | memartone |
-| Principal Investigator | Peter John Hunter | <p.hunter@auckland.ac.nz> | --  |
 | Project Manager        | Jyl K Boline    | <jylboline@informedminds.info> | jylb |
 
-## UDN
 
-| Role                   | Name          | Email Address                 | GitHub username |
-| ---------------------- | ------------- | ----------------------------- | --------------- |
-|  Principal Investigator | Isaac Kohane  | isaac_kohane@hms.harvard.edu |  |
+## Wagner Group
+| Project Manager | Rick Wagner |  rpwagner@ucsd.edu   |  rpwagner |
+
 
 ## White Group
 
