@@ -144,10 +144,10 @@ points of contact.
 
 | Role                   | Name            | Email Address             | GitHub username |
 | ---------------------- | --------------  | ------------------------- | --------------- |
-| Program Officer        | George    |  |  |
+| Program Officer        | George Papnicolau  | gjp@nih.gov |  |
 | Program Officer    | Haluk Resat     | haluk.resat@nih.gov |  hresat    |
 | Program Officer    | Chris Kinsinger | kinsingc@mail.nih.gov | kingsingc |
-| Program Officer | Kano
+| Program Officer | Christy Kano | christy.kano@nih.gov |
 
 
 ## RTI Group
