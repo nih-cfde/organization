@@ -177,6 +177,8 @@ points of contact.
 
 
 ## Wagner Group
+| Role                   | Name          | Email Address                 | GitHub username |
+| ---------------------- | ------------- | ----------------------------- | --------------- |
 | Project Manager | Rick Wagner |  rpwagner@ucsd.edu   |  rpwagner |
 
 
