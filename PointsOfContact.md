@@ -9,7 +9,7 @@ points of contact.
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
 | Principal Investigator | Peter Park | <peter_park@hms.harvard.edu> | 
-| Project Manager |  |  |
+| Project Manager | Andrew Schroeder | Andrew_Schroeder@hms.harvard.edu |
 
 
 ## A2CPS
