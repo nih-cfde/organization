@@ -59,7 +59,7 @@ points of contact.
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
 | Principal Investigator | Owen White    | <owhite@som.umaryland.edu>    | owhite          |  
-| Admin Contact (Owen)        | Danay Rodriguez    | <danay.rodriguez@som.umaryland.edu >    | |
+| Admin Contact (Owen)        | Danay Rodriguez    | <danay.rodriguez@som.umaryland.edu>   | |
 | Project Manager | Michelle Giglio | <mgiglio@som.umaryland.edu> |
 | Project Manager        | Anup Mahurkar | <amahurkar@som.umaryland.edu> | amahurkar       |
 
@@ -107,7 +107,7 @@ points of contact.
 
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
-| Program Officer        | Colin Fletcher | colin.fletcher@nih.gov | Colin-Fletcher  |  
+| Program Officer        | Colin Fletcher | <colin.fletcher@nih.gov> | Colin-Fletcher  |  
 
 ## LINCS
 
@@ -129,25 +129,25 @@ points of contact.
 
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
-| Principal Investigator | Shankar Subramaniam | shsubramaniam@ucsd.edu  |  |
+| Principal Investigator | Shankar Subramaniam | <shsubramaniam@ucsd.edu>  |  |
 
 
 ## MoTrPAC
 
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
-| Principal Investigator | Matthew Wheeler | wheelerm@stanford.edu |
-| Project Manager | Karen Dalton  | kdalton@stanford.edu | kilodalton |
+| Principal Investigator | Matthew Wheeler | <wheelerm@stanford.edu> |
+| Project Manager | Karen Dalton  | <kdalton@stanford.edu> | kilodalton |
 
 
 ## NIH
 
 | Role                   | Name            | Email Address             | GitHub username |
 | ---------------------- | --------------  | ------------------------- | --------------- |
-| Program Officer        | George Papnicolau  | gjp@nih.gov |  |
-| Program Officer    | Haluk Resat     | haluk.resat@nih.gov |  hresat    |
-| Program Officer    | Chris Kinsinger | kinsingc@mail.nih.gov | kingsingc |
-| Program Officer | Christy Kano | christy.kano@nih.gov |
+| Program Officer        | George Papnicolau  | <gjp@nih.gov> |  |
+| Program Officer    | Haluk Resat     | <haluk.resat@nih.gov> |  hresat    |
+| Program Officer    | Chris Kinsinger | <kinsingc@mail.nih.gov> | kingsingc |
+| Program Officer | Christy Kano | <christy.kano@nih.gov> |
 
 
 ## RTI Group
@@ -163,7 +163,7 @@ points of contact.
 | Role                   | Name           | Email Address             | GitHub username |
 | ---------------------- | -------------- | ------------------------- | --------------- |
 | Principal Investigator | Susanna Sansone  | <sa.sansone@gmail.com>    | SusannaSansone    |
-| Project Manager | Philippe Rocca-Serra | philippe.rocca-serra@oerc.ox.ac.uk | proccaserra | 
+| Project Manager | Philippe Rocca-Serra | <philippe.rocca-serra@oerc.ox.ac.uk> | proccaserra | 
 
 
 ## SPARC
@@ -187,7 +187,7 @@ points of contact.
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
 | Principal Investigator | Owen White    | <owhite@som.umaryland.edu>    | owhite          |
-| Admin Contact (Owen)        | Danay Rodriguez    | <danay.rodriguez@som.umaryland.edu >    | |
+| Admin Contact (Owen)        | Danay Rodriguez    | <danay.rodriguez@som.umaryland.edu>   | |
 | Project Manager        | Anup Mahurkar | <amahurkar@som.umaryland.edu> | amahurkar       |
 | Project Manager        | Robert Carter    | <rlc.dcppc@gmail.com>         | RLC-DCPPC      |
 
