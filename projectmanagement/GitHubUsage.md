@@ -51,87 +51,87 @@ Issues can be used to keep track of bugs, enhancements, or other requests. A Git
 
 1. Navigate to the GitHub repository that has the issues you are interested in viewing.
 
-<img src="images/repo-main-page.png" alt="Repo Main Page" width="400"/>
+<img src="../images/repo-main-page.png" alt="Repo Main Page" width="400"/>
 
 2. Sign in to GitHub using the link in the top right.
 
-<img src="images/repo-main-page-sign-in.png" alt="Sign in arrow" width="400"/>
+<img src="../images/repo-main-page-sign-in.png" alt="Sign in arrow" width="400"/>
 
 3. Select the Issues tab at the top of the repository page.
 
-<img src="images/repo-issues-tab.png" alt="Repo Issues Tab" width="400"/>
+<img src="../images/repo-issues-tab.png" alt="Repo Issues Tab" width="400"/>
 
 ### Opening New Issues
 
 1. See [Accessing Repository Issues](GitHubUsage.md#accessing-repository-issues) for instructions to access issues in a GitHub repository.
 2. Click the green "New Issue" button on the right side of the Issues page.
 
-<img src="images/repo-new-issue-button.png" alt="New Issue Button" width="400"/>
+<img src="../images/repo-new-issue-button.png" alt="New Issue Button" width="400"/>
 
 3. Enter the Title and Comment for the new issue.
 
-<img src="images/repo-new-issue.png" alt="New Issue" width="400"/>
+<img src="../images/repo-new-issue.png" alt="New Issue" width="400"/>
 
 4. Click the green "Submit new issue" button.
 
-<img src="images/repo-new-issue-submit.png" alt="Submit New Issue" width="400"/>
+<img src="../images/repo-new-issue-submit.png" alt="Submit New Issue" width="400"/>
 
 ### Commenting on Issues
 
 1. See [Accessing Repository Issues](GitHubUsage.md#accessing-repository-issues) for instructions to access issues in a GitHub repository.
 2. Select the issue you want to comment on.
 
-<img src="images/repo-issue-list.png" alt="Repo Issues List" width="400"/>
+<img src="../images/repo-issue-list.png" alt="Repo Issues List" width="400"/>
 
 3. Select the text box and type your comment.
 
-<img src="images/repo-issue-new-comment.png" alt="New comment" width="400"/>
+<img src="../images/repo-issue-new-comment.png" alt="New comment" width="400"/>
 
 4. Click the green "Comment" button at the bottom of the text box.
 
-<img src="images/repo-issue-comment-button.png" alt="New comment button" width="400"/>
+<img src="../images/repo-issue-comment-button.png" alt="New comment button" width="400"/>
 
 5. You should now see your new comment in the issue with the comment box at the bottom.
 
-<img src="images/repo-issue-with-new-comment.png" alt="Issue with new comment" width="400"/>
+<img src="../images/repo-issue-with-new-comment.png" alt="Issue with new comment" width="400"/>
 
 ### Referencing Issues
 
 1. See [Accessing Repository Issues](GitHubUsage.md#accessing-repository-issues) for instructions to access issues in a GitHub repository or see [Accessing Repository Pull Requests](GitHubUsage.md#accessing-repository-pull-requests) for instructions to access Pull Requests.
 2. Select the issue or pull request you want to comment on.
 
-<img src="images/repo-issue-list.png" alt="Repo Issues List" width="400"/>
+<img src="../images/repo-issue-list.png" alt="Repo Issues List" width="400"/>
 
 3. Use the # symbol in the comment box to view a drop-down of open issues in the repository. You can also type the issue number, if known.
 
-<img src="images/repo-issue-ref_pop_up.png" alt="Reference Issue pop-up" width="400"/>
+<img src="../images/repo-issue-ref_pop_up.png" alt="Reference Issue pop-up" width="400"/>
 
-<img src="images/repo-issue-ref_comment.png" alt="Reference Issue Comment" width="400"/>
+<img src="../images/repo-issue-ref_comment.png" alt="Reference Issue Comment" width="400"/>
 
 4. Click the green "Comment" button at the bottom of the text box.
 
-<img src="images/repo-issue-comment-button.png" alt="New comment button" width="400"/>
+<img src="../images/repo-issue-comment-button.png" alt="New comment button" width="400"/>
 
 5. You should now see your new comment in the issue with the comment box at the bottom.
 
-<img src="images/repo-issue-with-new-comment.png" alt="Issue with new comment" width="400"/>
+<img src="../images/repo-issue-with-new-comment.png" alt="Issue with new comment" width="400"/>
 
 ### Closing Issues
 
 1. See [Accessing Repository Issues](GitHubUsage.md#accessing-repository-issues) for instructions to access issues in a GitHub repository.
 2. Select the issue you want to close.
 
-<img src="images/repo-issue-list.png" alt="Repo Issues List" width="400"/>
+<img src="../images/repo-issue-list.png" alt="Repo Issues List" width="400"/>
 
 3. Issues can be closed using either the "Close and comment" or "Close issue" buttons.
 
   a. Type your comment and click the "Close and Comment" button.
 
-<img src="images/repo-issue-close-and-commit.png" alt="Close and comment issue" width="400"/>
+<img src="../images/repo-issue-close-and-commit.png" alt="Close and comment issue" width="400"/>
 
   b. Click the "Close issue" button.
 
-<img src="images/repo-issue-close.png" alt="Close issue" width="400"/>
+<img src="../images/repo-issue-close.png" alt="Close issue" width="400"/>
 
 ## Forking a Repository
 
@@ -140,19 +140,19 @@ A fork is a copy of a repository. Forking a repository allows you to freely expe
 1. Navigate to the GitHub repository and sign in to GitHub.
 2. Click the "Fork" button on the top right of the repository page.
 
-<img src="images/repo-fork-button.png" alt="Fork repo button" width="400"/>
+<img src="../images/repo-fork-button.png" alt="Fork repo button" width="400"/>
 
 3. Select the location to fork the repository into.
 
-<img src="images/repo-fork-location.png" alt="Fork repo location" width="400"/>
+<img src="../images/repo-fork-location.png" alt="Fork repo location" width="400"/>
 
 4. Wait while GitHub forks the repository.
 
-<img src="images/repo-fork-in-progress.png" alt="Fork repo in progress" width="400"/>
+<img src="../images/repo-fork-in-progress.png" alt="Fork repo in progress" width="400"/>
 
 5. The page will refresh to the new forked repository.
 
-<img src="images/repo-new-forked.png" alt="Fork repo finished" width="400"/>
+<img src="../images/repo-new-forked.png" alt="Fork repo finished" width="400"/>
 
 ## Creating a New Repository Branch
 
@@ -161,16 +161,16 @@ Use a branch to isolate development work without affecting other branches in the
 1. Navigate to the GitHub repository and sign in to GitHub.
 2. Select the list of branches using the "Branch: <name>" button.
 
-<img src="images/repo-select-branch-list.png" alt="Select Branches" width="400"/>
+<img src="../images/repo-select-branch-list.png" alt="Select Branches" width="400"/>
 
 3. Type the name of the new branch in the text box and click the "Create branch: < new branch name >" highlighted block.
 
-<img src="images/repo-name-new-branch.png" alt="Create new branch" width="400"/>
+<img src="../images/repo-name-new-branch.png" alt="Create new branch" width="400"/>
 
 
 4. The page will refresh and the branch you just created displays. You can see the branch name in the "Branch: < name >" button.
 
-<img src="images/repo-new-branch.png" alt="View new branch" width="400"/>
+<img src="../images/repo-new-branch.png" alt="View new branch" width="400"/>
 
 ## Pull Requests
 
@@ -182,26 +182,26 @@ Pull Requests are used to merge forked repositories or repository branches.
 
 1. Navigate to the GitHub repository that has the Pull Requests you are interested in viewing.
 
-<img src="images/repo-main-page.png" alt="Repo Main Page" width="400"/>
+<img src="../images/repo-main-page.png" alt="Repo Main Page" width="400"/>
 
 2. Sign in to GitHub using the link in the top right.
 
-<img src="images/repo-main-page-sign-in.png" alt="Sign in arrow" width="400"/>
+<img src="../images/repo-main-page-sign-in.png" alt="Sign in arrow" width="400"/>
 
 3. Select the "Pull Requests" tab at the top of the repository page.
 
-<img src="images/repo-pull-request-tab.png" alt="Pull Requests Tab" width="400"/>
+<img src="../images/repo-pull-request-tab.png" alt="Pull Requests Tab" width="400"/>
 
 ### Opening New Pull Requests
 
 1. See [Accessing Repository Pull Requests](GitHubUsage.md#accessing-repository-pull-requests) for instructions to access Pull Requests in a GitHub repository.
 2. Click the green "New pull request" button on right side of page.
 
-<img src="images/pull-request-new-button.png" alt="New pull request button" width="400"/>
+<img src="../images/pull-request-new-button.png" alt="New pull request button" width="400"/>
 
 3. Select the branches to compare for the Pull Request. The first branch is the original branch to which you are going to add your changes. The second branch is the branch with your new changes.
 
-<img src="images/pull-request-select-branches.png" alt="pull request branches" width="400"/>
+<img src="../images/pull-request-select-branches.png" alt="pull request branches" width="400"/>
 
 4. Enter the Title and Comment for the Pull Request you are creating.
 
@@ -209,7 +209,7 @@ Pull Requests are used to merge forked repositories or repository branches.
 
 5. Click the green "Create pull request" button on the bottom of the comment box.
 
-<img src="images/pull-request-create-with-comment.png" alt="pull request create" width="400"/>
+<img src="../images/pull-request-create-with-comment.png" alt="pull request create" width="400"/>
 
 6. The page will refresh with your newly created Pull Request.
 
@@ -218,19 +218,19 @@ Pull Requests are used to merge forked repositories or repository branches.
 1. See [Accessing Repository Pull Requests](GitHubUsage.md#accessing-repository-pull-requests) for instructions to access Pull Requests in a GitHub repository.
 2. Select the Pull Request on which you want to comment.
 
-<img src="images/pull-request-list.png" alt="Pull request list" width="400"/>
+<img src="../images/pull-request-list.png" alt="Pull request list" width="400"/>
 
 3. Select the text box and type your comment.
 
-<img src="images/pull-request-add-comment.png" alt="Pull request new comment" width="400"/>
+<img src="../images/pull-request-add-comment.png" alt="Pull request new comment" width="400"/>
 
 4. Click the green "Comment" button at the bottom of the text box.
 
-<img src="images/pull-request-add-comment-button.png" alt="Pull request new comment button" width="400"/>
+<img src="../images/pull-request-add-comment-button.png" alt="Pull request new comment button" width="400"/>
 
 5. You should now see your new comment in the Pull Request with the comment box at the bottom.
 
-<img src="images/pull-request-with-new-comment.png" alt="Pull request with new comment" width="400"/>
+<img src="../images/pull-request-with-new-comment.png" alt="Pull request with new comment" width="400"/>
 
 ### Referencing Pull Requests
 
@@ -238,26 +238,26 @@ Pull Requests are used to merge forked repositories or repository branches.
 2. Select the issue or Pull Request on which you want to comment.
 
 <p float="left">
-   <img src="images/pull-request-list.png" alt="Pull request list" width="300"/>
-   <img src="images/repo-issue-list.png" alt="Repo Issues List" width="300"/>
+   <img src="../images/pull-request-list.png" alt="Pull request list" width="300"/>
+   <img src="../images/repo-issue-list.png" alt="Repo Issues List" width="300"/>
 </p>
 
 3. Use the # symbol in the comment box to view a drop-down of open issues and open pull requests in the repository. You can also type the issue or pull request number, if known.
 
 <p float="left">
-   <img src="images/pull-request-ref-in-pr.png" alt="Reference in PR" width="300" />
-   <img src="images/pull-request-ref-in-issue.png" alt="Reference PR in issue" width="300" />
+   <img src="../images/pull-request-ref-in-pr.png" alt="Reference in PR" width="300" />
+   <img src="../images/pull-request-ref-in-issue.png" alt="Reference PR in issue" width="300" />
 </p>
 
 4. Click the green "Comment" button at the bottom of the text box.
 
-<img src="images/pull-request-ref-in-pr-comment.png" alt="New comment button" width="400"/>
+<img src="../images/pull-request-ref-in-pr-comment.png" alt="New comment button" width="400"/>
 
 5. You should now see your new comment in the issue or pull request with the comment box at the bottom.
 
 <p float="left">
-   <img src="images/pull-request-ref-in-pr-hover.png" alt="Reference PR in PR" width="300">
-   <img src="images/pull-request-ref-issue-comment.png" alt="Reference PR Issue" width="300"/>
+   <img src="../images/pull-request-ref-in-pr-hover.png" alt="Reference PR in PR" width="300">
+   <img src="../images/pull-request-ref-issue-comment.png" alt="Reference PR Issue" width="300"/>
 </p>
 
 ### Reviewing Pull Requests
@@ -266,44 +266,44 @@ Pull Requests are used to merge forked repositories or repository branches.
 2. GitHub users added to review a Pull Request will be listed on the right side of the page and in the center of the page as you scroll down.
 
 <p float="left">
-   <img src="images/pull-request-reviewers.png" alt="PR Reviewrs list" width="300">
-   <img src="images/pull-request-review-in-line.png" alt="PR reviewer in-line" width="300"/>
+   <img src="../images/pull-request-reviewers.png" alt="PR Reviewrs list" width="300">
+   <img src="../images/pull-request-review-in-line.png" alt="PR reviewer in-line" width="300"/>
 </p>
 
 3. If you are listed as a reviewer, click the "Add your review" button at the top of the Pull Request page.
 
-<img src="images/pull-request-add-your-review-button.png" alt="PR add review button" width="400">
+<img src="../images/pull-request-add-your-review-button.png" alt="PR add review button" width="400">
 
 4. Enter comments in the text box, select the correct radio button, and click the "Submit review" button at the bottom of the box.
 
-<img src="images/pull-request-review-text.png" alt="PR review text box" width="400">
+<img src="../images/pull-request-review-text.png" alt="PR review text box" width="400">
 
 5. Your review will display on the Pull Request page.
 
-<img src="images/pull-request-with-review.png" alt="PR with review" width="400">
+<img src="../images/pull-request-with-review.png" alt="PR with review" width="400">
 
 ### Merging Pull Requests
 
 1. See [Accessing Repository Pull Requests](GitHubUsage.md#accessing-repository-pull-requests) for instructions to access Pull Requests in a GitHub repository.
 2. Click the "Merge pull request" button on the Pull Request page.
 
-<img src="images/pull-request-merge-button.png" alt="PR merge button" width="400"/>
+<img src="../images/pull-request-merge-button.png" alt="PR merge button" width="400"/>
 
 3. Enter a comment and/or title.
 
-<img src="images/pull-request-confirm-merge.png" alt="PR confirm merge" width="400"/>
+<img src="../images/pull-request-confirm-merge.png" alt="PR confirm merge" width="400"/>
 
 4. Click the "Confirm merge" button.
 
-<img src="images/pull-request-confirm-merge-button.png" alt="PR confirm merge button" width="400"/>
+<img src="../images/pull-request-confirm-merge-button.png" alt="PR confirm merge button" width="400"/>
 
 5. Delete the branch the changes were on with the "Delete branch" button. This keeps the list of branches in your repository tidy.
 
-<img src="images/pull-request-delete-branch-button.png" alt="PR delete branch button" width="400"/>
+<img src="../images/pull-request-delete-branch-button.png" alt="PR delete branch button" width="400"/>
 
 6. A confirmation message will display in the Conversation tab when the branch is successfully deleted.
 
-<img src="images/pull-request-deleted-branch.png" alt="PR deleted branch" width="400"/>
+<img src="../images/pull-request-deleted-branch.png" alt="PR deleted branch" width="400"/>
 
 
 ### Closing Pull Requests
@@ -315,7 +315,7 @@ When closing a Pull Request without merging, both branches will still exist in t
 1. See [Accessing Repository Pull Requests](GitHubUsage.md#accessing-repository-pull-requests) for instructions to access Pull Requests in a GitHub repository.
 2. Click the "Close pull request" button under the text box at the bottom of the Pull Request page.
 
-<img src="images/pull-request-close.png" alt="Closed pullr request" width="400"/>
+<img src="../images/pull-request-close.png" alt="Closed pullr request" width="400"/>
 
 ## Searching
 
@@ -323,19 +323,19 @@ Many different powerful ways of searching GitHub exist. See the [About Searching
 
 Use the GitHub search box to:
 
-<img src="images/search-box.png" alt="GitHub search box" width="400"/>
+<img src="../images/search-box.png" alt="GitHub search box" width="400"/>
 
 * Search within a repository:
 
-<img src="images/search-repo.png" alt="Search within a repo" width="400"/>
+<img src="../images/search-repo.png" alt="Search within a repo" width="400"/>
 
 * Search within an organization:
 
-<img src="images/search-in-org.png" alt="Search within an organization" width="400"/>
+<img src="../images/search-in-org.png" alt="Search within an organization" width="400"/>
 
 * Search results:
 
-<img src="images/search-results.png" alt="Search results" width="400"/>
+<img src="../images/search-results.png" alt="Search results" width="400"/>
 
 ## Labels
 
@@ -346,12 +346,12 @@ Labels on GitHub help you organize and prioritize your work. You can apply label
 1. See [Accessing Repository Issues](GitHubUsage.md#accessing-repository-issues) for instructions to access issues in a GitHub repository or see [Accessing Repository Pull Requests](GitHubUsage.md#accessing-repository-pull-requests) for instructions to access Pull Requests.
 2. Select the gear icon next to the "Labels" title on the right side of the screen.
 
-<img src="images/labels-available.png" alt="Available labels" width="400"/>
+<img src="../images/labels-available.png" alt="Available labels" width="400"/>
 
 3. Click on the labels to apply them to the Issue or Pull Request.
 
-<img src="images/labels-selected.png" alt="Selected labels" width="400"/>
+<img src="../images/labels-selected.png" alt="Selected labels" width="400"/>
 
 4. Click somewhere else on the page for the labels to be applied.
 
-<img src="images/labels-applied.png" alt="Applied labels" width="400"/>
+<img src="../images/labels-applied.png" alt="Applied labels" width="400"/>
