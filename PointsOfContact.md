@@ -83,7 +83,7 @@ points of contact.
 | ---------------------- | ------------- | ----------------------------- | --------------- |
 | Principal Investigator | Avi Maayan | avi.maayan@mssm.edu |
 | Principal Investigator | Tudor Oprea | toprea@salud.unm.edu |
-| Project Manager        | Jeremy Yang | jeremyjyang@gmail.com | jeremyjyang |
+| Project Manager        | Jessica Binder | jmaine85@salud.unm.edu |  |
 
 ## Kesselman Group
 
