@@ -137,7 +137,6 @@ points of contact.
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
 | Principal Investigator | Matthew Wheeler | <wheelerm@stanford.edu> |
-| Project Manager | Karen Dalton  | <kdalton@stanford.edu> | kilodalton |
 
 
 ## NIH
