@@ -56,7 +56,7 @@ Deprecate the user from our [master list](https://docs.google.com/spreadsheets/d
   - In the drop down menu, choose 'Remove' 
   - In the dialogue box, choose 'Yes'
   - Check the 'Removed from Groups.io?' box on the [CFDE Offboarding Responses form](https://docs.google.com/spreadsheets/d/1bY-P5ZrIOPDrDpzlXNrDnV96XqOnV_X9z9ur7t9Qkhk/edit#gid=1873329009) for each person you removed.
-  - Repeat steps for Cross-Pollination group: https://crosspollinationevents.groups.io/g/main/members   
+  - Repeat steps for Cross-Pollination group: https://cfdepublic.groups.io/g/CrossPollinationEvents  
   
 ### GitHub removal
 
