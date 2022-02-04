@@ -21,7 +21,7 @@
 - ReadTheDocs: https://readthedocs.com/dashboard/ -- document hosting for CFDE websites
 - Slack: https://cfdeworkspace.slack.com/ssb/redirect -- direct communication and instant notifications
 - Wordpress https://www.nih-cfde.org/wp-admin/index.php -- website hosting/maintenance	
-- ZenHub: https://app.zenhub.com/workspaces/training-engagement-outreach-5f20779436915d00239d1112/board?repos=210915973 -- GitHub Project Management	
+- ZenHub: https://app.zenhub.com/login -- GitHub project management	
 - Zoom: https://zoom.us/ -- virtual meetings
 
 ## Auxiliary Websites (free)
