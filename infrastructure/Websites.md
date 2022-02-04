@@ -1,6 +1,6 @@
 # Infrastructure
 
-## CFDE websites 
+## CFDE Websites 
 
 - Website: https://nih-cfde.org/
 - Search Portal (public): https://app.nih-cfde.org/
@@ -10,7 +10,7 @@
 - Training site: https://training.nih-cfde.org/ 
 - Use case library: https://use-cases.nih-cfde.org/ 
 
-## Extral websites
+## Operational Websites (paid)
 
 - GitHub https://github.com/nih-cfde
 - Google Drive https://drive.google.com/drive/u/1/folders/0ALAyQumxL5IgUk9PVA
@@ -21,13 +21,15 @@
 - Otter.ai (transcripts): https://otter.ai/
 - ReadTheDocs (website stuff)
 - ZenHub (GitHub Project Management): https://app.zenhub.com/workspaces/training-engagement-outreach-5f20779436915d00239d1112/board?repos=210915973 -- 
+- Groups.io -- mailing lists for announcements, working groups, cross-pollination, project management, training, and other organizational groups
+- Wordpress -- website hosting/maintenance
+-
+## Auxiliary Websites (free)
 - WhenIsGood: https://whenisgood.net/ -- scheduling, piloting for replacing Doodle
 - Canva: https://www.canva.com/ -- making ads
-- EasyRetro (collab meeting tool) : https://easyretro.io/
-- Twitter (communication): https://twitter.com/CfdeNih
+- EasyRetro : https://easyretro.io/ -- collaborative meeting tool
+- Twitter : https://twitter.com/CfdeNih -- communication/advertising
 - Doodle (scheduling)
-- Loom (video making)
 - Aggie Video (Kaltura)
 - HackMD (draft documents)
-- Groups.io (email)
 - Wordpress (website)
