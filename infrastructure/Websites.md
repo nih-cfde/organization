@@ -14,7 +14,7 @@
 
 - GitHub https://github.com/nih-cfde	
 - Google Drive https://drive.google.com/drive/u/1/folders/0ALAyQumxL5IgUk9PVA	-- google drive access
-- Groups.io https://cfde.groups.io/g/General -- mailing lists for announcements, working groups, cross-pollination, project management, training, and other organizational groups	
+- Groups.io https://cfde.groups.io/g/General -- mailing lists/notifications
 - Jira/Atlassian: https://cfde.atlassian.net/jira/your-work	-- support and training helpdesks
 - Matomo: https://nihcfde.matomo.cloud/ -- CFDE website analytics
 - Otter.ai: https://otter.ai/	-- transcription for Zoom meetings
