@@ -53,7 +53,7 @@ This page is for changing GitHub notification and other settings. For help with 
 #### Glossary
 
 - Organization: Our GitHub Organization is https://github.com/nih-cfde This is the location on the web where you can access all of the CFDE github repositories. We also have an 'organization' repository, which is a folder that contains all the meta information about our Organization
-- Repository: Each repository or 'repo' is a self-contained collection of documents and code. There can be any number of repositories in our Organization, and anyone in our group can make a new repository. See the [New Repository Guidelines](NewRepositoryGuide.md) for more info
+- Repository: Each repository or 'repo' is a self-contained collection of documents and code. There can be any number of repositories in our Organization, and anyone in our group can make a new repository. See the [New Repository Guidelines](projectmanagement/NewRepositoryGuide.md) for more info
 - Team: Each member of our Organization will be assigned to one or more Teams. The Team(s) you are in determine what repositories you have edit access for. By default everyone has at least read access to all CFDE repositories. Teams can also be tagged into conversations and have other useful features. Anyone in our group can make new teams. 
 - Pull Request: A Pull Request or 'PR' is the main way to share your own edits to documents in a repository
 - Branch: Since many people might work on a document simultanously, when anyone makes an edit to a document GitHub makes that change on a different 'branch', so each person can make their own changes and then submit their version to the group for approval via a Pull Request
