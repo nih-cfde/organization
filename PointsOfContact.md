@@ -75,7 +75,6 @@ points of contact.
 | Principal Investigator | Nils Gehlenborg | nils@hms.harvard.edu |
 | Principal Investigator | Mark Musen | musen@stanford.edu |
 | Principal Investigator | Jonathan Silverstein | j.c.s@pitt.edu |
-| Project Manager | Kevin Hanshaw | kjhanshaw@psc.edu |  |
 
 ## IDG
 
