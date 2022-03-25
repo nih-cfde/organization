@@ -52,7 +52,7 @@ You have been added to Admin. You will have:
 
 You can access these groups in your google drive under Team Drives 
 
-If you have any problems, please email our help desk mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io 
+If you have any problems, please email our help desk mailto:support@cfde.atlassian.net
 
 - CFDE Onboarding Team
 ```
