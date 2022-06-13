@@ -81,9 +81,7 @@ points of contact.
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
 | Principal Investigator | Avi Maayan | avi.maayan@mssm.edu |
-| Principal Investigator | Tudor Oprea | toprea@salud.unm.edu |
 | Principal Investigator | Christophe Lambert | cglambert@salud.unm.edu | ChristopheLambert
-| Project Manager        | Jessica Binder | jmaine85@salud.unm.edu |  |
 
 ## Kesselman Group
 
