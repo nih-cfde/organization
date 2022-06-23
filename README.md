@@ -1,9 +1,5 @@
 # CFDE Organizational Resources
 
-This is the central organizational repository for the Common Fund Data Ecosystem. To modify or update this repository you can create a pull
-request, file an issue, or [e-mail us](mailto:support@cfde.atlassian.net) with your
-request.
-
 ## Onboarding
 
 New members *must* fill out [this onboarding form](https://forms.gle/H3ThBxzYYHdauaKJ8) to gain access to our 
