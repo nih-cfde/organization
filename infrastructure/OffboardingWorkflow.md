@@ -1,9 +1,22 @@
 # Workflow for offboarding members from services (requires admin rights to all resources)
 
-To offboard ,a member (or someone from their team) must:
- - Fill out the [offboarding form](https://forms.gle/Gb5H6CAYCd8iVYKG8)
+To offboard, a member (or someone from their team) must:
+ - Fill out the [offboarding form](https://www.nih-cfde.org/offboarding-form/) on the CFDE website.
  
  We track those events, as well as our progress in adding them to our resources [here](https://docs.google.com/spreadsheets/d/1bY-P5ZrIOPDrDpzlXNrDnV96XqOnV_X9z9ur7t9Qkhk/edit?usp=sharing).
+
+1) Login to the NIH-CFDE Administration Dashboard. (You must be an Administrator user to do this)
+2) On the left menu option, select Forminator.
+3) Select the submenu option, Submissions.
+4) Use the two select options on the [Show Submissions] line and select [Forms] together with the form of choice. Once selected, click [Show Submissions].
+5) You will see all Submissions on this form. These may be exported by clicking the [Export] option to the far right (on the same line).
+6) A dialog will appear allowing you either schedule an export, or do a manual export.
+7) Select [Download CSV] which is part of the Manual Exports option.
+8) A .CSV file will be downloaded to your computer. This may be opened locally and viewed using Excel or equivalent spreadsheet viewer (depending on your computer).
+9) After exporting the form information, click the X option or Cancel option to make the export option disappear.
+10) You may logoff to end your session.
+11) The CSV downloaded information may be manually added to the respective Google Form sheet that contains the similar information recorded by the Google Forms that also exist to support site operations.
+
 
 ## Offboarding Overview
 The Offboarding form will send notifications to coordination@CFDE.groups.io whenever the form is filled out. To request being added to coordination mailing list and receive notifications, send your request to the [helpdesk](mailto:coordination+int+1482+3914664481228082529@CFDE.groups.io).
