@@ -17,7 +17,8 @@ A member of the coordination mailing list should begin the onboarding process fo
 Note: The original CFDE Offboarding form will send notifications to coordination@CFDE.groups.io whenever the form is filled out. To request being added to coordination mailing list and receive notifications, send your request to the [coordination mail list](mailto:coordination+int+1482+3914664481228082529@CFDE.groups.io). Responses should populate to the [Google sheet](https://docs.google.com/spreadsheets/d/1bY-P5ZrIOPDrDpzlXNrDnV96XqOnV_X9z9ur7t9Qkhk/edit?usp=sharing). For tracking, these entries should be replicated on the Wordpress form on the website. 
 
 ## Offboarding Walkthrough
- 
+The complete offboarding for a member you must first access the offboard details:
+
 1) Login to the [NIH-CFDE Administration Dashboard](https://www.nih-cfde.org/wp-admin/index.php). (You must be an Administrator user to do this)
 2) On the left menu option, select **Forminator**.
 3) Select the submenu option, **Submissions**.
