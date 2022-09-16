@@ -1,7 +1,7 @@
 # Workflow for offboarding members from services (requires admin rights to all resources)
 
 To offboard, a member (or someone from their team) must:
- - Fill out the [offboarding form](https://www.nih-cfde.org/offboarding-form/) on the CFDE website.
+ - Fill out the [offboarding form](https://www.nih-cfde.org/offboarding-form/) on the CFDE website (login required).
  
  We track those events, as well as our progress in adding them to our resources [here](https://docs.google.com/spreadsheets/d/1bY-P5ZrIOPDrDpzlXNrDnV96XqOnV_X9z9ur7t9Qkhk/edit?usp=sharing).
 
