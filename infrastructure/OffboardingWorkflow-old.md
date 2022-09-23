@@ -1,11 +1,12 @@
 # Workflow for offboarding members from services (requires admin rights to all resources)
-To offboard, a member (or someone from their team) must:
- - Fill out the [offboarding form](https://www.nih-cfde.org/offboarding-form/) on the CFDE website (login required).
+
+To offboard ,a member (or someone from their team) must:
+ - Fill out the [offboarding form](https://forms.gle/Gb5H6CAYCd8iVYKG8)
  
-We track those events, as well as our progress in adding them to our resources [here](https://docs.google.com/spreadsheets/d/1bY-P5ZrIOPDrDpzlXNrDnV96XqOnV_X9z9ur7t9Qkhk/edit?usp=sharing).
+ We track those events, as well as our progress in adding them to our resources [here](https://docs.google.com/spreadsheets/d/1bY-P5ZrIOPDrDpzlXNrDnV96XqOnV_X9z9ur7t9Qkhk/edit?usp=sharing).
 
 ## Offboarding Overview
-Offboard requests are handled by the [offboarding form](https://www.nih-cfde.org/offboarding-form/) on the [CFDE Website](https://www.nih-cfde.org/). Responses are recorded and sent to the [CFDE HelpDesk](support@cfde.atlassian.net).
+The Offboarding form will send notifications to coordination@CFDE.groups.io whenever the form is filled out. To request being added to coordination mailing list and receive notifications, send your request to the [helpdesk](mailto:coordination+int+1482+3914664481228082529@CFDE.groups.io).
 
 A member of the coordination mailing list should begin the onboarding process for new forms *within 2 business days*. Full onboarding for each person is a typically a multi-day process, and can be done by multiple memebers of the coordination team, because we have to wait for each new onboardee to accept the invitations. The basic workflow is:
 
@@ -14,24 +15,14 @@ A member of the coordination mailing list should begin the onboarding process fo
   - Remove them from GitHub
   - Add their name to the "Goodbye" list in the Weekly Announcements
 
-Note: The original CFDE Offboarding form will send notifications to coordination@CFDE.groups.io whenever the form is filled out. To request being added to coordination mailing list and receive notifications, send your request to the [coordination mail list](mailto:coordination+int+1482+3914664481228082529@CFDE.groups.io). Responses should populate to the [Google sheet](https://docs.google.com/spreadsheets/d/1bY-P5ZrIOPDrDpzlXNrDnV96XqOnV_X9z9ur7t9Qkhk/edit?usp=sharing). For tracking, these entries should be replicated on the Wordpress form on the website. 
-
 ## Offboarding Walkthrough
-The complete offboarding for a member you must first access the offboard details:
-
-1) Login to the [NIH-CFDE Administration Dashboard](https://www.nih-cfde.org/wp-admin/index.php). (You must be an Administrator user to do this)
-2) On the left menu option, select **Forminator**.
-3) Select the submenu option, **Submissions**.
-4) Use the two select options on the [Show Submissions] line and select [Forms] together with the form of choice. Once selected, click [Show Submissions].
-5) You will see all Submissions on this form. These may be exported by clicking the [Export] option to the far right (on the same line).
-6) Select [Download CSV] which is part of the Manual Exports option.
-7) A .CSV file will be downloaded to your computer. This may be opened locally and viewed using Excel or equivalent spreadsheet viewer (depending on your computer).
-8) After exporting the form information, click the X option or Cancel option to make the export option disappear.
-9) The CSV downloaded information may be manually added to the respective [Google Form sheet](https://docs.google.com/spreadsheets/d/1bY-P5ZrIOPDrDpzlXNrDnV96XqOnV_X9z9ur7t9Qkhk/edit?usp=sharing) that contains the similar information recorded by the Google Forms that also exist to support site operations.   
-
-After acquiring the details for the person to offboard, navigate to the [Offboarding Reponses Google Sheet](https://docs.google.com/spreadsheets/d/1bY-P5ZrIOPDrDpzlXNrDnV96XqOnV_X9z9ur7t9Qkhk/edit?usp=sharing). You will need to use the information found on the dashboard to fill out the new offboard at the bottom of this form where you can also track required steps for offboarding by ticking the checkboxes. Offboarding tasks should be completed (or checked up on) from left to right for each individual.
+To offboard members, first navigate to the [Offboarding Reponses Google Sheet](https://docs.google.com/spreadsheets/d/1bY-P5ZrIOPDrDpzlXNrDnV96XqOnV_X9z9ur7t9Qkhk/edit?usp=sharing).
+Individuals who have newly requested offboarding will not have data in the first four columns of the spreadsheet. Partially offboarded members will have some data.
+  
+Offboarding tasks should be completed (or checked up on) from left to right for each individual.
 
 ### Google Group removal
+
   If 'Removed from Google Group?' is unchecked:
    - Get the name of the person to be offboarded from column G
    - Find their name in the [Onboarding Responses form](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing)
@@ -50,7 +41,13 @@ After acquiring the details for the person to offboard, navigate to the [Offboar
    - Click the `Comment` button
    - Check the 'Removed from Google Group?' box for each person you removed
    
+### Master Contact list removal
+
+Deprecate the user from our [master list](https://docs.google.com/spreadsheets/d/1niqenLvLLN38Tfz2IXOaKum4Bo0N2m0HxM33X3E2pf8/edit?usp=sharing
+). 
+
 ### Groups.io space removal
+
  If 'Removed from Groups.io?' is unchecked:
   - Copy their email from column I of the [Onboarding Responses form](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing)
    - Go to https://cfde.groups.io/g/General/members
@@ -62,6 +59,7 @@ After acquiring the details for the person to offboard, navigate to the [Offboar
   - Repeat steps for Cross-Pollination group: https://cfdepublic.groups.io/g/CrossPollinationEvents  
   
 ### GitHub removal
+
   If 'Removed from Github?' is unchecked:
   - Copy their GitHubID from column N of the [Onboarding Responses form](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing)
   - Note their Title/Position from column P and affiliation from column O of the [Onboarding Responses form](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing)
@@ -75,10 +73,14 @@ After acquiring the details for the person to offboard, navigate to the [Offboar
   - Click the 'Removed from Slack?' box for each removed member on the [CFDE Offboarding form](https://docs.google.com/spreadsheets/d/1bY-P5ZrIOPDrDpzlXNrDnV96XqOnV_X9z9ur7t9Qkhk/edit#gid=1873329009) form. 
  
 ### Special removals for PMs, PIs and Admin contacts
+
 If the person you are offboarding is a PI, PM or Administrative contact for *any* team, they may need to be removed from the [Points of Contact](https://github.com/nih-cfde/organization/blob/master/PointsOfContact.md) list:
   - Navigate to [Points of Contact](https://github.com/nih-cfde/organization/blob/master/PointsOfContact.md) on GitHub
   - If the person is listed, use the edit feature to remove them and issue a pull request. For help with pull requests, see the [GitHub Usage Guide](./GitHubUsage.md)
 
 ### Last step 
   - Go to the [Onboarding Reponses Google Sheet](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing) and enter the date you offboarded the member in the offboarding column.
+
+   
+  
 
