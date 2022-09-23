@@ -73,11 +73,6 @@ If you have any problems, please email our help desk mailto:support@cfde.atlassi
 - CFDE Onboarding Team
 ```
 
-### Master Contact list
-
-Add the name, contact e-mail, organization, and job title to our [master list](https://docs.google.com/spreadsheets/d/1niqenLvLLN38Tfz2IXOaKum4Bo0N2m0HxM33X3E2pf8/edit?usp=sharing
-).
-
 ### Slack space adds
 
 As of 7/15/2019 new members are automatically sent a Slack invitation by Groups.io
