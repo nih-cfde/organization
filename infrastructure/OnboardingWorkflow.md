@@ -18,11 +18,11 @@ A member of the coordination team should begin the onboarding process for new fo
   - Wait for them to accept the invitations
 
 ## Onboarding Walkthrough
-To onboard new members, or to continue boarding partially onboarded members, first navigate to the [Onboarding Reponses Google Sheet](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing).
-  Individuals who have newly requested onboarding will not have checks in the first six columns of the spreadsheet. Partially onboarded members will have some boxes checked.
-  
-  Onboarding tasks should be completed (or checked up on) from left to right for each individual.
+To onboard new members you will need to go to the [Forminator plug-in](https://www.nih-cfde.org/wp-admin/admin.php?page=forminator-entries) on the CFDE Wordpress site. Here you can view the most recent onboards with date submitted. By selecting submissions you can view the entries made for onboarded individuals. 
+Alternatively, you may select **Export** and download a CSV for all submissions. In either case you will need to copy the relevant details and transfer them to the [Onboarding Reponses Google Sheet](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing) where you will begin the onboarding process. 
 
+On this sheet, partially onboarded members will have some boxes checked. Onboarding tasks should be completed (or checked up on) from left to right for each individual.
+  
 ### Google Group adds
 
   If 'Added to Google Group?' is unchecked:
