@@ -15,11 +15,11 @@
 
 ### Personnel
 
-Have a *new* team member? Send them to the [Onboarding form](https://forms.gle/H3ThBxzYYHdauaKJ8).
+Have a *new* team member? Qualified members can sponsor new members by entering new member details in the [Onboarding Form]( https://www.nih-cfde.org/onboarding-form/) on the [CFDE Website](https://www.nih-cfde.org/).
 
-Have an *exiting* team member? Send them to the [Offboarding form](https://forms.gle/TQMmwvSGaDCFuVXP9).
+Have an *exiting* team member? The CFDE [Offboarding form](https://www.nih-cfde.org/offboarding-form/) must be filled out for the offboarding member.
 
-If you have a team member who needs to *alter* access levels or affiliations please have them use the link in their Onboarding form Confirmation email to update their Onboarding Form. They can also edit their Onboarding info by going to the [Onboarding form](https://forms.gle/H3ThBxzYYHdauaKJ8) while signed in to Google with the email they originally used to Onboard. Please [email the helpdesk](mailto:coordination+int+1481+4810093048235559374@CFDE.groups.io) after changing your form to ensure any changes are propagated through the CFDE system.
+If you have a team member who needs to *alter* access levels or affiliations please please [email the helpdesk](support@cfde.atlassian.net) with relevant details.
 
 You can check the onboarding status of any CFDE member by finding their name here [Onboarded CFDE Members](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing).
 
