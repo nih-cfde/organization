@@ -2,8 +2,7 @@
 
 We use groups.io for our mailing lists. We are CFDE@groups.io 
 
-To join the group you *must* have filled out the [onboarding form](https://forms.gle/H3ThBxzYYHdauaKJ8). 
-Once you have completed the onboarding form you will be automatically added to the general mailing list, 
+To join the group you *must* be onboarded to be be automatically added to the general mailing list, 
 as well as any you requested.
 
 You can visit our group, start reading messages and posting them here: https://groups.io/g/CFDE
