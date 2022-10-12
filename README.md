@@ -2,8 +2,8 @@
 
 ## Onboarding
 
-New members *must* fill out [this onboarding form](https://forms.gle/H3ThBxzYYHdauaKJ8) to gain access to our 
-GitHub, mailing list, calendars and other internal documents. A more detailed introduction and onboarding instructions can be found at the [Welcome to the CFDE](https://cfde-welcome-to-cfde.readthedocs-hosted.com/en/master/) web page.
+New members *must* be formally onboarded to gain access to our 
+GitHub, mailing list, calendars and other internal documents. Qualified members can sponsor new members by entering new member details in the [Onboarding Form]( https://www.nih-cfde.org/onboarding-form/) on the [CFDE Website](https://www.nih-cfde.org/). A more detailed introduction and onboarding instructions can be found at the [Welcome to the CFDE](https://cfde-welcome-to-cfde.readthedocs-hosted.com/en/master/) web page.
 
 If you are having trouble accessing something you believe you should have access to, please visit our
 [Onboarding Help](OnboardingHelp.md) page or 
