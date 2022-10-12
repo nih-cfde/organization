@@ -38,7 +38,7 @@ If changes are needed, please contact Bob Carter (rlc.dcppc@gmail.com) to discus
 
 *   This GitHub project shows [current deliverable tasks](https://github.com/orgs/nih-cfde/projects/1) that comprise our current ‘focus’ within the CFDE-CCs. We’re using an Agile approach for program management.
 
-*   This [compilation of Gantt charts](https://nih-cfde.github.io/planning-docs/) shows current progress on CFDE Coordination Center deliverables.
+*   This [compilation of 2020 Gantt charts](https://nih-cfde.github.io/planning-docs/) shows CFDE Coordination Center deliverables from 2020.
 
 *   The [CFDE-CC calendar](https://cfde.groups.io/g/General/calendar) within groups<span>.io</span> shows upcoming meetings and special events.
 
