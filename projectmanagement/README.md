@@ -40,6 +40,6 @@ If changes are needed, please contact Bob Carter (rlc.dcppc@gmail.com) to discus
 
 *   This [compilation of 2020 Gantt charts](https://nih-cfde.github.io/planning-docs/) shows CFDE Coordination Center deliverables from 2020.
 
-*   The [CFDE-CC calendar](https://cfde.groups.io/g/General/calendar) within groups<span>.io</span> shows upcoming meetings and special events.
+*   The [CFDE Events calendar](https://www.nih-cfde.org/events/) shows upcoming meetings and special events.
 
 *   A list of all [CFDE-CC deliverables submitted](https://github.com/nih-cfde/deliverables) to the NIH can be seen in this GitHub repository. 
