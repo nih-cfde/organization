@@ -28,6 +28,8 @@ Contribute links and other announcements to our consortium summary email by repl
 
 [Markdown Help](MarkdownHelp.md): CFDE produced primer on using markdown; necessary for adding and editing docs on CFDE platforms (GitHub/Website).
 
+Slack: We have about 40 public Slack channels that you can join. You can explore all the channels by hovering over “Channel” in the slide bar and clicking the “+” to “Browse Channels”. You can invite someone to a channel by mentioning them with an @. A messages are saved, but click the "Pinned" button to view important messages that have been saved for easy viewing.
+
 ## Code of Conduct
 
 Activities and participants in this repository are protected by the
