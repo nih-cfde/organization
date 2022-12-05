@@ -2,7 +2,7 @@
 
 ## Onboarding
 
-We have transitioned to a new onboarding system for the CFDE. New members will need a member sponsor to fill out the [onboarding form](https://www.nih-cfde.org/onboarding-form/) after logging on to the [CFDE Website](https://www.nih-cfde.org/). The new member will then need to accept the invitations to Slack, GitHub, Google Groups, and Groups.io to complete the onboarding process. 
+New members will need a member sponsor to fill out the [onboarding form](https://www.nih-cfde.org/onboarding-form/) after logging on to the [CFDE Website](https://www.nih-cfde.org/). The new member will then need to accept the invitations to Slack, GitHub, Google Groups, and Groups.io to complete the onboarding process. 
 
 If you are having trouble accessing something you believe you should have access to, please
 email the [HelpDesk](mailto:support@cfde.atlassian.net).
