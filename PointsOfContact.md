@@ -80,8 +80,8 @@ points of contact.
 
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
-| Principal Investigator | Avi Maayan | avi.maayan@mssm.edu |
 | Principal Investigator | Christophe Lambert | cglambert@salud.unm.edu | ChristopheLambert
+| Project Manager        | Jeremy Yang | jeremyjyang@gmail.com | jeremyjyang
 
 ## Kesselman Group
 
