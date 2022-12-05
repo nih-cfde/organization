@@ -9,7 +9,7 @@ email the [HelpDesk](mailto:support@cfde.atlassian.net).
 
 ## Offboarding
 
-Are you or a team member leaving the CFDE? The departing member should fill out the CFDE [Offboarding form](https://forms.gle/TQMmwvSGaDCFuVXP9).
+Are you or a team member leaving the CFDE? The CFDE [Offboarding form](https://www.nih-cfde.org/offboarding-form/) must be filled out for the offboarding member. 
 
 ## General Resources
 

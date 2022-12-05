@@ -1,16 +1,16 @@
 # Workflow for onboarding new members to services (requires admin rights to all resources)
 
 To fully onboard, a new member must:
- - Fill out the onboarding form
+ - Have a PI or PM fill out the onboarding [form](https://www.nih-cfde.org/onboarding-form/)
  - Accept our GitHub invite
  - Accept our Slack invite
  
  We track those events, as well as our progress in adding them to our resources [here](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing).
 
 ## Onboarding Overview
-The Onboarding form will send notifications to coordination@CFDE.groups.io whenever the form is filled out. To request being added to coordination mailing list and receive notifications, send your request to the [helpdesk](mailto:coordination+int+1481+4810093048235559374@CFDE.groups.io).
+The Onboarding form will send notifications to support@cfde.atlassian.net whenever the form is filled out. 
 
-A member of the coordination mailing list should begin the onboarding process for new forms *within 2 business days*. Full onboarding for each person is a typically a multi-day process, and can be done by multiple members of the coordination team, because we have to wait for each new onboardee to accept the invitations. The basic workflow is:
+A member of the coordination team should begin the onboarding process for new forms *within 2 business days*. Full onboarding for each person is a typically a multi-day process, and can be done by multiple members of the coordination team, because we have to wait for each new onboardee to accept the invitations. The basic workflow is:
   
   - Add them to our Google Group, and send them an invitation GitHub
   - Add them to the correct mailing lists
@@ -18,11 +18,11 @@ A member of the coordination mailing list should begin the onboarding process fo
   - Wait for them to accept the invitations
 
 ## Onboarding Walkthrough
-To onboard new members, or to continue boarding partially onboarded members, first navigate to the [Onboarding Reponses Google Sheet](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing).
-  Individuals who have newly requested onboarding will not have checks in the first six columns of the spreadsheet. Partially onboarded members will have some boxes checked.
-  
-  Onboarding tasks should be completed (or checked up on) from left to right for each individual.
+To onboard new members you will need to go to the [Forminator plug-in](https://www.nih-cfde.org/wp-admin/admin.php?page=forminator-entries) on the CFDE Wordpress site. Here you can view the most recent onboards with date submitted. By selecting submissions you can view the entries made for onboarded individuals. 
+Alternatively, you may select **Export** and download a CSV for all submissions. In either case you will need to copy the relevant details and transfer them to the [Onboarding Reponses Google Sheet](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing) where you will begin the onboarding process. 
 
+On this sheet, partially onboarded members will have some boxes checked. Onboarding tasks should be completed (or checked up on) from left to right for each individual.
+  
 ### Google Group adds
 
   If 'Added to Google Group?' is unchecked:
