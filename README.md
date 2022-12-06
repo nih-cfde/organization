@@ -26,6 +26,24 @@ Contribute links and other announcements to our consortium summary email by repl
 
 [Markdown Help](MarkdownHelp.md): CFDE produced primer on using markdown; necessary for adding and editing docs on CFDE platforms (GitHub/Website).
 
+[Deliverables](https://github.com/nih-cfde/deliverables/): A repository for tracking deliverables
+
+## Technical Resources
+
+[CFDE Search Portal](https://app.nih-cfde.org/): Find files, biosamples, subjects, genes, proteins, diseases, and compounds associated with Common Fund data sets 
+
+[Update Content Registry](https://github.com/nih-cfde/update-content-registry): A repository with scripts and workflows to build and update the CFDE search portal content registry
+
+[Knowledge Base Deposit](https://github.com/nih-cfde/knowledge-base-deposit): A scratch pad repository for adding content to the registry 
+
+[Documentation](https://docs.nih-cfde.org/en/latest/): Documentation for the Cross Cut Meta Data Model (C2M2), portal submissions, and the FAIR cookbook
+
+## Training Resources
+
+[Training Website](https://training.nih-cfde.org/en/latest/): A collection of tutorials, vidoes, and other resources for learning how to perform bioinformatic analyses and access data
+
+[Portal User Guide](https://docs.nih-cfde.org/en/latest/about/portalguide/): A tutorial describing the features and basic navigation of the CFDE search portal
+
 ## Code of Conduct
 
 Activities and participants in this repository are protected by the
