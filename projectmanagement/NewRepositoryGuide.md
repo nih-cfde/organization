@@ -70,7 +70,7 @@ If the repository will not host much code, consider whether a mailing list or Sl
       - <https://github.com/nih-cfde/announcements>
       - <https://github.com/nih-cfde/organization>
 
-**7) Add a `CONTRIBUTING.md` , `LICENSE.md` and `CODEOFCONDUCT.md` files
+**7) Add a `CONTRIBUTING.md` , `LICENSE.md` and `CODEOFCONDUCT.md` files**
 
   - Sample [CONTRIBUTING.md](../CONTRIBUTING.md)
   - Sample [LICENSE.md](../LICENSE.md)
