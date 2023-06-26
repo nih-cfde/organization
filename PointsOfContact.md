@@ -135,7 +135,7 @@ points of contact.
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
 | Principal Investigator | Matthew Wheeler | <wheelerm@stanford.edu> |
-
+| Principal Investigator | Euan Ashley | <euan@stanford.edu> |
 
 ## NIH
 
