@@ -18,8 +18,6 @@ Contribute links and other announcements to our consortium summary email by repl
 
 [Communication Management Help](CommunicationManagementHelp.md): Resources for navigating Slack, GitHub, groups.<span></span>io and Google Drive.
 
-[Deliverables](https://github.com/nih-cfde/deliverables/): A repository for tracking deliverables
-
 [Mailing lists](MailingLists.md): A mail list guide with all of our current mailing lists.
 
 [Points of Contact](PointsOfContact.md): Admin and group points of contact. For a full CFDE directory see [Onboarded CFDE Members](https://docs.google.com/spreadsheets/d/16JcTqlkCRPqrSnykqshrVM2XLf_3HJJiPpAb7qBaOug/edit?usp=sharing).
