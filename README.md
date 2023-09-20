@@ -38,7 +38,7 @@ Contribute links and other announcements to our consortium summary email by repl
 
 [Markdown Help](/projectmanagement/MarkdownHelp.md): CFDE produced primer on using markdown; necessary for adding and editing docs on CFDE platforms (GitHub/Website).
 
-[Portal User Guide](https://docs.nih-cfde.org/en/latest/about/portalguide/): A tutorial describing the features and basic navigation of the CFDE search portal
+[Portal User Guide](https://docs.nih-cfde.org/en/latest/portalguide/): A tutorial describing the features and basic navigation of the CFDE search portal
 
 [Training Website](https://training.nih-cfde.org/en/latest/): A collection of tutorials, vidoes, and other resources for learning how to perform bioinformatic analyses and access data
 
