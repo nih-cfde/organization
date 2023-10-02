@@ -81,6 +81,7 @@ points of contact.
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
 | Principal Investigator | Christophe Lambert | cglambert@salud.unm.edu | ChristopheLambert
+| Principal Investigator | Jeremy Yang | jjyang@salud.unm.edu  | jeremyjyang
 | Project Manager        | Grace Faustino | gfaustino.unm@gmail.com  | gfaustino-unm
 
 ## Kesselman Group
