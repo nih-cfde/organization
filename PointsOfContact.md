@@ -18,14 +18,6 @@ points of contact.
 | ---------------------- | ------------- | ----------------------------- | --------------- |
 | Principal Investigator | Ari B Kahn    | akahn@tacc.utexas.edu	       | resglowing      |
 
-
-## Brown Group
-
-| Role                   | Name               | Email Address       | GitHub username |
-| ---------------------- | ------------------ | ------------------- | --------------- |
-| Principal Investigator | C. Titus Brown     | <titus@idyll.org>   | ctb             |
-| Project Manager       | Amanda Charbonneau | <achar@ucdavis.edu> | ACharbonneau    |
-
 ## ExRNA
 
 | Role                   | Name          | Email Address                 | GitHub username |
