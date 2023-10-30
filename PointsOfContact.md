@@ -94,6 +94,11 @@ points of contact.
 | Principal Investigator | Allison Heath | heathap@email.chop.edu | allisonheath |
 | Principal Investigator | Deanne Taylor | taylordm@email.chop.edu |
 
+## Knowledge Center
+| Role                  | Name          | Email Address                 | GitHub username |
+|---------------------- | ------------- | ----------------------------- | --------------- |
+| Principal Investigator | Jason Flannick | flannick@broadinstitute.org |
+
 ## KOMP
 
 | Role                   | Name          | Email Address                 | GitHub username |
