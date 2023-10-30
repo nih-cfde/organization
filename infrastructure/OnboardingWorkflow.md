@@ -30,10 +30,10 @@ On this sheet, partially onboarded members will have some boxes checked. Onboard
      - Note : If the e-mail is a commercial (.com) address, but not from a big service provider (gmail / hotmail) Google Groups may not give them access, the Onboarding Form recommends users give a non-commercial address, but it's good, as administrator, to be aware that you may need to ask them to change/create a different e-mail for full access. 
    - Note their Title/Position from column P and affiliation from column O
    - Decide what Google Permissions group to add them to:
-      - For members of Teams Brown or White **who are working on infrastructure or data access management**, ask Amanda and add them to [CFDE_Admin](https://groups.google.com/forum/#!managemembers/cfde_admin/add) only after her explicit approval
+      - For members **who are working on infrastructure or data access management**, add them to [CFDE_Admin](https://groups.google.com/forum/#!managemembers/cfde_admin/add) 
       - For everyone else, choose [CFDE_Everyone](https://groups.google.com/forum/#!managemembers/cfde_everyone/add)
    - (You can also reach those pages by going to [Google Groups](https://groups.google.com/forum/#!myforums), choosing 'Manage members' for the appropriate group, and then clicking 'Direct add members' on the left side of the screen.)
-   - Enter the email address of the person you want to onboard. If you have more than one to add to a given group, you can add multiple, comma-seperated, email addresses
+   - Enter the email address of the person you want to onboard. If you have more than one to add to a given group, you can add multiple, comma-separated, email addresses
    - Ensure that the welcome message box is filled correctly (see below), then click `Add` at the top of the screen
    - Check the 'Added to Google Group?' box for each person you added
 
