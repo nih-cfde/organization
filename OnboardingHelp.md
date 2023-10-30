@@ -7,7 +7,7 @@ We are using a number of services to communicate and share files:
   - Slack: Group chat, forum and instant private messaging
   
   
-To begin onboarding, you should fill out [this form](https://forms.gle/wsBAYevSQNVfG5eF9)
+To begin onboarding, you should fill out [this form](https://www.nih-cfde.org/onboarding-form/). In order to access the form you will need to have been onboarded and login to the [CFDE Website](https://www.nih-cfde.org/) where you will find the Onboarding Form under CFDE Members Home.
 
 Within 2 business days of submitting the onboarding form, you will receive 
 - an invitation to join the cfdeworkspace on Slack
