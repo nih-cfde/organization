@@ -11,19 +11,22 @@ points of contact.
 | Principal Investigator | Peter Park | <peter_park@hms.harvard.edu> | 
 | Project Manager | Andrew Schroeder | Andrew_Schroeder@hms.harvard.edu |
 
-
 ## A2CPS
 
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
 | Principal Investigator | Ari B Kahn    | akahn@tacc.utexas.edu	       | resglowing      |
+| Principal Investigator | Martin Lindquist | mlindquist@jhu.edu | 
+| Project Manager        | Vennela Gajjala | vgajjala@tacc.utexas.edu | 
 
 ## ExRNA
 
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
 | Principal Investigator | Aleksandar Milosavljevic | amilosav@bcm.edu |
+| Principal Investigator | Louise Laurent | llaurent@health.ucsd.edu |
 | Project Manager | Matt Roth | mattr@bcm.edu | 
+| Project Manager | Srimeenakshi (Meenu) Srinivasan | srs016@health.ucsd.edu | 
 
 ## Foster Group
 
@@ -98,6 +101,7 @@ points of contact.
 | Role                  | Name          | Email Address                 | GitHub username |
 |---------------------- | ------------- | ----------------------------- | --------------- |
 | Principal Investigator | Jason Flannick | flannick@broadinstitute.org |
+| Project Manager | Brandes MacKenzie | mbrandes@broadinstitute.org |
 
 ## KOMP
 
