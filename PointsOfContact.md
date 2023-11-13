@@ -98,10 +98,16 @@ points of contact.
 | Principal Investigator | Deanne Taylor | taylordm@email.chop.edu |
 
 ## Knowledge Center
+
 | Role                  | Name          | Email Address                 | GitHub username |
 |---------------------- | ------------- | ----------------------------- | --------------- |
 | Principal Investigator | Jason Flannick | flannick@broadinstitute.org |
-| Project Manager | Brandes MacKenzie | mbrandes@broadinstitute.org |
+| Principal Investigator | Kyle Gaulton| kgaulton@health.ucsd.edu |
+| Principal Investigator | Noel Burtt | burtt@broadinstitute.org |
+| Principal Investigator | Tim Tickle | ttickle@broadinstitute.org |
+| Project Manager | MacKenzie Brandes | mbrandes@broadinstitute.org |
+| Project Manager | Maria Costanzo | mariacos@broadinstitute.org |
+| Project Manager | Tiffany Miller | tiffanym@broadinstitute.org |
 
 ## KOMP
 
@@ -174,13 +180,6 @@ points of contact.
 | Principal Investigator | Jeffrey Grethe | <jgrethe@ucsd.edu> | jgrethe |
 | Principal Investigator | Maryann E Martone | <mmartone@ucsd.edu> | memartone |
 | Project Manager        | Jyl K Boline    | <jylboline@informedminds.info> | jylb |
-
-
-## Wagner Group
-| Role                   | Name          | Email Address                 | GitHub username |
-| ---------------------- | ------------- | ----------------------------- | --------------- |
-| Project Manager | Rick Wagner |  rpwagner@ucsd.edu   |  rpwagner |
-
 
 ## White Group
 
