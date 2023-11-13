@@ -39,6 +39,7 @@ points of contact.
 | Role                         | Name          | Email Address         | GitHub username |
 | ---------------------------- | ------------- | --------------------- | --------------- |
 | Principal Investigator       | Raja Mazumder | mazumder@gwu.edu      |                 |
+| Project Manager | Jeet Vora | jeetvora@gwmail.gwu.edu | jeet-vora
 
 ## GTEx
 
@@ -150,10 +151,12 @@ points of contact.
 
 | Role                   | Name            | Email Address             | GitHub username |
 | ---------------------- | --------------  | ------------------------- | --------------- |
-| Program Officer        | George Papnicolau  | <gjp@nih.gov> |  |
+| Program Officer        | George Papanicolaou  | <gjp@nih.gov> |  |
 | Program Officer    | Haluk Resat     | <haluk.resat@nih.gov> |  hresat    |
 | Program Officer    | Chris Kinsinger | <kinsingc@mail.nih.gov> | kingsingc |
 | Program Officer | Christy Kano | <christy.kano@nih.gov> |
+| Program Officer | Anthony Kirilusha | anthony.kirilusha@nih.gov |
+| Program Offier | Sahana Kukke | <sahana.kukke@nih.gov> |
 
 
 ## RTI Group
