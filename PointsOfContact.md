@@ -72,6 +72,14 @@ points of contact.
 | Principal Investigator | Mark Musen | musen@stanford.edu |
 | Principal Investigator | Jonathan Silverstein | j.c.s@pitt.edu |
 
+## ICC
+
+| Role                   | Name          | Email Address                 | GitHub username |
+| ---------------------- | ------------- | ----------------------------- | --------------- |
+| Principal Investigator | Jake Chen | jakechen@uab.edu |  |
+| Projece Manager | Swathi Thaker | snthaker@uab.edu |  |
+
+
 ## IDG
 
 | Role                   | Name          | Email Address                 | GitHub username |
