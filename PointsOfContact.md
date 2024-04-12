@@ -77,7 +77,9 @@ points of contact.
 | Role                   | Name          | Email Address                 | GitHub username |
 | ---------------------- | ------------- | ----------------------------- | --------------- |
 | Principal Investigator | Jake Chen | jakechen@uab.edu |  |
-| Projece Manager | Swathi Thaker | snthaker@uab.edu |  |
+| Principal Investigator | Peipei Ping | pping38@g.ucla.edu |
+| Project Manager | Swathi Thaker | snthaker@uab.edu |  |
+| Project Manager | Ding 'Dean' Wang | dingwang@g.ucla.edu | DeanWang-UCLA
 
 
 ## IDG
